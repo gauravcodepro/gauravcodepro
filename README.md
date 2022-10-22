@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Gaurav Sablok
 #### This is my Github account
-![This is my Github account](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![This is my Github account](https://www.linkedin.com/in/gaurav-sablok-2811n/)
 
 My research is focused on Sequencing and Bioinformatics and the field of first preference plants, bacterial, and fungal genomics, and interested in new domains. I work in all aspects of plant science from sequencing to bioinformatics, genomics and bioinformatics workflows, and analytical pipelines. In the case of bacterial and fungal-only genome assembly and bioinformatics. Currently, I am also learning data science to merge these emerging fields and build a strong foundation. I am open to all new ventures.
 I am trained as a plant biologist and as a bioinformatician and have extensive experience in molecular biology, bioinformatics, and biological mining of large-scale datasets to mine the functional information, which can elucidate the genetics and genomics in the crop, model, and non-model plant species. In addition, I do genome analysis and comparative genomics in bacterial and fungal genomes and model and non-model plant species. 
