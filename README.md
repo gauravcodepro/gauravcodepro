@@ -13,18 +13,16 @@ My current lines of research and focus are:
 4. Business Analytics
 
 You can find me at the following professional web fronts 
-Loop Profile: http://loop.frontiersin.org/people/33293/overview
-ORCID:  https://orcid.org/my-orcid?orcid=0000-0002-4157-9405
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014
+![Loop Profile]: (http://loop.frontiersin.org/people/33293/overview)
+![ORCID]:  (https://orcid.org/my-orcid?orcid=0000-0002-4157-9405)
+![WOS]: (https://www.webofscience.com/wos/author/record/C-5940-2014)
+![Linkedln]:(https://www.linkedin.com/in/https://www.linkedin.com/in/gaurav-sablok-2811n//)
 
 Skills: Bash / Linux / Python / R / Bioinformatics / DevOPS/ Data Science / Cyber Analyst
 
 - 📫 How to reach me: Mail me at sablokg@gmail.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sablokg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gaurav-sablok-2811n//)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sablokg&show_icons=true)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sablokg&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sablokg)  
 
