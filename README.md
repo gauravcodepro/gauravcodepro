@@ -14,7 +14,7 @@ My current lines of research and focus are:
 
 You can find me at the following professional web fronts: 
 
-![Loop Profile]:http://loop.frontiersin.org/people/33293/overview
+!Loop Profile:http://loop.frontiersin.org/people/33293/overview
 [ORCID]: https://orcid.org/my-orcid?orcid=0000-0002-4157-9405
 [WOS]:https://www.webofscience.com/wos/author/record/C-5940-2014
 [Linkedln]:https://www.linkedin.com/in/gaurav-sablok-2811n/
