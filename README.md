@@ -19,7 +19,6 @@ You can find me at the following professional web fronts
 [Frontiers](http://loop.frontiersin.org/people/33293/overview)
 [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-4157-9405)
 [WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[Hashnode](https://gauravsablok.hashnode.dev/)
 [Github](https://github.com/sablokg)
 [LinkedIn](https://www.linkedin.com/in/gaurav-sablok-2811n/)
 
