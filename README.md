@@ -25,4 +25,5 @@ Skills: Bash / Linux / Python / R / Bioinformatics / DevOPS/ Data Science / Cybe
 
 [GitHub stats]: https://github-readme-stats.vercel.app/api?username=sablokg&show_icons=true   
 
-[Profile views]: https://gpvc.arturio.dev/sablokg  
+[Profile views] (https://gpvc.arturio.dev/sablokg)
+[Stats] (https://metrics.lecoq.io/insights/sablokg)
