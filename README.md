@@ -13,12 +13,8 @@ I am a highly motivated and skilled personnel actively involved in  Plant Bioinf
 [Github](https://github.com/sablokg)
 [LinkedIn](https://www.linkedin.com/in/gaurav-sablok-2811n/)
 
-
-Skills: Bash / Linux / Python / R / Bioinformatics / DevOPS/ Data Science / Cyber Analyst
-
 - 📫 How to reach me: Mail me at sablokg@gmail.com 
 
 [GitHub stats]: https://github-readme-stats.vercel.app/api?username=sablokg&show_icons=true   
-
 [Profile views] (https://gpvc.arturio.dev/sablokg)
 [Stats] (https://metrics.lecoq.io/insights/sablokg)
