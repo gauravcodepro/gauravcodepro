@@ -71,7 +71,7 @@ Bash | DJANGO | Machine Learning
 </div>
 <div>
   <div id="profile">
-      <a href="(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter">
+      <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter">
   </div>
  
 [ORCID](https://orcid.org/0000-0002-4157-9405)
