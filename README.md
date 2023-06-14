@@ -13,6 +13,13 @@ Data Engineering and Analyst | Python | Java | Scala |
 Bash | DJANGO | Machine Learning
 *Not available on Linkedin untill end July  2023
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sablokgaurav/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 [ORCID](https://orcid.org/0000-0002-4157-9405)
 [WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
 [Github](https://github.com/sablokgaurav)
