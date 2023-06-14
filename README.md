@@ -69,6 +69,10 @@ Bash | DJANGO | Machine Learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" **alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
+<div>
+  <div id="profile">
+      <a href="(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
+  </div>
  
 [ORCID](https://orcid.org/0000-0002-4157-9405)
 [WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
@@ -76,6 +80,6 @@ Bash | DJANGO | Machine Learning
 [Linkedln](https://www.linkedin.com/in/sablokgaurav/)
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
-[Profile](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+[Profile])
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
