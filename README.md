@@ -83,10 +83,4 @@ Bash | DJANGO | Machine Learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
 ![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-[GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=react-dark)
-[GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=react-dark)
-[Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)
-[Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=react-dark)
-[MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=react-dark)
-[API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=react-dark)
-[Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=react-dark)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=react-dark)
