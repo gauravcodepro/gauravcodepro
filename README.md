@@ -79,5 +79,5 @@ Bash | DJANGO | Machine Learning
 [Academia](https://up-za.academia.edu/GauravSablok)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
-[TopStats](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
 [Activity](https://github-readme-activity-graph.cyclic.app/graph?username={sablokgaurav}&theme={react-dark})
