@@ -71,7 +71,7 @@ Bash | DJANGO | Machine Learning
 </div>
 <div>
   <div id="profile">
-      <a href="(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter">
+      <a href="(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter">
   </div>
  
 [ORCID](https://orcid.org/0000-0002-4157-9405)
@@ -80,6 +80,5 @@ Bash | DJANGO | Machine Learning
 [Linkedln](https://www.linkedin.com/in/sablokgaurav/)
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
-[Profile])
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
