@@ -19,6 +19,20 @@ Bash | DJANGO | Machine Learning
   </a>
 </div>
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" **alt="SSH" width="40" height="40"/>>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>>&nbsp;
+</div>
 
 [ORCID](https://orcid.org/0000-0002-4157-9405)
 [WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
@@ -27,6 +41,7 @@ Bash | DJANGO | Machine Learning
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
 
-![sablokgaurav's Stats](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![sablokgaurav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight&hide_border=false)
-![sablokgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
+![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/languages.svg#gh-dark-mode-only)
