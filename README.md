@@ -19,6 +19,7 @@ Bash | DJANGO | Machine Learning
 [Linkedln](https://www.linkedin.com/in/sablokgaurav/)
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
+[![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sablokgaurav/">
@@ -81,7 +82,6 @@ Bash | DJANGO | Machine Learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
 [![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight)]
 [![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=tokyonight)]
-[![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
 [![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
 [![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=tokyonight)]
 [![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=tokyonight)]
