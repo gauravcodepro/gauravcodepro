@@ -13,6 +13,40 @@ Data Engineering and Analyst | Python | Java | Scala |
 Bash | DJANGO | Machine Learning
 *Not available on Linkedin untill end July  2023
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sablokgaurav/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src = " https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"
+  </a>
+</div>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" **alt="SSH" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+</div>
+
+ 
+[ORCID](https://orcid.org/0000-0002-4157-9405)
+[WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[Github](https://github.com/sablokgaurav)
+[Linkedln](https://www.linkedin.com/in/sablokgaurav/)
+[ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
+[Academia](https://up-za.academia.edu/GauravSablok)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
+![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 https://github-readme-streak-stats.herokuapp.com/?user={sablokgaurav}&theme={react-dark}
 https://github-profile-trophy.vercel.app/?username={sablokgaurav}&theme={react-dark}
 https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter
