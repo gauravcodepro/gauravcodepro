@@ -53,9 +53,6 @@ Bash | DJANGO | Machine Learning
   <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />"
   <img src = "https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />"
   <img src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />"
-  </a>
-  <a href = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"
-     </a>
 </div>
 
 <div>
@@ -79,6 +76,6 @@ Bash | DJANGO | Machine Learning
 [Linkedln](https://www.linkedin.com/in/sablokgaurav/)
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
-
+[Profile](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
