@@ -16,7 +16,7 @@ Bash | DJANGO | Machine Learning
 <div id="badges">
   <a href="https://www.linkedin.com/in/sablokgaurav/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"
+    <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
    <img src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />"
    <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />"
    <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />"
@@ -77,12 +77,11 @@ Bash | DJANGO | Machine Learning
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
 [![ProfileVisit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=highcontrast)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=highcontrast)]
-[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=highcontrast)]
-[![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=highcontrast)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
+[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight)]
+[![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=tokyonight)]
 [![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
-[![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=highcontrast)]
-[![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=highcontrast)]
-[![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=highcontrast)]
-
+[![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
+[![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=tokyonight)]
+[![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=tokyonight)]
