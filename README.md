@@ -5,6 +5,7 @@ I am a highly motivated and skilled personnel actively involved in Plant Bioinfo
 You can find me at the following professional web fronts
 
 Senior Postdoctoral Fellow
+Email: sablokg@gmail.com
 *Faculty of Natural and Agricultural Sciences*
 Room 7-35, Agricultural Sciences Building
 University of Pretoria, Private Bag X20
@@ -22,9 +23,6 @@ Bash | DJANGO | Machine Learning
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sablokgaurav&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&langs_count=5&theme=tokyonight)]()
 
-- 📫 How to reach me: Mail me at sablokg@gmail.com 
-
-[GitHub stats]: https://github-readme-stats.vercel.app/api?username=sablokg&show_icons=true   
-[Profile views] (https://gpvc.arturio.dev/sablokg)
-[Stats] (https://metrics.lecoq.io/insights/sablokg)
