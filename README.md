@@ -76,6 +76,13 @@ Bash | DJANGO | Machine Learning
 [Linkedln](https://www.linkedin.com/in/sablokgaurav/)
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
-[ProfileVisit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)
+[![ProfileVisit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
+[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=onedark)]
+[![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=onedark)]
+[![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
+[![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
+[![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=onedark)]
+[![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=onedark)]
+[![![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=onedark)]]
