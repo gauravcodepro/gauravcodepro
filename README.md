@@ -78,6 +78,6 @@ Bash | DJANGO | Machine Learning
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=react-dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=react-dark)]
-[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username={sablokgaurav}&theme={react-dark})]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
+[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=onedark)]
