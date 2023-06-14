@@ -17,6 +17,42 @@ Bash | DJANGO | Machine Learning
   <a href="https://www.linkedin.com/in/sablokgaurav/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"
+   <img src = "https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />""
+   <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />""
+   <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />""
+   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />"
+   <img src = "https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />"
+   <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />"
+   <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />"
+   <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />"
+  <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />"
+  <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" />"
+  <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />"
+  <img src = "https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />"
+  <img src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />"
   </a>
 </div>
 
@@ -47,11 +83,10 @@ Bash | DJANGO | Machine Learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
 ![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-https://github-readme-streak-stats.herokuapp.com/?user={sablokgaurav}&theme={react-dark}
-https://github-profile-trophy.vercel.app/?username={sablokgaurav}&theme={react-dark}
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter
-https://github-readme-stats.vercel.app/api/top-langs/?username={sablokgaurav}&theme={react-dark}
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={sablokgaurav}&theme={react-dark}
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sablokgaurav}&theme={react-dark}
-https://gists-readme.yizack.com/api?user={sablokgaurav}
-https://github-readme-activity-graph.cyclic.app/graph?username={sablokgaurav}&theme={react-dark}
+[GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=react-dark)
+[GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=react-dark)
+[Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)
+[Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=react-dark)
+[MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=react-dark)
+[API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=react-dark)
+[Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=react-dark)
