@@ -13,6 +13,13 @@ Data Engineering and Analyst | Python | Java | Scala |
 Bash | DJANGO | Machine Learning
 *Not available on Linkedin untill end July  2023
 
+[ORCID](https://orcid.org/0000-0002-4157-9405)
+[WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[Github](https://github.com/sablokgaurav)
+[Linkedln](https://www.linkedin.com/in/sablokgaurav/)
+[ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
+[Academia](https://up-za.academia.edu/GauravSablok)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/sablokgaurav/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -70,12 +77,6 @@ Bash | DJANGO | Machine Learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-[ORCID](https://orcid.org/0000-0002-4157-9405)
-[WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[Github](https://github.com/sablokgaurav)
-[Linkedln](https://www.linkedin.com/in/sablokgaurav/)
-[ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
-[Academia](https://up-za.academia.edu/GauravSablok)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
 [![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight)]
