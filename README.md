@@ -70,7 +70,6 @@ Bash | DJANGO | Machine Learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="SSH" **alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
-
  
 [ORCID](https://orcid.org/0000-0002-4157-9405)
 [WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
@@ -80,7 +79,5 @@ Bash | DJANGO | Machine Learning
 [Academia](https://up-za.academia.edu/GauravSablok)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sablokgaurav&theme=onedark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
 [TopStats](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[Toplangs](https://raw.githubusercontent.com/sablokgaurav/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 [Activity](https://github-readme-activity-graph.cyclic.app/graph?username={sablokgaurav}&theme={react-dark})
