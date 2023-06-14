@@ -85,4 +85,4 @@ Bash | DJANGO | Machine Learning
 [![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
 [![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=onedark)]
 [![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=onedark)]
-[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=onedark)]]
+[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=sablokgaurav&theme=onedark)]
