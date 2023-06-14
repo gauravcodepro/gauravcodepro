@@ -20,7 +20,6 @@ Bash | DJANGO | Machine Learning
 [ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
 [Academia](https://up-za.academia.edu/GauravSablok)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sablokgaurav&count_private=true&theme=tokyonight&showicons=true)]()
 ![sablokgaurav's Stats](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![sablokgaurav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight&hide_border=false)
 ![sablokgaurav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
