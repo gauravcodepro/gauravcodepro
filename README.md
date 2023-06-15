@@ -78,7 +78,6 @@ Bash | DJANGO | Machine Learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
 [![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight)]
 [![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=tokyonight)]
 [![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
