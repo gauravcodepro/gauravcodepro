@@ -79,4 +79,4 @@ Bash | DJANGO | Machine Learning
 [![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
 [![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=tokyonight)]
 [![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=tokyonight)]
-![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&projects=1&achievements=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Asia%2FCalcutta)
