@@ -70,9 +70,9 @@ Bash | DJANGO | Machine Learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=tokyonight)]
-[![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=tokyonight)]
-[![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=tokyonight)]
-[![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=tokyonight)]
-[![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=tokyonight)]
+[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=onedark)]
+[![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=onedark)]
+[![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
+[![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=onedark)]
+[![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=onedark)]
 ![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=South%20Africa)
