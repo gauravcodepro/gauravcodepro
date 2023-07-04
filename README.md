@@ -15,7 +15,6 @@ Academia : https://up-za.academia.edu/GauravSablok \
 Plant Bioinformatics | Illumina | PacBio | OxfordNanoPore | Transcriptomics | \
 Genomics | Metagenomics | DevOPS | Data Engineering and Analyst | \
 Python | R | Java | Scala | Bash | DJANGO | Machine Learning \
-*Not available on Linkedin untill end July  2023
 [Frontiers](https://loop.frontiersin.org/people/33293/overview)
 [ORCID](https://orcid.org/0000-0002-4157-9405)
 [WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
