@@ -64,4 +64,4 @@ Python | R | Java | Scala | Bash | DJANGO | Machine Learning \
 [![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark)]
 [![MasterStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sablokgaurav&theme=onedark)]
 [![API](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=onedark)]
-![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=South%20Africa)
+![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=South%20Africa)
