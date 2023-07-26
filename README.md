@@ -59,7 +59,7 @@ Python | R | Java | Scala | Bash | DJANGO | Machine Learning \
   <img src = "https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />"
 </div>
 
-[![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav)]
-[![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav)]
-[![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)]
+![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav)
+![GitProfile](https://github-profile-trophy.vercel.app/?username=sablokgaurav)
+![Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav)
 ![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=South%20Africa)
