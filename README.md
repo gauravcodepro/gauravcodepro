@@ -26,8 +26,6 @@ Python | R | Java | Scala | Bash | DJANGO | Machine Learning \
 [![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sablokgaurav/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
    <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />"
    <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />"
@@ -35,11 +33,9 @@ Python | R | Java | Scala | Bash | DJANGO | Machine Learning \
    <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />"
    <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />"
    <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />"
-  <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />"
   <img src = "https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />"
   <img src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />"
   <img src = "https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />"
-  <img src = "https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />"
   <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />"
   <img src = "https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" />"
   <img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />"
