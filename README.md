@@ -34,7 +34,6 @@ ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
   <img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />"
   <img src = "https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />"
   <img src = "https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />"
-  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />"
   <img src = "https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" />"
   <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />"
 </div>
