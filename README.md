@@ -13,13 +13,6 @@ WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
 ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
-[Frontiers](https://loop.frontiersin.org/people/33293/overview)
-[ORCID](https://orcid.org/0000-0002-4157-9405)
-[WOS](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[Github](https://github.com/sablokgaurav)
-[Linkedln](https://www.linkedin.com/in/sablokgaurav/)
-[ResearchGate](https://www.researchgate.net/profile/Gaurav-Sablok)
-[Academia](https://up-za.academia.edu/GauravSablok)
 [![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
 
 <div id="badges">
