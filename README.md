@@ -5,7 +5,7 @@ I have worked with large scale sequencing involving the assembly of the large ge
 In addition, I do genome analysis and comparative genomics in plant, bacterial and fungal genomes. I apply my knowledge and skills in the fields of molecular biology, bioinformatics, and biological data mining, which can be used to understand the biological basis. 
 
 At [University of Pretoria](https://www.up.ac.za), I work in the group of Thulani Makhalanyane, 
-[microbiome@UP](https://www.up.ac.za/microbiome) and [Faculty of Natural and Agricultural Sciences](https://www.up.ac.za/biochemistry-genetics-and-microbiology) \
+[microbiome@UP](https://www.up.ac.za/microbiome) and [Faculty of Natural and Agricultural Sciences](https://www.up.ac.za/biochemistry-genetics-and-microbiology) 
 
 You can find me at the following professional web fronts. \
 Gaurav Sablok \
@@ -20,7 +20,6 @@ WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
 ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
-[![Gitcounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{sablokgaurav}1212%2Fhit-counter)]
 
 <div id="badges">
     <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -46,4 +45,3 @@ ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
 </div>
 
 ![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav)
-![Metrics](https://metrics.lecoq.io/sablokgaurav?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=South%20Africa)
