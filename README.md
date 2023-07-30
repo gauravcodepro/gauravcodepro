@@ -19,7 +19,7 @@ ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
-ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
+ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok 
 
 <div id="badges">
     <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
