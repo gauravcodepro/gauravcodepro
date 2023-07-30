@@ -21,6 +21,20 @@ Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
 ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-4157-9405"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-4157-9405
+</a>
+
 <div id="badges">
     <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
    <img src = "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
