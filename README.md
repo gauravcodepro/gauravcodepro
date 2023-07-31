@@ -7,6 +7,8 @@ In addition, I do genome analysis and comparative genomics in plant, bacterial a
 At [University of Pretoria](https://www.up.ac.za), I work in the group of Thulani Makhalanyane, 
 [microbiome@UP](https://www.up.ac.za/microbiome) and [Faculty of Natural and Agricultural Sciences](https://www.up.ac.za/biochemistry-genetics-and-microbiology) 
 
+
+
 You can find me at the following professional web fronts. \
 Gaurav Sablok \
 Senior Postdoctoral Fellow \
@@ -19,7 +21,8 @@ ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
-ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok 
+ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
+Google Scholar : https://scholar.google.com/citations?hl=en&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate
 
 <div id="badges">
     <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
