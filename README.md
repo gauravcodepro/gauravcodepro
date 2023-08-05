@@ -1,4 +1,4 @@
-I am a highly motivated and skilled personnel actively involved in and work across Plant Bioinformatics | Illumina | PacBio | OxfordNanoPore | Transcriptomics | Genomics | Metagenomics | DevOPS | Data Engineering and Analyst and I use Python | R | Java | Scala | Bash | DJANGO | Machine Learning. 
+I am a highly motivated and skilled personnel actively involved in and work across Plant Bioinformatics | Illumina | PacBio | OxfordNanoPore | Transcriptomics | Genomics | Metagenomics | DevOPS | Data Engineering and Analyst | Machine Learning and I use Python | R | Bash.  
 
 I have worked with large scale sequencing involving the assembly of the large genomes, chloroplast genomes, bacterial genomes and fungal genomes using a wide variety of genomic technologies such as Illumina Seq, MiSeq, NextSeq, PacBio, Oxford Nanopore. I am involved in all facets of plant research, including genetics, bio-informatics. I have extensive experience in molecular biology, bioinformatics, and biological mining of large-scale data-sets and databases, which can elucidate the genetics and genomics in plant, bacterial and fungal species.  
 
