@@ -11,6 +11,5 @@ ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
-Google Scholar : https://scholar.google.com/citations?hl=en&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate
 
 ![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav)
