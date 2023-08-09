@@ -6,13 +6,11 @@ In addition, I do genome analysis and comparative genomics in plant, bacterial a
 
 You can find me at the following professional web fronts. \
 Gaurav Sablok \
-Academia : https://up-za.academia.edu/GauravSablok \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ \
-ResearchGate: https://www.researchgate.net/profile/Gaurav-Sablok \
 Google Scholar : https://scholar.google.com/citations?hl=en&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate
 
 ![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav)
