@@ -10,6 +10,6 @@ Frontiers: https://loop.frontiersin.org/people/33293/overview \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Github:https://github.com/sablokgaurav \
-Linkedin: https://www.linkedin.com/sablokgaurav/ 
-![](https://raw.githubusercontent.com/sablokgaurav/githubreadstats/master/generated/languages.svg#gh-dark-mode-only)
+Linkedin: https://www.linkedin.com/in/sablokgaurav/ 
 ![](https://raw.githubusercontent.com/sablokgaurav/githubreadstats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/sablokgaurav/githubreadstats/master/generated/overview.svg#gh-light-mode-only)
