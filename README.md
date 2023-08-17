@@ -16,5 +16,4 @@ Github:https://github.com/sablokgaurav \
 Linkedin: https://www.linkedin.com/in/sablokgaurav/ 
 
 
-![](https://raw.githubusercontent.com/sablokgaurav/githubreadstats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/sablokgaurav/githubreadstats/master/generated/overview.svg#gh-light-mode-only)
