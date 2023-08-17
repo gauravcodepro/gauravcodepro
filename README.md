@@ -4,6 +4,8 @@ I have worked with large scale sequencing involving the assembly of the large ge
 
 In addition, I do genome analysis and comparative genomics in plant, bacterial and fungal genomes. I apply my knowledge and skills in the fields of molecular biology, bioinformatics, and biological data mining, which can be used to understand the biological basis. 
 
+read this: I havent used the ChatGPT or AI till now for writing code, and i stay offline while writing most of the code. 
+
 You can find me at the following professional web fronts. \
 Gaurav Sablok \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
