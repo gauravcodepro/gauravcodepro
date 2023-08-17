@@ -4,7 +4,7 @@ I have worked with large scale sequencing involving the assembly of the large ge
 
 In addition, I do genome analysis and comparative genomics in plant, bacterial and fungal genomes. I apply my knowledge and skills in the fields of molecular biology, bioinformatics, and biological data mining, which can be used to understand the biological basis. 
 
-Read this: I havent used the ChatGPT or AI till now for writing code (my best respect to all but writing code without it increases my capacity), and i stay offline while writing most of the code. \
+Read this: I havent used the ChatGPT till now for writing code (my best respect to all but writing code without it increases my capacity), and i stay offline while writing most of the code. \
 You can compare any of my code approaches.
 
 You can find me at the following professional web fronts. \
