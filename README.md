@@ -1,6 +1,6 @@
 I am a highly motivated and skilled personnel actively involved in and work across Bioinformatics | DevOPS | Data Science and Analyst | Machine, Deep Learning and I use Python | R | Bash | Scala | Ruby.   
 
-I have worked with large scale sequencing (transcriptomics, genome sequencing metagenomics) involving the assembly of the large plant genomes from high order to lower order, chloroplast genomes, bacterial genomes, metagenomics and fungal genomes using a wide variety of genomic technologies such as Illumina Seq, MiSeq, NextSeq, PacBio, Oxford Nanopore. I am involved in all facets of plant research, including genetics, bio-informatics. 
+I have worked with large scale sequencing (transcriptomics, genome sequencing metagenomics) involving the assembly of the large plant genomes from high order to lower order, chloroplast genomes, bacterial genomes, metagenomics and fungal genomes using a wide variety of genomic technologies such as Illumina Seq, MiSeq, NextSeq, PacBio, Oxford Nanopore. 
 
 I have extensive experience in molecular biology, bioinformatics, and biological mining of large-scale data-sets and databases, which can elucidate the genetics and genomics in plant, bacterial and fungal species. In addition, I do genome analysis and comparative genomics in plant, bacterial and fungal genomes. I apply my knowledge and skills in the fields of molecular biology, bioinformatics, and biological data mining, which can be used to understand the biological basis. 
 
