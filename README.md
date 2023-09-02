@@ -1,4 +1,4 @@
-I am a highly motivated and skilled personnel actively involved in and work across Bioinformatics | DevOPS | Data Science and Analyst | Machine, Deep Learning and I use Python | R | Bash | Ruby.  
+I am a highly motivated and skilled personnel actively involved in and work across Bioinformatics | DevOPS | Data Science and Analyst | Machine, Deep Learning and I use Python | R | Bash | Scala | Ruby.  
 
 I have worked with large scale sequencing (transcriptomics, genome sequencing metagenomics) involving the assembly of the large plant genomes from high order to lower order, chloroplast genomes, bacterial genomes, metagenomics and fungal genomes using a wide variety of genomic technologies such as Illumina Seq, MiSeq, NextSeq, PacBio, Oxford Nanopore. 
 
