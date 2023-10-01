@@ -8,4 +8,4 @@ Github:https://github.com/sablokgaurav \
 RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
 Python Packages Published : https://pypi.org/user/sablokgaurav/
 
-#![](https://raw.githubusercontent.com/sablokgaurav/githubreadstats/master/generated/overview.svg#gh-light-mode-only)
+
