@@ -4,8 +4,9 @@ I have worked with large scale sequencing (transcriptomics, genome sequencing me
 
 I have extensive experience in molecular biology, bioinformatics, and biological mining of large-scale data-sets and databases, which can elucidate the genetics and genomics in plant, bacterial and fungal species. In addition, I do genome analysis and comparative genomics in plant, bacterial and fungal genomes. I apply my knowledge and skills in the fields of molecular biology, bioinformatics, and biological data mining, which can be used to understand the biological basis. 
 
-My areas of focus are Bioinformatics, DataScience and Analytics, Machine and Deep Learning. For system integration, i work across high performance computing and also use git, docker for containerization and learning additional jenkins, ansible and kubernetes for container orchestration.  
-If you would like to connect then you can connect with me below: 
+My areas of focus are Bioinformatics, DataScience and Analytics, Machine and Deep Learning. For system integration, i work across high performance computing and also use git, docker for containerization and learning additional jenkins, ansible and kubernetes for container orchestration. 
+
+If you would like to connect then you can connect with me below: \
 Gaurav Sablok \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
