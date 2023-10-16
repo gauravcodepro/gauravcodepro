@@ -1,4 +1,4 @@
-I am a highly motivated and skilled personnel actively work across Bioinformatics, Data Science and Analytics, Machine and Deep Learning and I use Python, R,  Shell, Ruby, Awk, Crystal
+I am a highly motivated and skilled personnel actively work across Bioinformatics, Data Science and Analytics, Machine and Deep Learning and I use Python, R,  Shell, Ruby, Awk, Crystal, Groovy for Jenkins and Ansible
 
 I work with large scale sequencing (transcriptomics, genome sequencing metagenomics) involving the assembly of the large plant genomes from high order to lower order, chloroplast genomes, bacterial genomes, metagenomics and fungal genomes using a wide variety of genomic technologies such as Illumina Seq, MiSeq, NextSeq, PacBio, Oxford Nanopore. 
 
