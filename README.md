@@ -4,7 +4,7 @@ I have extensive experience in molecular biology, bioinformatics, and biological
 
 I work across high performance computing and skilled in both pbs and slurm computing clusters and use git, docker for containerization and jenkins, ansible and kubernetes for container orchestration. If you would like to connect then you can connect with me below:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sablokgaurav)](https://github.com/sablokgaurav/github-readme-stats)
+[![Commits](https://github-readme-stats.vercel.app/api?username=sablokgaurav)](https://github.com/sablokgaurav/github-readme-stats)
 
 Gaurav Sablok \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
