@@ -2,7 +2,7 @@ I am a highly motivated and skilled personnel actively work across Bioinformatic
 
 I have extensive experience in molecular biology, bioinformatics, and biological mining of large-scale data-sets and databases in plant, bacterial and fungal species. In addition, I do genome analysis and comparative genomics in plant, bacterial and fungal genomes. I apply my knowledge and skills in the fields of molecular biology, bioinformatics, and biological data mining, which can be used to understand the biological basis. 
 
-I work across high performance computing and skilled in both pbs and slurm computing clusters and use git, docker for containerization and jenkins, ansible and kubernetes for container orchestration. If you would like to connect then you can connect with me below:
+I work across high performance computing and skilled in both pbs and slurm computing clusters and use git, docker and kubernetes for container orchestration. If you would like to connect then you can connect with me below:
 
 Gaurav Sablok \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
