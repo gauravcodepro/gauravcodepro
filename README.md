@@ -5,7 +5,6 @@ If you would like to connect then you can connect with me below
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=true)
 
-Gaurav Sablok \
 Github:https://github.com/sablokgaurav \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
