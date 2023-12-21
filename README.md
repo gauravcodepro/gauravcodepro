@@ -11,6 +11,7 @@ WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
 Python Packages Published : https://pypi.org/user/sablokgaurav/ \
 Crystal Profile: https://forum.crystal-lang.org/u/sablokgaurav/ \
+devProfile: https://app.daily.dev/sablokgaurav \
 assumptions lead to failures and efforts lead to success. 
 
 
