@@ -12,8 +12,7 @@ RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
 Python Packages Published : https://pypi.org/user/sablokgaurav/ \
 Crystal Profile: https://forum.crystal-lang.org/u/sablokgaurav/ \
 devProfile: https://app.daily.dev/sablokgaurav \
-Linux community: https://linuxcommunity.io/u/sablokgaurav/summary \
-                 https://linuxcommunity.io
+Linux community: https://linuxcommunity.io/u/sablokgaurav/summary and https://linuxcommunity.io \
 assumptions lead to failures and efforts lead to success.
 
 
