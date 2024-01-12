@@ -5,6 +5,7 @@ ORCID: https://orcid.org/0000-0002-4157-9405 \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
 Python Packages Published : https://pypi.org/user/sablokgaurav/ and https://discuss.python.org/u/sablokgaurav/summary \
+R community: https://community.rstudio.com/u/sablokgaurav/summary \
 Crystal Profile: https://forum.crystal-lang.org/u/sablokgaurav/ \
 devProfile: https://app.daily.dev/sablokgaurav \
 Linux community: https://linuxcommunity.io/u/sablokgaurav/summary and https://linuxcommunity.io \
