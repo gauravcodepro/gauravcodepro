@@ -11,8 +11,7 @@ devProfile: https://app.daily.dev/sablokgaurav \
 Linux community: https://linuxcommunity.io/u/sablokgaurav/summary and https://linuxcommunity.io \
 assumptions lead to failures and efforts lead to success.
 
-[![sablokgaurav's GitHub | Languages Over Time](https://stats.quine.sh/sablokgaurav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
-[![sablokgaurav's GitHub | Topics Over Time](https://stats.quine.sh/sablokgaurav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
-
+[![sablokgaurav's GitHub | Topics Over Time](https://stats.quine.sh/sablokgaurav/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
+[![sablokgaurav's GitHub | Languages Over Time](https://stats.quine.sh/sablokgaurav/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
 
 
