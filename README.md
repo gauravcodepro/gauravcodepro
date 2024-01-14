@@ -11,6 +11,7 @@ devProfile: https://app.daily.dev/sablokgaurav \
 Linux community: https://linuxcommunity.io/u/sablokgaurav/summary and https://linuxcommunity.io \
 assumptions lead to failures and efforts lead to success.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=true)
+[![sablokgaurav's GitHub | Languages Over Time](https://stats.quine.sh/sablokgaurav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
+
 
 
