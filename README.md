@@ -12,6 +12,7 @@ Linux community: https://linuxcommunity.io/u/sablokgaurav/summary and https://li
 assumptions lead to failures and efforts lead to success.
 
 [![sablokgaurav's GitHub | Languages Over Time](https://stats.quine.sh/sablokgaurav/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
+[![sablokgaurav's GitHub | Topics Over Time](https://stats.quine.sh/sablokgaurav/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sablokgaurav)
 
 
 
