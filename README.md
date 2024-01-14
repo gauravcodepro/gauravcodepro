@@ -2,6 +2,8 @@ I read about what i code. My areas of focus are Bioinformatics, DataScience, Mac
 
 Github:https://github.com/sablokgaurav \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
+XING: https://www.xing.com/profile/Gaurav_Sablok/web_profiles \
+Linkedin : https://www.linkedin.com/in/sablokgaurav/ \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
 Python Packages Published : https://pypi.org/user/sablokgaurav/ and https://discuss.python.org/u/sablokgaurav/summary \
