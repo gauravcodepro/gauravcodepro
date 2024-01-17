@@ -10,7 +10,6 @@ Linkedin : https://www.linkedin.com/in/sablokgaurav/ \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
 Python Packages Published : https://pypi.org/user/sablokgaurav/ and https://discuss.python.org/u/sablokgaurav/summary \
-Posit community: https://community.rstudio.com/u/sablokgaurav/summary \
 Crystal Profile: https://forum.crystal-lang.org/u/sablokgaurav/ \
 Linux community: https://linuxcommunity.io/u/sablokgaurav/summary and https://linuxcommunity.io \
 assumptions lead to failures and efforts lead to success.
