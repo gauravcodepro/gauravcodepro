@@ -3,9 +3,9 @@ I work across a wide variety of topics which includes bioinformatics, data scien
 
 
 If you would like to connect then you can connect with me below \
-Gaurav Sablok
-Academic Staff Member
-Universität Potsdam
+Gaurav Sablok \
+Academic Staff Member \
+Universität Potsdam \
 Germany
 
 Github:https://github.com/sablokgaurav \
