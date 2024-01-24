@@ -4,11 +4,9 @@ I work across a wide variety of topics which includes bioinformatics, data scien
 
 If you would like to connect then you can connect with me below \
 Gaurav Sablok,
-Academic Staff Member,
-Bioinformatics,
+Academic Staff Member,Bioinformatics,
 Institute for Biochemistry and Biology,
-University of Potsdam,
-Potsdam,Germany
+University of Potsdam,Potsdam,Germany
 
 Github:https://github.com/sablokgaurav \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
@@ -20,5 +18,5 @@ RubyGems:https://rubygems.org/profiles/sablokgaurav \
 Ruby Forum: https://www.ruby-forum.com/u/sablokgaurav/summary \
 Python Packages : https://pypi.org/user/sablokgaurav/ \
 Crystal : https://forum.crystal-lang.org/u/sablokgaurav/ \
-Linux : https://linuxcommunity.io/u/sablokgaurav/summary
+Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
 assumptions lead to failures and efforts lead to success.
