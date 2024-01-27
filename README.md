@@ -8,7 +8,6 @@ Academic Staff Member,Bioinformatics,\
 Institute for Biochemistry and Biology,\
 University of Potsdam,Potsdam,Germany \
 https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok
-
 Github:https://github.com/sablokgaurav \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
 XING: https://www.xing.com/profile/Gaurav_Sablok/web_profiles \
