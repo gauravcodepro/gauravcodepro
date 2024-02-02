@@ -8,8 +8,6 @@ Research Interest: Bioinformatics, DataScience, Machine and Deep Learning, DevOp
 
 *   🌍  I'm based in Universittat Potsdam Germany
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com)
-<a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
