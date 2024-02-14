@@ -31,7 +31,7 @@ WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
 RubyGems:https://rubygems.org/profiles/sablokgaurav \
 Ruby Forum: https://www.ruby-forum.com/u/sablokgaurav/summary \
-Python Packages : https://pypi.org/user/sablokgaurav/ \
 Crystal : https://forum.crystal-lang.org/u/sablokgaurav/ \
+Python Packages : https://pypi.org/user/sablokgaurav/ \
 Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
 assumptions lead to failures and efforts lead to success.
