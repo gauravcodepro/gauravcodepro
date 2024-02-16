@@ -16,7 +16,6 @@ I read about what i code and have been coding in several programming languages a
 ---
 [![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 If you would like to connect then you can connect with me below \
 Gaurav Sablok,
 Academic Staff Member,Bioinformatics,\
