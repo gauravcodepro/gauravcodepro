@@ -13,10 +13,12 @@ I read about what i code and have been coding in several programming languages a
 [![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 If you would like to connect then you can connect with me below \
-Gaurav Sablok,
-Academic Staff Member,Bioinformatics,\
-Institute for Biochemistry and Biology,\
-University of Potsdam,Potsdam,Germany \
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
 https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok \
 Github:https://github.com/sablokgaurav \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
