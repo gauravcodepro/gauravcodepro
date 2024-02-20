@@ -6,7 +6,7 @@ I read about what i code and have been coding in several programming languages a
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com)
 
 ### Programming and Research Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,ansible,gcp,bash,C,crystal,django,docker,fastapi,git,github,kubernetes,linux,prometheus,pytorch,py,regex,ruby,sklearn,tensorflow,terraform,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,gcp,bash,crystal,django,docker,fastapi,git,github,kubernetes,linux,prometheus,pytorch,py,regex,ruby,sklearn,tensorflow,terraform,vscode&perline=13)](https://skillicons.dev)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
@@ -18,7 +18,7 @@ Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
 University of Potsdam \
-Potsdam,Germany
+Potsdam,Germany \
 https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok \
 Github:https://github.com/sablokgaurav \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
