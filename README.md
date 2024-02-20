@@ -8,7 +8,7 @@ I read about what i code and have been coding in several programming languages a
 ### Programming and Research Skills
 [![My Skills](https://skillicons.dev/icons?i=r,aws,ansible,gcp,bash,crystal,django,docker,fastapi,git,github,kubernetes,linux,prometheus,pytorch,py,regex,ruby,sklearn,tensorflow,terraform,vscode&perline=13)](https://skillicons.dev)
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=0&color=0)](https://visitcount.itsvg.in)
 
