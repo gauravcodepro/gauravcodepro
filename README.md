@@ -27,7 +27,6 @@ Docker: https://hub.docker.com/u/sablokg \
 WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
 RubyGems:https://rubygems.org/profiles/sablokgaurav \
-Ruby Forum: https://www.ruby-forum.com/u/sablokgaurav/summary \
 Crystal : https://forum.crystal-lang.org/u/sablokgaurav/ \
 Python Packages : https://pypi.org/user/sablokgaurav/ \
 Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
