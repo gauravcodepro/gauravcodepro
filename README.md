@@ -6,7 +6,7 @@ I read about what i code and have been coding in several programming languages a
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com)
 
 ### Programming and Research Skills
-[![My Skills](https://skillicons.dev/icons?i=r,aws,ansible,gcp,bash,crystal,django,docker,fastapi,git,github,kubernetes,linux,prometheus,pytorch,py,regex,ruby,sklearn,tensorflow,terraform,vscode&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,aws,ansible,gcp,bash,crystal,django,docker,fastapi,git,github,kubernetes,linux,prometheus,pytorch,py,regex,ruby,sklearn,tensorflow,terraform,vscode&perline=15)](https://skillicons.dev)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
