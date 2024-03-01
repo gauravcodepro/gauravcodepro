@@ -29,4 +29,4 @@ Frontiers: https://loop.frontiersin.org/people/33293/overview \
 RubyGems:https://rubygems.org/profiles/sablokgaurav \
 Crystal : https://forum.crystal-lang.org/u/sablokgaurav/ \
 Python Packages : https://pypi.org/user/sablokgaurav/ \
-Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
+Linux : https://linuxcommunity.io/u/sablokgaurav/summary 
