@@ -6,7 +6,7 @@ I work across a wide variety of topics which includes bioinformatics involving g
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com)
 
 ### Programming and Research Skills
-[![My Skills](https://skillicons.dev/icons?i=r,aws,ansible,bash,crystal,django,docker,fastapi,git,github,kubernetes,linux,prometheus,pytorch,py,regex,ruby,sklearn,tensorflow,terraform,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,aws,sublime,bash,crystal,django,docker,fastapi,git,github,gitlab,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode,debian,ubuntu&perline=15&theme=light)](https://skillicons.dev)
 
 If you would like to connect then you can connect with me below \
 Gaurav Sablok \
