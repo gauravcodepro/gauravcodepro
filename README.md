@@ -6,7 +6,7 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com)
 
 ### Programming and Research Skills
-[![My Skills](https://skillicons.dev/icons?i=r,aws,sublime,bash,django,docker,fastapi,git,github,gitlab,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode,debian,ubuntu&perline=15&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,aws,sublime,bash,django,docker,fastapi,github,gitlab,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode,ubuntu&perline=15&theme=light)](https://skillicons.dev)
 
 If you would like to connect then you can connect with me below \
 Gaurav Sablok \
