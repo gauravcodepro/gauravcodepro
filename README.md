@@ -8,9 +8,11 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 ### Programming and Research Skills
 [![My Skills](https://skillicons.dev/icons?i=r,aws,sublime,bash,django,docker,fastapi,github,gitlab,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode,ubuntu&perline=15&theme=light)](https://skillicons.dev) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=light)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sablokgaurav&theme=light)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sablokgaurav&theme=light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sablokgaurav&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sablokgaurav&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=ayu_mirage&utcOffset=8)
+
 
 If you would like to connect then you can connect with me below \
 Gaurav Sablok \
