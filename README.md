@@ -32,4 +32,4 @@ RubyGems:https://rubygems.org/profiles/sablokgaurav \
 Crystal : https://forum.crystal-lang.org/u/sablokgaurav/ \
 Python Packages : https://pypi.org/user/sablokgaurav/ \
 Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
-Workflow hub: https://workflowhub.eu/people/710 \
+Workflow hub: https://workflowhub.eu/people/710 
