@@ -6,7 +6,7 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com) or [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
 
 ### Programming and Research Skills
-[![My Skills](https://skillicons.dev/icons?i=r,aws,bash,django,docker,fastapi,github,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode&perline=18&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=r,aws,bash,django,docker,fastapi,github,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode&perline=20&theme=light)](https://skillicons.dev) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sablokgaurav&theme=vue)
