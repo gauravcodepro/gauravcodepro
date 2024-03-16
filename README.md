@@ -1,12 +1,12 @@
 ### Hallo ! My name is Gaurav Sablok and i work as Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DataAnalytics | DevOps | Generative AI | Knoweldge Graphs
 
-Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional working across a wide variety of topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). My interest and expertise also dwells across data analytics, machine and deep learning and devops. I have taken initiatives and established computing cluster and also specific blades in my previous positions. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker and kubernetes for container orchestration. I program across Python, R, Shell, NuShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
+Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional working across a wide variety of topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). My interest and expertise also dwells across data analytics, machine and deep learning and devops. I have taken initiatives and established computing cluster and also specific blades in my previous positions. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker, kubernetes, terraform for container orchestration. I program across Python, R, Shell, NuShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
 
 *   🌍  I'm based at Universitat Potsdam Germany
 *   ✉️  You can contact me at [sablokg@gmail.com](mailto:sablokg@gmail.com) or [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
 
 ### Programming and Research Skills
-[![My Skills](https://skillicons.dev/icons?i=r,aws,bash,django,docker,fastapi,github,kubernetes,linux,prometheus,grafana,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode&perline=20&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=r,aws,bash,docker,fastapi,github,kubernetes,linux,pytorch,py,regex,ruby,rails,sklearn,tensorflow,terraform,vscode&perline=20&theme=light)](https://skillicons.dev) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sablokgaurav&theme=vue)
