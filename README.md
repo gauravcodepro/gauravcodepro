@@ -10,7 +10,6 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 * ✉️  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * 🧠  I'm learning Julia
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Language Models, Generative AI, and DevOPs
-* ⚡  Communication is the key to finding a solution to anything you want to. You don't get answers or make relations by looking or staring. You solve by talking and finding the way
 
 <a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
