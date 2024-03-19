@@ -11,23 +11,23 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 * 🧠  I'm learning Julia
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Language Models, Generative AI, and DevOPs
 
-Gaurav Sablok
-Academic Staff Member
-Bioinformatics
-Institute for Biochemistry and Biology
-University of Potsdam
-Potsdam,Germany
-https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok
-Github:https://github.com/sablokgaurav
-ORCID: https://orcid.org/0000-0002-4157-9405
-XING: https://www.xing.com/profile/Gaurav_Sablok/web_profiles
-Docker: https://hub.docker.com/u/sablokg
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014
-Frontiers: https://loop.frontiersin.org/people/33293/overview
-RubyGems:https://rubygems.org/profiles/sablokgaurav
-Python Packages : https://pypi.org/user/sablokgaurav/
-Linux : https://linuxcommunity.io/u/sablokgaurav/summary
-Workflow hub: https://workflowhub.eu/people/710
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany \
+https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok \
+Github:https://github.com/sablokgaurav \
+ORCID: https://orcid.org/0000-0002-4157-9405 \
+XING: https://www.xing.com/profile/Gaurav_Sablok/web_profiles \
+Docker: https://hub.docker.com/u/sablokg \
+WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
+Frontiers: https://loop.frontiersin.org/people/33293/overview \
+RubyGems:https://rubygems.org/profiles/sablokgaurav \
+Python Packages : https://pypi.org/user/sablokgaurav/ \
+Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
+Workflow hub: https://workflowhub.eu/people/710 \
 
 <a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
