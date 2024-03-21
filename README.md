@@ -10,7 +10,7 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 * ✉️  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * 🧠  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
 * 🧠  Static documentation generation using the Markdown, ReadTheDocs and Sphinx
-* 🧠  templating engine jinja and jinja2, jq and yq.
+* 🧠  Templating engine jinja and jinja2, jq and yq.
 * 🧠  I'm learning Julia and i dont code in C anymore and sometimes still do and look at the RUST sometimes. 
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
