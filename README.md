@@ -1,5 +1,4 @@
 ### Hallo My name is Gaurav Sablok 
-==============================
 ### Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DataAnalytics | DevOps | Generative AI | Knowledge Graphs
 ---------------------
 Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional working across a wide variety of topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). My interest and expertise also dwells across data analytics, machine and deep learning and devops. 
