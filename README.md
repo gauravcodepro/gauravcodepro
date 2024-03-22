@@ -8,7 +8,7 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 
 I have taken initiatives and established computing clusters and also specific blades in my previous positions. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker, kubernetes, terraform for container orchestration. Skills present below will start from the os,devops,programming, machine learning and code deployment. When I am not writing code, I am reading and learning new code. 
 
-If you are interested in reading some ethics [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
+If you are interested in reading some ethics [You can read the ethics here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
 * 🌍  I'm based in Germany at Universtat Potsdam :de:
 * :email:  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
