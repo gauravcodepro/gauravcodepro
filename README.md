@@ -26,6 +26,7 @@ Institute for Biochemistry and Biology \
 University of Potsdam \
 Potsdam,Germany \
 https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok \
+Google Scholar: https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate \
 Github:https://github.com/sablokgaurav \
 ORCID: https://orcid.org/0000-0002-4157-9405 \
 XING: https://www.xing.com/profile/Gaurav_Sablok/web_profiles \
