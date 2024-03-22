@@ -10,14 +10,13 @@ I have taken initiatives and established computing clusters and also specific bl
 
 If you are interested in developing your work culture and ethics then you can read my working ethics for making your work culture and surroundings stronger. By implementing this you will only become stronger and not weaker. You can read it here and at the same time, kindly add so that I can broaden my working style and develop my mindset further as I believe in taking constructive approaches. [You can read the ethics here](https://github.com/sablokgaurav/code_language_recommendations_ethics/blob/main/ethics.read)
 
-* 🌍  I'm based in Germany at Universtat Potsdam
+* 🌍  I'm based in Germany at Universtat Potsdam :de:
 * ✉️  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * 🧠 “Progress thrives on the exchange of knowledge.” (Albert Einstein)
 * 🧠  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
 * 🧠  Static documentation generation using the Markdown, ReadTheDocs and Sphinx
 * 🧠  Templating engine jinja and jinja2, jq and yq.
-* 🧠  I'm learning Julia and i dont code in C anymore and sometimes still do.
-* 🧠  Stronger believer of Dont waste your time, the person who shows results, will continue to show and those who dont want will never will.  
+* 🧠  I'm learning Julia and i dont code in C anymore and sometimes still do. 
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 Gaurav Sablok \
