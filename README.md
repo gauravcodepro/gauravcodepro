@@ -1,9 +1,7 @@
-Hallo My name is Gaurav Sablok 
+### Hallo My name is Gaurav Sablok 
 ==============================
-
-Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DataAnalytics | DevOps | Generative AI | Knowledge Graphs
+### Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DataAnalytics | DevOps | Generative AI | Knowledge Graphs
 ---------------------
-
 Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional working across a wide variety of topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). My interest and expertise also dwells across data analytics, machine and deep learning and devops. 
 
 I have taken initiatives and established computing clusters and also specific blades in my previous positions. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker, kubernetes, terraform for container orchestration. Skills present below will start from the os,devops,programming, machine learning and code deployment. When I am not writing code, I am reading and learning new code. 
@@ -16,7 +14,7 @@ If you are interested in reading some ethics [You can read the ethics here](http
 * :thumbsup:  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
 * :thumbsup: Static documentation generation using the Markdown, ReadTheDocs and Sphinx
 * :thumbsup: Templating engine jinja and jinja2, jq and yq.
-* :thumbsup:  I'm learning Julia and i dont code in C anymore and sometimes still do. 
+* :thumbsup:  I'm learning Julia, API Development for graphs and i dont code in C anymore and sometimes still do. 
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 Gaurav Sablok \
