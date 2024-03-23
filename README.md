@@ -8,12 +8,12 @@ I have taken initiatives and established computing clusters and also specific bl
 If you are interested in reading some ethics [You can read the ethics here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
 * 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
-* :email:  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
-* :thumbsup: “Progress thrives on the exchange of knowledge.” (Albert Einstein)
-* :thumbsup:  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
-* :thumbsup: Static documentation generation using the Markdown, ReadTheDocs and Sphinx
-* :thumbsup: Templating engine jinja and jinja2, jq and yq.
-* :thumbsup:  I'm learning Julia, API Development for graphs and i dont code in C anymore and sometimes still do. 
+* 📫  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
+* ▶️ “Progress thrives on the exchange of knowledge.” (Albert Einstein)
+* ▶️  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
+* ▶️ Static documentation generation using the Markdown, ReadTheDocs and Sphinx
+* ▶️ Templating engine jinja and jinja2, jq and yq.
+* ▶️  I'm learning Julia, API Development for graphs and i dont code in C anymore and sometimes still do. 
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 Gaurav Sablok \
@@ -39,7 +39,7 @@ Workflow hub: https://workflowhub.eu/people/710
 src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,aws,terraform,docker,kubernetes,bash,docker,github,sklearn,pytorch,tensorflow,py,regex,r,django,ruby,rails,fastapi&perline=20&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,terraform,docker,kubernetes,bash,docker,github,sklearn,pytorch,tensorflow,py,regex,r,django,ruby,rails,fastapi&perline=20&theme=light)](https://skillicons.dev)
 
 ### Badges
 
