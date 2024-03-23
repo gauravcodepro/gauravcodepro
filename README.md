@@ -7,7 +7,7 @@ I have taken initiatives and established computing clusters and also specific bl
 
 If you are interested in reading some ethics [You can read the ethics here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
-* 🌍  I'm based in Germany at Universtat Potsdam :de:
+* 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
 * :email:  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * :thumbsup: “Progress thrives on the exchange of knowledge.” (Albert Einstein)
 * :thumbsup:  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
