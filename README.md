@@ -6,7 +6,7 @@ Highly communicative, task oriented, feature responsive, time oriented, approach
 * 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
 * 📫  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * ▶️ “Progress thrives on the exchange of knowledge.” (Albert Einstein)
-* ▶️  I code across Python, R, Shell, NuShell, PowerShell, Hashicorp, Ruby, Awk, Shiny, Streamlit, Ruby on Rail, Django.
+* ▶️  I code across Python, R, Ruby, Awk, Shell, NuShell, PowerShell, Hashicorp, Shiny, Streamlit, Ruby on Rail, Django.
 * ▶️ Static documentation generation using the Markdown, ReadTheDocs and Sphinx
 * ▶️ Static markdown deployment using Jekyll and Ruby versioning using Github docs.
 * ▶️ Templating engine jinja and jinja2, jq and yq.
