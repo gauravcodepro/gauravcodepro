@@ -1,10 +1,10 @@
 ### Hallo My name is Gaurav Sablok 
 ### Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs
 
-▶️ Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person.
-▶️ Topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). 
-▶️ My interest and expertise also dwells across data analytics, machine and deep learning and devops. 
-▶️ I have taken initiatives and established computing clusters and also specific blades in my previous positions. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker, kubernetes, terraform for container orchestration. Skills present below will start from the os,devops,programming, machine learning and code deployment. When I am not writing code, I am reading and learning new code. 
+▶️ Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
+▶️ Topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). \
+▶️ My interest and expertise also dwells across data analytics, machine and deep learning and devops. \
+▶️ I have taken initiatives and established computing clusters and also specific blades in my previous positions. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker, kubernetes, terraform for container orchestration. Skills present below will start from the os,devops,programming, machine learning and code deployment. When I am not writing code, I am reading and learning new code. \
 ▶️ If you are interested in reading some ethics [You can read the ethics here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
 * 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
