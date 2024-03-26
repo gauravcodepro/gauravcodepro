@@ -40,8 +40,6 @@ src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-
 
 ### Badges
 
-<a href="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white" /></a>
-
 
 <b>My GitHub Stats</b>
 
