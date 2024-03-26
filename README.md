@@ -40,6 +40,9 @@ src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-
 
 ### Badges
 
+<a href="https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white" /></a>
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sablokgaurav"><img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sablokgaurav's GitHub stats" /></a>
