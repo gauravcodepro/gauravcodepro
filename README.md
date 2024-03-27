@@ -5,7 +5,7 @@
 ▶️ Topics which includes bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina Miseq, NextSeq, NovaSeq, PacBio, Oxford Nanopore). \
 ▶️ My interest and expertise also dwells across data analytics, machine and deep learning and devops. \
 ▶️ I have taken initiatives and established computing clusters and also specific blades. I am skilled in both pbs and slurm based high performance computing clusters, devops management and uses git, docker, kubernetes, terraform for container orchestration. Skills present below will start from the os,devops,programming, machine learning and code deployment. When I am not writing code, I am reading and learning new code. \
-:arrrow_forward: You can read the curriculum vitae here: 
+:arrow_forward: You can read the curriculum vitae here: 
 [curriculum vitae](https://github.com/sablokgaurav/curriculum_vitae/blob/main/curriculum_vitae_sablokgaurav_2024.pdf) and what my previous employers say about me [employers](https://github.com/sablokgaurav/curriculum_vitae/blob/main/front_letter_references.pdf). \ 
 ▶️ If you are interested in reading some ethics [You can read the ethics here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
