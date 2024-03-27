@@ -7,6 +7,7 @@
 ▶️ Research Interest also spans across deep learning, devops, generative AI and knowledge graphs. \
 ▶️ I have taken initiatives and established computing clusters and blades. I am skilled in both pbs and slurm based high performance computing clusters, devops management. \
 :arrow_forward:  Git, Docker, Kubernetes and Terraform for container orchestration. \
+:arrow_forward: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
 :arrow_forward: When I am not writing code, I am reading and learning new code. \
 :arrow_forward: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae_sablokgaurav_2024.pdf) \
 ▶️ You can read the employers references heres and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/front_letter_references.pdf).
@@ -50,9 +51,6 @@ Workflow hub: https://workflowhub.eu/people/710
 
 <a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,terraform,docker,kubernetes,bash,docker,github,sklearn,pytorch,tensorflow,py,regex,r,django,ruby,rails,fastapi&perline=20&theme=light)](https://skillicons.dev)
 
 ### Badges
 
