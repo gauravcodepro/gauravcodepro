@@ -18,9 +18,9 @@
 * 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
 * 📫  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * ▶️ “Progress thrives on the exchange of knowledge.” (Albert Einstein)
-* ▶️ *Bioinformatics*: Python, R, Awk and Shell
+* ▶️ *Bioinformatics*: Python, R, Ruby, Awk and Shell, Nushell
 * ▶️ *Deep Learning*: Python, R
-* ▶️ *DevOPs*: Shell, Awk, HashiCorp, Python
+* ▶️ *DevOPs*: Shell, NuShell, Awk, Ruby, HashiCorp, Python
 * ▶️ *Web Application*: Streamlit, Ruby on Rail, Django, Markdown, HTML and Tailwind CSS 
 * ▶️ Static documentation generation using the Markdown, ReadTheDocs, and MKdocs.
 * ▶️ Static markdown deployment using Jekyll and Ruby versioning using Github docs.
