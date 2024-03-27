@@ -8,7 +8,7 @@
 ▶️ I have taken initiatives and established computing clusters and blades. I am skilled in both pbs and slurm based high performance computing clusters, devops management. \
 :arrow_forward:  Git, Docker, Kubernetes and Terraform for container orchestration. \
 :arrow_forward: When I am not writing code, I am reading and learning new code. \
-:arrow_forward: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae_sablokgaurav_2024.pdf) 
+:arrow_forward: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae_sablokgaurav_2024.pdf) \
 ▶️ You can read the employers references heres and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/front_letter_references.pdf).
 
 ### Personal views 
