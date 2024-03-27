@@ -22,7 +22,7 @@
 * ▶️  I'm learning Julia, API Development for graphs and i dont code in C/C++ anymore and sometimes still do and read. 
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
-### Contact details and Professional Lookout \
+### Contact details and Professional Lookout 
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
