@@ -9,8 +9,8 @@
 :arrow_forward:  Git, Docker, Kubernetes and Terraform for container orchestration. \
 :arrow_forward: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
 :arrow_forward: When I am not writing code, I am reading and learning new code. \
-:arrow_forward: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae_sablokgaurav_2024.pdf) \
-▶️ You can read the employers references heres and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/front_letter_references.pdf).
+:arrow_forward: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
+▶️ You can read the employers references heres and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf).
 
 ### Personal views 
 ▶️ If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
