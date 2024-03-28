@@ -2,9 +2,9 @@
 ### Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs
 
 ### Research Profile 
-▶️ Highly communicative, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
-▶️ Bioinformatics involving genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
-▶️ Research Interest also spans across deep learning, devops, generative AI and knowledge graphs. \
+▶️ Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
+▶️ Bioinformatics: genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
+▶️ Deep learning, Devops, Generative AI and Knowledge Graphs. \
 ▶️ I have taken initiatives and established computing clusters and blades. I am skilled in both pbs and slurm based high performance computing clusters, devops management. \
 :arrow_forward:  Git, Docker, Kubernetes and Terraform for container orchestration. \
 :arrow_forward: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
