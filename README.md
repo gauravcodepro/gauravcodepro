@@ -1,7 +1,7 @@
 ### Hallo My name is Gaurav Sablok 
 ### Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs
 
-### Research Profile 
+### Research
 ▶️ Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 ▶️ Bioinformatics: genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
 ▶️ Deep learning, Devops, Generative AI and Knowledge Graphs. \
@@ -15,7 +15,7 @@
 ### Personal views 
 ▶️ If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
-### Code Profile 
+### Code 
 * 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
 * 📫  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
 * ▶️ “Progress thrives on the exchange of knowledge.” (Albert Einstein)
