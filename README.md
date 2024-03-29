@@ -51,11 +51,12 @@ Bioinformatics \
 Institute for Biochemistry and Biology \
 University of Potsdam \
 Potsdam,Germany \
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
-[![Github](https://img.shields.io/github/followers/sablokgaurav?label=Follow&style=social)](https://github.com/sablokgaurav)
+[![universitat potsdam](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
+[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[![frontiers](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://loop.frontiersin.org/people/33293/overview)](https://loop.frontiersin.org/people/33293/overview)
+[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
 
-[web of science](https://www.webofscience.com/wos/author/record/C-5940-2014) \
-[frontiers](https://loop.frontiersin.org/people/33293/overview) \
+[![Github](https://img.shields.io/github/followers/sablokgaurav?label=Follow&style=social)](https://github.com/sablokgaurav)
 [google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate) \
 [github](https://github.com/sablokgaurav) \
 [orcid](https://orcid.org/0000-0002-4157-9405) \
