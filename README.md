@@ -1,5 +1,5 @@
 ### Hallo My name is Gaurav Sablok 
-### Academic Staff Member, Universitat Potsdam, Germany.
+### Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam,Germany 
 
 ### Research
 📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
