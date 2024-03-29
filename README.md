@@ -1,14 +1,13 @@
 ### Hallo My name is Gaurav Sablok 
 ### Academic Staff Member, Universitat Potsdam, Germany.
-### Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs
 
 ### Research
 📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
-📋 Bioinformatics: genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
-📋 Deep learning, Devops, Generative AI and Knowledge Graphs. \
-📋 I have taken initiatives and established computing clusters and blades. I am skilled in both pbs and slurm based high performance computing clusters, devops management. \
-📋 Git, Docker, Kubernetes and Terraform for container orchestration. \
-📋 PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
+📋 **Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs**
+📋 **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
+📋 **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
+📋 **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. Established computing clusters and blades. I am skilled in both pbs and slurm \
+📋 **Generative AI and Knowledge Graphs.**
 📋 When I am not writing code, I am reading and learning new code. \
 📋 You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
 📋 You can read the employers references heres and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf).
@@ -20,14 +19,13 @@
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 📋 “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
-📋 *Bioinformatics*: Python, R, Ruby, Awk, Shell, Nushell \
-📋 *Deep Learning*: Python, R \
-📋 *DevOPs*: Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-📋 *Web Application*: Streamlit, Ruby on Rail, Django, Markdown, HTML and Tailwind CSS \
-📋 Static documentation generation using the Markdown, ReadTheDocs, and MKdocs. \
-📋 Static markdown deployment using Jekyll and Ruby versioning using Github docs. \
-📋 Templating engine jinja and jinja2, jq and yq \
-📋 I'm learning Julia, API Development for graphs. \
+📋 **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
+📋 **Deep Learning:** Python, R \
+📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
+📋 **Web Application:** Streamlit, Ruby on Rail, Django, Markdown, HTML and Tailwind CSS \
+📋 **Static documentation:** Markdown, ReadTheDocs, Jekyll and Ruby and MKdocs. \
+📋 **Templating engine:** jinja and jinja2, jq and yq \
+📋 I'm learning Julia, graphsAPI. \
 📋 I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 ### Python Packages: building release version
