@@ -52,16 +52,16 @@ Bioinformatics \
 Institute for Biochemistry and Biology \
 University of Potsdam \
 Potsdam,Germany \
-[webpage](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \t
-[web of science](https://www.webofscience.com/wos/author/record/C-5940-2014) \t
-[frontiers](https://loop.frontiersin.org/people/33293/overview) \t
-[google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate) \t
-[github](https://github.com/sablokgaurav) \t
-[orcid](https://orcid.org/0000-0002-4157-9405) \t
-[docker]https://hub.docker.com/u/sablokg) \t
-[rubygems](https://rubygems.org/profiles/sablokgaurav) \t
-[python packages](https://pypi.org/user/sablokgaurav/) \t
-[linux community](https://linuxcommunity.io/u/sablokgaurav/summary) \t 
+[webpage](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
+[web of science](https://www.webofscience.com/wos/author/record/C-5940-2014) \
+[frontiers](https://loop.frontiersin.org/people/33293/overview) \
+[google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate) \
+[github](https://github.com/sablokgaurav) \
+[orcid](https://orcid.org/0000-0002-4157-9405) \
+[docker]https://hub.docker.com/u/sablokg) \
+[rubygems](https://rubygems.org/profiles/sablokgaurav) \
+[python packages](https://pypi.org/user/sablokgaurav/) \
+[linux community](https://linuxcommunity.io/u/sablokgaurav/summary) 
 
 <a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
