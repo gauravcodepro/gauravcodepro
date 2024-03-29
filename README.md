@@ -25,8 +25,8 @@
 * ▶️ *Web Application*: Streamlit, Ruby on Rail, Django, Markdown, HTML and Tailwind CSS 
 * ▶️ Static documentation generation using the Markdown, ReadTheDocs, and MKdocs.
 * ▶️ Static markdown deployment using Jekyll and Ruby versioning using Github docs.
-* ▶️ Templating engine jinja and jinja2, jq and yq.
-* ▶️  I'm learning Julia, API Development for graphs and reading C++.
+* ▶️ Templating engine jinja and jinja2, jq and yq
+* ▶️  I'm learning Julia, API Development for graphs.
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 ### Contact details 
