@@ -51,7 +51,9 @@ Bioinformatics \
 Institute for Biochemistry and Biology \
 University of Potsdam \
 Potsdam,Germany \
-[webpage](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
+[![Github](https://img.shields.io/github/followers/sablokgaurav?label=Follow&style=social)](https://github.com/sablokgaurav)
+
 [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014) \
 [frontiers](https://loop.frontiersin.org/people/33293/overview) \
 [google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate) \
