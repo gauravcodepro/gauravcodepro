@@ -51,19 +51,18 @@ Bioinformatics \
 Institute for Biochemistry and Biology \
 University of Potsdam \
 Potsdam,Germany \
-[university][![universitat potsdam](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
+[![universitat potsdam](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
 [![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
 [![frontiers](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://loop.frontiersin.org/people/33293/overview)](https://loop.frontiersin.org/people/33293/overview)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sablokgaurav)](https://github.com/sablokgaurav)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rubygems.org/profiles/sablokgaurav)](https://rubygems.org/profiles/sablokgaurav)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pypi.org/user/sablokgaurav/)](https://pypi.org/user/sablokgaurav/)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
-[![website](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
-[![Github](https://img.shields.io/github/followers/sablokgaurav?label=Follow&style=social)](https://github.com/sablokgaurav)
+[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[![google scholar](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
+[![github](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sablokgaurav)](https://github.com/sablokgaurav)
+[![orcid](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
+[![rubygems](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rubygems.org/profiles/sablokgaurav)](https://rubygems.org/profiles/sablokgaurav)
+[![pythonpackages](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pypi.org/user/sablokgaurav/)](https://pypi.org/user/sablokgaurav/)
+[![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
+[![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
+[![github](https://img.shields.io/github/followers/sablokgaurav?label=Follow&style=social)](https://github.com/sablokgaurav)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
