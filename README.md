@@ -7,7 +7,7 @@
 📋 **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
 📋 **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
 📋 **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. Established computing clusters and blades. I am skilled in both pbs and slurm \
-📋 **Generative AI and Knowledge Graphs.**
+📋 **Generative AI and Knowledge Graphs.** \
 📋 When I am not writing code, I am reading and learning new code. \
 📋 You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
 📋 You can read the employers references heres and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf).
