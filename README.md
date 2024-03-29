@@ -16,35 +16,34 @@
 ▶️ If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
 
 ### Code 
-:dot: 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: 
-:dot: 📫  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
-:dot: ▶️ “Progress thrives on the exchange of knowledge.” (Albert Einstein)
-:dot: ▶️ *Bioinformatics*: Python, R, Ruby, Awk, Shell, Nushell
-:dot: ▶️ *Deep Learning*: Python, R
-:dot: ▶️ *DevOPs*: Shell, NuShell, Awk, Ruby, HashiCorp, Python
-:dot: ▶️ *Web Application*: Streamlit, Ruby on Rail, Django, Markdown, HTML and Tailwind CSS 
-:dot: ▶️ Static documentation generation using the Markdown, ReadTheDocs, and MKdocs.
-:dot: ▶️ Static markdown deployment using Jekyll and Ruby versioning using Github docs.
-:dot: ▶️ Templating engine jinja and jinja2, jq and yq
-:dot: ▶️  I'm learning Julia, API Development for graphs.
-:dot: :handshake: I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
+✳️ 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: 
+✳️ 📫  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com)
+✳️ ▶️ “Progress thrives on the exchange of knowledge.” (Albert Einstein)
+✳️ ▶️ *Bioinformatics*: Python, R, Ruby, Awk, Shell, Nushell
+✳️ ▶️ *Deep Learning*: Python, R
+✳️ ▶️ *DevOPs*: Shell, NuShell, Awk, Ruby, HashiCorp, Python
+✳️ ▶️ *Web Application*: Streamlit, Ruby on Rail, Django, Markdown, HTML and Tailwind CSS 
+✳️ ▶️ Static documentation generation using the Markdown, ReadTheDocs, and MKdocs.
+✳️ ▶️ Static markdown deployment using Jekyll and Ruby versioning using Github docs.
+✳️ ▶️ Templating engine jinja and jinja2, jq and yq
+✳️ ▶️  I'm learning Julia, API Development for graphs.
+✳️ :handshake: I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 ### Python Packages: building release version
-:dot: ▶️ a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \:
-:dot: ▶️ a package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
-:dot: ▶️ a package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
+✳️ ▶️ a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \:
+✳️ ▶️ a package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
+✳️ ▶️ a package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
 
 ### Python Packages in development 
-▶️ a python package for pacbioreads : pacbioquick
+✳️ ▶️ a python package for pacbioreads : pacbioquick
 
 ### Ruby gems: released
-▶️ a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
-▶️ a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) 
+✳️ ▶️ a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
+✳️ ▶️ a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) 
 
 ### Ruby gemes: in development
-▶️ fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
-▶️ alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads
-
+✳️ ▶️ fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
+✳️ ▶️ alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads
 
 ### Contact details 
 Gaurav Sablok \
