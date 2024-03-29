@@ -54,7 +54,7 @@ WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
 Frontiers: https://loop.frontiersin.org/people/33293/overview \
 RubyGems:https://rubygems.org/profiles/sablokgaurav \
 Python Packages : https://pypi.org/user/sablokgaurav/ \
-Linux : https://linuxcommunity.io/u/sablokgaurav/summary \
+Linux : https://linuxcommunity.io/u/sablokgaurav/summary 
 
 <a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
