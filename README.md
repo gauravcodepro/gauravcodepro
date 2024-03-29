@@ -29,14 +29,22 @@
 * ▶️  I'm learning Julia, API Development for graphs.
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
-### Python Packages: release version build
+### Python Packages: building release version
 ▶️ a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 ▶️ a package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
-▶️ a package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
+▶️ a package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) \
+
+### Python packages in development 
+▶️ a python package for pacbioreads : pacbioquick
 
 ### Ruby gems: released
 ▶️ a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
 ▶️ a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) 
+
+### Ruby gemes: in development
+▶️ fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby)
+▶️ alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads
+
 
 ### Contact details 
 Gaurav Sablok \
