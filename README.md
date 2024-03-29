@@ -13,7 +13,7 @@
 📋 You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf).
 
 ### Personal views 
-📋 If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md)
+📋 If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md) \
 🔦 There is no cost to make any assumption but there is a heap and heap of effort cost to show results.
 
 ### Code 
