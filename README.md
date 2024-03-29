@@ -4,7 +4,7 @@
 ### Research
 📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 📋 **Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
-📋 **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes focussing on datasets coming from the plant, bacterial and fungal genome (Illumina, PacBio, Oxford Nanopore). \
+📋 **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes {species:plant, bacterial and fungal genome{Illumina, PacBio, Oxford Nanopore)}}. \
 📋 **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
 📋 **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. Established computing clusters and blades. I am skilled in both pbs and slurm \
 📋 **Generative AI and Graphs.** \
