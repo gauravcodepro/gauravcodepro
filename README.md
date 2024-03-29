@@ -62,10 +62,14 @@ Potsdam,Germany \
 [python packages](https://pypi.org/user/sablokgaurav/) \
 [linux community](https://linuxcommunity.io/u/sablokgaurav/summary) 
 
-<a href="https://www.github.com/sablokgaurav" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sablokgaurav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### Badges
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 <b>My GitHub Stats</b>
