@@ -29,6 +29,15 @@
 * ▶️  I'm learning Julia, API Development for graphs.
 * 🤝  I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
+### Python Packages: 
+[tairaccession](https://github.com/sablokgaurav/tairaccession) \
+[graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
+[rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
+
+### Ruby gems
+[devops_system_profiler](https://github.com/sablokgaurav/devops_system_util_profiler) \
+[ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \
+
 ### Contact details 
 Gaurav Sablok \
 Academic Staff Member \
