@@ -34,7 +34,7 @@
 ▶️ a package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 ▶️ a package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
 
-### Python packages in development 
+### Python Packages in development 
 ▶️ a python package for pacbioreads : pacbioquick
 
 ### Ruby gems: released
