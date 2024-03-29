@@ -1,5 +1,6 @@
 ### Hallo My name is Gaurav Sablok 
-### Academic Staff Member, Universitat Potsdam, Germany. Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs
+### Academic Staff Member, Universitat Potsdam, Germany.
+### Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Knowledge Graphs
 
 ### Research
 📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
