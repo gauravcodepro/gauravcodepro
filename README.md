@@ -38,7 +38,7 @@
 ### Ruby gems: [released](https://rubygems.org/profiles/sablokgaurav)
 📋 a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
 📋 a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) 
-#### Ruby gemes: in development
+#### Ruby gems: in development
 📋 fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 📋 alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads
 
