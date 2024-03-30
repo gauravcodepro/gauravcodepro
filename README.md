@@ -23,8 +23,8 @@
 📋 **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
 📋 **Deep Learning:** Python, R \
 📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-📋 **Web Application:** Streamlit, Ruby on Rails, Django, Markdown, HTML and Tailwind CSS \
-📋 **Static documentation:** Markdown, ReadTheDocs, Jekyll and Ruby and MKdocs. \
+📋 **Web Application:** Streamlit, Ruby on Rails, Django, HTML and Tailwind CSS \
+📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 📋 **Templating engine:** jinja and jinja2, jq and yq \
 📋 I'm learning Julia, graphsAPI. \
 📋 I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
