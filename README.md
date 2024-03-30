@@ -61,7 +61,7 @@ Potsdam,Germany \
 [![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
 [![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
 
-#### if you would like to sponsor to a course for developing my skills, kindly let me know.
+#### if you would like to sponsor to a course for developing my skills in the respective area, kindly let me know.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
