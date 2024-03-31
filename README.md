@@ -40,6 +40,7 @@ Potsdam,Germany \
 📋 You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
 📋 You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
 📋 if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email.
+📋 Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Personal views 
 📋 If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md) \
@@ -56,7 +57,6 @@ Potsdam,Germany \
 📋 **Web Application:** Streamlit, Ruby on Rails, Django, HTML and Tailwind CSS \
 📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 📋 **Templating engine:** jinja and jinja2, jq and yq \
-📋 I'm open to collaborating on Bioinformatics, Deep Learning, Large Language Models, Generative AI, and DevOPs
 
 ### Python Packages: building release version
 📋 a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
