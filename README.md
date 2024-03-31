@@ -56,7 +56,7 @@ Potsdam,Germany \
 📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
 📋 **Web Application:** Streamlit, Ruby on Rails, Django, HTML and Tailwind CSS \
 📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
-📋 **Templating engine:** jinja and jinja2, jq and yq \
+📋 **Templating engine:** jinja and jinja2, jq and yq 
 
 ### Python Packages: building release version
 📋 a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
