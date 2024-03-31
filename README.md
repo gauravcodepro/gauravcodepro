@@ -14,7 +14,7 @@
 
 ### Personal views 
 📋 If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md) \
-🔦 There is no cost to make any assumption but there is a heap and heap of effort cost to show results.
+🔦 There is no cost to make any assumption but there is a heap of effort cost to show results.
 
 ### Code 
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
