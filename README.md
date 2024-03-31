@@ -23,7 +23,7 @@
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 📋 “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
 📋 **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
-📋 **Deep Learning:** Python, R, learning Julia, graphsAPI. 
+📋 **Deep Learning:** Python, R, learning Julia, graphsAPI. \
 📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
 📋 **Web Application:** Streamlit, Ruby on Rails, Django, HTML and Tailwind CSS \
 📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
