@@ -1,5 +1,32 @@
 ### Hallo My name is Gaurav Sablok 
 ### Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam,Germany 
+Gaurav Sablok \
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany \
+[![universitat potsdam](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
+[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[![frontiers](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://loop.frontiersin.org/people/33293/overview)](https://loop.frontiersin.org/people/33293/overview)
+[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[![google scholar](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
+[![github](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sablokgaurav)](https://github.com/sablokgaurav)
+[![orcid](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
+[![rubygems](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rubygems.org/profiles/sablokgaurav)](https://rubygems.org/profiles/sablokgaurav)
+[![pythonpackages](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pypi.org/user/sablokgaurav/)](https://pypi.org/user/sablokgaurav/)
+[![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
+[![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sablokgaurav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
 
 ### Research
 📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
@@ -43,32 +70,4 @@
 📋 fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 📋 alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads
 
-### Contact details 
-Gaurav Sablok \
-Academic Staff Member \
-Bioinformatics \
-Institute for Biochemistry and Biology \
-University of Potsdam \
-Potsdam,Germany \
-[![universitat potsdam](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
-[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[![frontiers](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://loop.frontiersin.org/people/33293/overview)](https://loop.frontiersin.org/people/33293/overview)
-[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
-[![google scholar](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
-[![github](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sablokgaurav)](https://github.com/sablokgaurav)
-[![orcid](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
-[![rubygems](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rubygems.org/profiles/sablokgaurav)](https://rubygems.org/profiles/sablokgaurav)
-[![pythonpackages](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pypi.org/user/sablokgaurav/)](https://pypi.org/user/sablokgaurav/)
-[![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
-[![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
-
 #### if you would like to sponsor to a course for developing my skills in the respective area, kindly let me know.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&locale=en&hide_title=false&layout=compact&card_width=150&langs_count=5&theme=dark&hide_border=false" height="100" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sablokgaurav&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
-</div>
-
