@@ -39,7 +39,7 @@ Potsdam,Germany \
 📋 When I am not writing code, I am reading and learning new code. \
 📋 You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
 📋 You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
-📋 if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email.
+📋 if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
 📋 Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Personal views 
