@@ -1,5 +1,4 @@
 ### Hallo My name is Gaurav Sablok 
-### Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam,Germany 
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
