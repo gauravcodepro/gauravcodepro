@@ -14,14 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sablokgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sablokgaurav" /> </p>
 
-<div> <a href="https://github.com/sablokgaurav" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&layout=compact&theme=transparent" alt=sablokgaurav />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=true&locale=en&theme=transparent" alt="sablokgaurav" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=" alt="sablokgaurav" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/sablokgaurav">
