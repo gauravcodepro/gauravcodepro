@@ -14,10 +14,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=true" height="180" alt="stats graph"  />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=8&theme=light&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&locale=en&hide_title=true&layout=compact&card_width=150&langs_count=8&theme=light&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sablokgaurav&theme=transparent)](https://git.io/streak-stats)
