@@ -52,7 +52,7 @@ Potsdam,Germany \
 📋 “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
 📋 **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
 📋 **Deep Learning:** Python, R, learning Julia, graphsAPI. \
-📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
+📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python, NeoVim \
 📋 **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
 📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 📋 **Templating engine:** jinja and jinja2, jq and yq 
