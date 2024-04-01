@@ -1,4 +1,3 @@
-### Hallo My name is Gaurav Sablok 
 Gaurav Sablok \
 Academic Staff Member \
 Bioinformatics \
