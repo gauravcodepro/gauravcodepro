@@ -14,8 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sablokgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sablokgaurav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sablokgaurav&theme=" alt="sablokgaurav" /></a> </p>
-
 <div> <a href="https://github.com/sablokgaurav" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&layout=compact&theme=transparent" alt=sablokgaurav />
