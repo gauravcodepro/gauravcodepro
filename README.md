@@ -29,7 +29,7 @@ Potsdam,Germany \
 
 ### Research
 📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
-📋 **Research Interest: Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
+📋 **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
 📋 **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes with species of interest:plant, bacterial and fungal. \
 📋 **Sequencing platform** Illumina, PacBio, Oxford Nanopore. \
 📋 **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
