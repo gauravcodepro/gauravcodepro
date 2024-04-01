@@ -12,7 +12,10 @@
 [![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
 [![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sablokgaurav)](https://github.com/LordDashMe/github-contribution-stats/)
+<div> <a href="https://github.com/sablokgaurav" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=default"/>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&bg_color=000000&color=ffffff&line=ed333b&point=f9f06b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Research
