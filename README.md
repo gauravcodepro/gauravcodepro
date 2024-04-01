@@ -53,7 +53,7 @@ Potsdam,Germany \
 📋 **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
 📋 **Deep Learning:** Python, R, learning Julia, graphsAPI. \
 📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-📋 **Web Application:** Streamlit, Ruby on Rails, Django, HTML and Tailwind CSS \
+📋 **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
 📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 📋 **Templating engine:** jinja and jinja2, jq and yq 
 
