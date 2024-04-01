@@ -13,7 +13,7 @@
 [![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
 
 [![image](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=dark&show_icons=true&hide_border=true&count_private=true)]
-[image](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=dark&hide_border=true)
+[![image](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=dark&hide_border=true)]
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&bg_color=000000&color=ffffff&line=ed333b&point=f9f06b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Research
