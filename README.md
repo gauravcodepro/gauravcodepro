@@ -19,6 +19,7 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sablokgaurav&theme=transparent)](https://git.io/streak-stats)
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&bg_color=000000&color=ffffff&line=ed333b&point=f9f06b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Research
