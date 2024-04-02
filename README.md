@@ -19,8 +19,8 @@
 <a href="https://github.com/sablokgaurav">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sablokgaurav&theme=dark" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sablokgaurav&theme=dark" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sablokgaurav&theme=blueberry" height="150em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sablokgaurav&theme=blueberry" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sablokgaurav&theme=dark" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sablokgaurav&theme=dark" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=dark" height="150em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
