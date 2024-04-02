@@ -49,12 +49,12 @@
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :star: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
-:star: **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
-:star: **Deep Learning:** Python, R, learning Julia, graphsAPI. \
-:star: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python, NeoVim \
-:star: **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
-:star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
-:star: **Templating engine:** jinja and jinja2, jq and yq 
+:star: **Bioinformatics:**  NeoVim, Python, R, Ruby, Awk, Shell, Nushell \
+:star: **Deep Learning:**  NeoVim, Python, R, learning Julia, graphsAPI. \
+:star: **DevOPs:**  NeoVim, Shell, NuShell, Awk, Ruby, HashiCorp, Python, NeoVim \
+:star: **Web Application:**  NeoVim, Streamlit, Django, HTML and Tailwind CSS \
+:star: **Static documentation:**  NeoVim, Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
+:star: **Templating engine:**  NeoVim, jinja and jinja2, jq and yq 
 
 ### Python Packages: building release version
 :star: a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
