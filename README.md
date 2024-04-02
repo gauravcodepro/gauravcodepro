@@ -27,34 +27,34 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=tokyo-night"/>
 
 ### Research
-📋 Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
-📋 **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
-📋 **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes with species of interest:plant, bacterial and fungal. \
-📋 **Sequencing platform** Illumina, PacBio, Oxford Nanopore. \
-📋 **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
-📋 **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. Established computing clusters and blades. I am skilled in both pbs and slurm \
-📋 **Generative AI and Graphs.** \
-📋 When I am not writing code, I am reading and learning new code. \
-📋 You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
-📋 You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
-📋 if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
-📋 Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
+:star: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
+:star: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
+:star: **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes with species of interest:plant, bacterial and fungal. \
+:star: **Sequencing platform** Illumina, PacBio, Oxford Nanopore. \
+:star: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
+:star: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. Established computing clusters and blades. I am skilled in both pbs and slurm \
+:star: **Generative AI and Graphs.** \
+:star: When I am not writing code, I am reading and learning new code. \
+:star: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
+:star: You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
+:star: if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
+:star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Personal views 
-📋 If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md) \
+:star: If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md) \
 🔦 There is no cost to make any assumption but there is a heap of effort cost to show results. \
 🤔 No two code writers think alike, so if you dont read others code you will neve be able to do better. 
 
 ### Code 
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
-📋 “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
-📋 **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
-📋 **Deep Learning:** Python, R, learning Julia, graphsAPI. \
-📋 **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python, NeoVim \
-📋 **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
-📋 **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
-📋 **Templating engine:** jinja and jinja2, jq and yq 
+:star: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
+:star: **Bioinformatics:** Python, R, Ruby, Awk, Shell, Nushell \
+:star: **Deep Learning:** Python, R, learning Julia, graphsAPI. \
+:star: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python, NeoVim \
+:star: **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
+:star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
+:star: **Templating engine:** jinja and jinja2, jq and yq 
 
 ### Python Packages: building release version
 :star: a python for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
