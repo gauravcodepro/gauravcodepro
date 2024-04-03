@@ -12,7 +12,7 @@
 [![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
 [![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
 
-<p><img align="right" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=github-dark" alt="sablokgaurav" /></p>
+<p><img align="center" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=github-dark" alt="sablokgaurav" /></p>
 <div align="center">
 <a href="https://github.com/sablokgaurav">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sablokgaurav&theme=2077" height="130em" />
@@ -21,7 +21,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sablokgaurav&theme=2077" height="130em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=2077" height="130em" />
 </div>
-  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github-compact"/>
 
