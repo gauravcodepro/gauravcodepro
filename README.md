@@ -63,4 +63,5 @@
 :star: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) 
 #### Ruby gems: in development
 :star: fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
-:star: alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads
+:star: alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads \
+  :star: a protein alignment version for the genome annotation which is in release can be found at and has support for all gff and paf alignments [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem)
