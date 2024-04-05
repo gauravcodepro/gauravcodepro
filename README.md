@@ -60,7 +60,8 @@
 :star: **pacbioquick**: a python package for pacbioreads 
 ### Ruby gems: [released](https://rubygems.org/profiles/sablokgaurav)
 :star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
-:star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) 
+:star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \
+:star: **fasta_tokenizer**: a fasta tokenizer genrator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner)
 #### Ruby gems: in development
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
