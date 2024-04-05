@@ -64,4 +64,4 @@
 #### Ruby gems: in development
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
-:star: **protalign**: a pre-release protein alignment gem for the genome annotation and has support for all gff and paf alignments [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem)
+:star: **protalign**: a pre-release protein alignment gem for the genome annotation supports gff and paf alignments [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem)
