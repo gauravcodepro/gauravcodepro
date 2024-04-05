@@ -47,7 +47,7 @@
 :star: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
 :star: **Bioinformatics:**  NeoVim, Python, R, Ruby, Awk, Shell, Nushell \
 :star: **Deep Learning:**  NeoVim, Python, R, learning Julia, graphsAPI. \
-:star: **DevOPs:**  NeoVim, Shell, NuShell, Awk, Ruby, HashiCorp, Python, NeoVim \
+:star: **DevOPs:**  NeoVim, Shell, NuShell, Awk, Ruby, HashiCorp, Python \
 :star: **Web Application:**  NeoVim, Streamlit, Django, HTML and Tailwind CSS \
 :star: **Static documentation:**  NeoVim, Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :star: **Templating engine:**  NeoVim, jinja and jinja2, jq and yq 
@@ -64,4 +64,4 @@
 #### Ruby gems: in development
 :star: fluxmodels: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: alignruby: a ruby gem for graph building from the pacbio and pacbiohifi reads \
-  :star: a protein alignment version for the genome annotation which is in release can be found at and has support for all gff and paf alignments [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem)
+  :star: a pre release protein alignment gem for the genome annotation and has support for all gff and paf alignments [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem)
