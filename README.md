@@ -35,7 +35,7 @@
 :star: if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.\
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
-📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
+📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) 
 
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. \
