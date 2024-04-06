@@ -34,6 +34,8 @@
 :star: You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
 :star: if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
+🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
+📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. \
@@ -42,8 +44,6 @@
 :star: clean the code and also forked repositories once a week.
 
 ### Programming Languages
-🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
-📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :star: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
 :star: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Nushell \
 :star: **Deep Learning:**  Python, R, learning Julia, graphsAPI. \
