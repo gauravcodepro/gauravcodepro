@@ -7,7 +7,6 @@
 [![github](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sablokgaurav)](https://github.com/sablokgaurav)
 [![orcid](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
 [![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
-[![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
 
 <div align="center">
 <a href="https://github.com/sablokgaurav">
@@ -50,7 +49,7 @@
 :star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :star: **Templating engine:** jinja and jinja2, jq and yq 
 
-### Python Packages: building release version[![pythonpackages](https://pypi.org/user/sablokgaurav/)
+### Python Packages: building release version [pythonpackages](https://pypi.org/user/sablokgaurav/)
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
@@ -64,3 +63,4 @@
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
+### docker applications: [docker](https://hub.docker.com/u/sablokg)
