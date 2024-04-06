@@ -2,12 +2,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=1&color=1)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github-compact" height="150em" />
+  ![](https://github-readme-stats.vercel.app/api?username=sablokgaurav&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sablokgaurav&theme=onedark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sablokgaurav&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github" height="150em" />
 </div>
 <h3 align="left">⚡Activity Graph:</h3>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github"/>
