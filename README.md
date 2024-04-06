@@ -50,7 +50,7 @@
 :star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :star: **Templating engine:** jinja and jinja2, jq and yq 
 
-### Python Packages: building release version
+### Python Packages: building release version[![pythonpackages](https://pypi.org/user/sablokgaurav/)
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
