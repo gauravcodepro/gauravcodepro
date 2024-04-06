@@ -10,7 +10,7 @@
 
 ### About me
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: and [group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
-📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
+📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) and [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :star: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :star: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
 :star: **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes with species of interest:plant, bacterial and fungal. \
