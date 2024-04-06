@@ -50,13 +50,13 @@
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
-### Python Packages in development  
+### Python Packages building release version  
 :star: **pacbioquick**: a python package for pacbioreads 
 ### Ruby gems: [released](https://rubygems.org/profiles/sablokgaurav)
 :star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
 :star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \
 :star: **fasta_tokenizer**: a fasta tokenizer genrator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner)
-### Ruby gems: in development
+### Ruby gems: building release version
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
