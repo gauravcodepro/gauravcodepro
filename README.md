@@ -6,8 +6,6 @@
 [![google scholar](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
 [![github](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sablokgaurav)](https://github.com/sablokgaurav)
 [![orcid](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
-[![rubygems](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rubygems.org/profiles/sablokgaurav)](https://rubygems.org/profiles/sablokgaurav)
-[![pythonpackages](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pypi.org/user/sablokgaurav/)](https://pypi.org/user/sablokgaurav/)
 [![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
 [![docker](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://hub.docker.com/u/sablokg)](https://hub.docker.com/u/sablokg)
 
