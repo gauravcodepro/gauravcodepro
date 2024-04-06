@@ -7,10 +7,9 @@
 <a href="https://github.com/sablokgaurav">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sablokgaurav&theme=github" height="130em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sablokgaurav&theme=github" height="130em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sablokgaurav&theme=github" height="130em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github" height="130em" />
 </div>
-<h2 align="left">⚡Activity Graph:</h2>
+<h3 align="left">⚡Activity Graph:</h3>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github"/>
 
 ### About me
