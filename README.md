@@ -1,6 +1,6 @@
-<div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany </div>
+<div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany 
 
-[universitat potsdam](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok), [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014), [frontiers](https://loop.frontiersin.org/people/33293/overview), [google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate), [orcid]https://orcid.org/0000-0002-4157-9405), [linux community](https://linuxcommunity.io/u/sablokgaurav/summary)
+[universitat potsdam](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok), [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014), [frontiers](https://loop.frontiersin.org/people/33293/overview), [google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate), [orcid](https://orcid.org/0000-0002-4157-9405), [linux community](https://linuxcommunity.io/u/sablokgaurav/summary)
 
 <div align="center">
 <a href="https://github.com/sablokgaurav">
