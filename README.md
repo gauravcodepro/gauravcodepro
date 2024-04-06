@@ -36,9 +36,8 @@
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Personal views 
-:star: If you are interested in reading some personal views [You can read the personal views here](https://github.com/sablokgaurav/code_ethics/blob/main/ethics.md) \
-🔦 There is no cost to make any assumption but there is a heap of effort cost to show results. \
-🔦 Dont waste your time on assumptive people, you will never be able to make anything out of them. After sometime, everyone start to see what they are.\
+:bulb: There is no cost to make any assumption but there is a heap of effort cost to show results. \
+:bulb: Dont waste your time on assumptive people, you will never be able to make anything out of them. After sometime, everyone start to see what they are.\
 :star: keep a day off from coding and codebug fixes. \
 :star: dont go for all the programming languages. \
 :star: clean the code and also forked repositories once a week.
