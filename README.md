@@ -1,7 +1,4 @@
-<div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany 
-
-[universitat potsdam](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok), [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014), [frontiers](https://loop.frontiersin.org/people/33293/overview), [google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate), [orcid](https://orcid.org/0000-0002-4157-9405), [linux community](https://linuxcommunity.io/u/sablokgaurav/summary)
-</div>
+<div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany </div>
 
 <div align="center">
 <a href="https://github.com/sablokgaurav">
@@ -13,7 +10,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github"/>
 
 ### About me
-🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
+🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: and [group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :star: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :star: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
@@ -30,8 +27,8 @@
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. \
 :bulb: Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are.\
-:star: keep a day off from coding and codebug fixes. \
-:star: clean the code and also forked repositories once a week.
+:star: keep a day off from coding and fix the bugs in code. \
+:star: clean the code and forked repositories once a week.
 ### Programming Languages
 :star: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
 :star: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Nushell \
@@ -55,3 +52,10 @@
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
+
+### Associations and Communities
+[linux community](https://linuxcommunity.io/u/sablokgaurav/summary) \
+[web of science](https://www.webofscience.com/wos/author/record/C-5940-2014) \
+[orcid](https://orcid.org/0000-0002-4157-9405) \
+[frontiers](https://loop.frontiersin.org/people/33293/overview) \
+[google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
