@@ -41,18 +41,18 @@
 :star: **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
 :star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :star: **Templating engine:** jinja and jinja2, jq and yq 
-### Python Packages: building release version [pythonpackages](https://pypi.org/user/sablokgaurav/)
+### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) 
-### Python Packages building release version  
+### [Python Packages](https://pypi.org/user/sablokgaurav/) building release version  
 :star: **pacbioquick**: a python package for pacbioreads 
-### Ruby gems: [released](https://rubygems.org/profiles/sablokgaurav)
+### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released
 :star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
 :star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \
 :star: **fasta_tokenizer**: a fasta tokenizer genrator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner)
-### Ruby gems: building release version
+### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): building release version
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
-### Docker applications: [Docker](https://hub.docker.com/u/sablokg)
+### [Docker applications](https://hub.docker.com/u/sablokg)
