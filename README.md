@@ -21,7 +21,7 @@
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github-compact"/>
 
-### Research
+### Introduction
 :star: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :star: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
 :star: **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes with species of interest:plant, bacterial and fungal. \
@@ -36,13 +36,12 @@
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Personal views 
-:bulb: There is no cost to make any assumption but there is a heap of effort cost to show results. \
-:bulb: Dont waste your time on assumptive people, you will never be able to make anything out of them. After sometime, everyone start to see what they are.\
+:bulb: There is no cost to make any assumption but there is a heap of effort to show results. \
+:bulb: Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are.\
 :star: keep a day off from coding and codebug fixes. \
-:star: dont go for all the programming languages. \
 :star: clean the code and also forked repositories once a week.
 
-### Code 
+### Programming Languages
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: \
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) or [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :star: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
