@@ -1,11 +1,11 @@
 <div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany </div>
 
-<div align = "center">[![universitat potsdam](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) </div>
-<div align = "center">[![web of science](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.webofscience.com/wos/author/record/C-5940-2014)](https://www.webofscience.com/wos/author/record/C-5940-2014)
-<div align = "center">[![frontiers](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://loop.frontiersin.org/people/33293/overview)](https://loop.frontiersin.org/people/33293/overview)
-<div align = "center">[![google scholar](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)](https://scholar.google.com/citations?<div align = "center">hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
-<div align = "center">[![orcid](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://orcid.org/0000-0002-4157-9405)](https://orcid.org/0000-0002-4157-9405)
-<div align = "center">[![linux community](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linuxcommunity.io/u/sablokgaurav/summary)](https://linuxcommunity.io/u/sablokgaurav/summary)
+[universitat potsdam](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok)
+[web of science](https://www.webofscience.com/wos/author/record/C-5940-2014)
+[frontiers](https://loop.frontiersin.org/people/33293/overview)
+[google scholar](https://scholar.google.com/citations?<div align = "center">hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
+[orcid]https://orcid.org/0000-0002-4157-9405)
+[linux community](https://linuxcommunity.io/u/sablokgaurav/summary)
 
 <div align="center">
 <a href="https://github.com/sablokgaurav">
