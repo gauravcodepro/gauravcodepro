@@ -53,10 +53,4 @@
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
 
-### Associations and Communities
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sablokgauravsablokgaurav) 
-[linux community](https://linuxcommunity.io/u/sablokgaurav/summary) \
-[web of science](https://www.webofscience.com/wos/author/record/C-5940-2014) \
-[orcid](https://orcid.org/0000-0002-4157-9405) \
-[frontiers](https://loop.frontiersin.org/people/33293/overview) \
-[google scholar](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate)
+### Associations and Communities: [linux community](https://linuxcommunity.io/u/sablokgaurav/summary) 
