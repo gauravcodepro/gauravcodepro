@@ -6,7 +6,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github" height="150em" />
 </div>
 <h3 align="left">⚡Activity Graph:</h3>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github_compact"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sablokgaurav&theme=github"/>
 
 ### About me
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: and [group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
