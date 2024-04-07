@@ -17,14 +17,15 @@
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Soft Skills
-- I am very pro-active in making communication and upskilling on emerging trends. Active user of proper resources to make everything easier. 
+- I am very pro-active in making communication and upskilling on emerging trends.
+- Active user of proper resources to make everything easier. 
 - Bring professional and skill development by reading about the latest trends. 
 - Prefer office space work but also open to remote work 1-2 days. 
 - Efficient in time and project requirements, approaches and solving limitations. 
  
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are. \
-:star:- AI was invented by people talking at the table and not computer generated itself (so an outcome of the efforts from the human and not computer), so i believe that if we have something to discuss, then lets talk and bring a solution to the same. \
+:star:- AI was invented by people talking at the table,so an outcome of the efforts from the human and not computer, so i believe have a question, prompt it and lets solve it. \
 :star: keep a day off from coding and fix the bugs in code. \
 :star: clean the code and forked repositories once a week.
 ### Programming Languages
