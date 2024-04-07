@@ -1,5 +1,4 @@
 <div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany </div>
-
 [![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ### About me
@@ -50,3 +49,8 @@
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
+
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github" height="150em" />
+</div>
+
