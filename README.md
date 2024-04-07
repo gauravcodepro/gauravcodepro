@@ -1,5 +1,4 @@
 <div align = "center"> Gaurav Sablok, Academic Staff Member, Bioinformatics, Institute for Biochemistry and Biology, Universität Potsdam, Potsdam, Germany </div>
-[![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ### About me
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: and [group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
@@ -17,8 +16,7 @@
 :star: if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 ### Personal views 
-:bulb: There is no cost to make any assumption but there is a heap of effort to show results. \
-:bulb: Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are.\
+:bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are.
 :star: keep a day off from coding and fix the bugs in code. \
 :star: clean the code and forked repositories once a week.
 ### Programming Languages
