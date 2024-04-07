@@ -16,10 +16,10 @@
 
 ### Soft Skills
 - I am very pro-active in making communication and upskilling on emerging trends.
-- Active user of proper resources to make everything easier. 
-- Professional and skill development by reading about the latest trends both in code, personal and professional development. 
+- Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches.
+- Profile development by reading about the latest trends in code, personal and professional development. 
 - Prefer office space work but also open to remote work 1-2 days. 
-- Efficient in time and project requirements, approaches and solving limitations. 
+- Efficient in time and project requirements, approaches and solving limitations.
  
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are. \
