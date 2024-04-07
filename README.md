@@ -25,7 +25,7 @@
  
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are. \
-:star:- AI was invented by people talking at the table,so an outcome of the efforts from the human and not computer, so i believe have a question, prompt it and lets solve it. \
+:star: AI was invented by people talking at the table,so an outcome of the efforts from the human and not computer, so i believe have a question, prompt it and lets solve it. \
 :star: keep a day off from coding and fix the bugs in code. \
 :star: clean the code and forked repositories once a week.
 ### Programming Languages
