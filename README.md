@@ -15,8 +15,16 @@
 :star: You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
 :star: if you would like to sponsor for a course such as language models or generative AI or DevOPs, drop me an email. \
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
+
+### Soft Skills
+- I am very pro-active in making communication and upskilling on emerging trends. Active user of proper resources to make everything easier. \
+- Bring professional and skill development by reading about the latest trends. \
+- Prefer office space work but also open to remote work 1-2 days. \
+- Efficient in time and project requirements, approaches and solving limitations. 
+ 
 ### Personal views 
-:bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are.
+:bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are. \
+:star:- AI was invented by people talking at the table and not computer generated itself (so an outcome of the efforts from the human and not computer), so i believe that if we have something to discuss, then lets talk and bring a solution to the same. \
 :star: keep a day off from coding and fix the bugs in code. \
 :star: clean the code and forked repositories once a week.
 ### Programming Languages
