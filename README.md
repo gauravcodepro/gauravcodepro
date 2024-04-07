@@ -2,10 +2,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=sablokgaurav&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github" height="150em" />
-</div>
-
 ### About me
 🌍  I'm based in Germany at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: and [group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) \
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) and [sablokg@gmail.com](mailto:sablokg@gmail.com) \
