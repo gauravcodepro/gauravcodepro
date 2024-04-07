@@ -17,7 +17,7 @@
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 ### Soft Skills
-- I am very pro-active in making communication and upskilling on emerging trends. Active user of proper resources to make everything easier. \
+- I am very pro-active in making communication and upskilling on emerging trends. Active user of proper resources to make everything easier. 
 - Bring professional and skill development by reading about the latest trends. 
 - Prefer office space work but also open to remote work 1-2 days. 
 - Efficient in time and project requirements, approaches and solving limitations. 
