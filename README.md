@@ -37,6 +37,10 @@
 :star: **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
 :star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :star: **Templating engine:** jinja and jinja2, jq and yq 
+
+### Operating system:
+:star: [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) 
+
 ### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
@@ -52,5 +56,3 @@
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
-
-### Associations and Communities: [linux community](https://linuxcommunity.io/u/sablokgaurav/summary) 
