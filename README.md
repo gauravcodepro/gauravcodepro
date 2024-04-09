@@ -38,7 +38,8 @@
 :star: **Templating engine:** jinja and jinja2, jq and yq 
 
 ### Operating system:
-:star: [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) 
+:star: [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) \
+:star: [Discord](https://discord.com/) **sablokgaurav**
 
 ### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
