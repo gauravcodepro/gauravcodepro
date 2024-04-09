@@ -48,7 +48,7 @@
 :star: **pacbioquick**: a python package for pacbioreads 
 ### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released
 :star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) [![Gem Version](https://badge.fury.io/rb/devops_system_util_profiler.svg)](https://badge.fury.io/rb/devops_system_util_profiler) \
-:star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \ [![Gem Version](https://badge.fury.io/rb/template_creator.svg)](https://badge.fury.io/rb/template_creator)
+:star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator)  [![Gem Version](https://badge.fury.io/rb/template_creator.svg)](https://badge.fury.io/rb/template_creator) \
 :star: **fasta_tokenizer**: a fasta tokenizer genrator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner) [![Gem Version](https://badge.fury.io/rb/fasta_motif_sliding_generator.svg)](https://badge.fury.io/rb/fasta_motif_sliding_generator) \
 :star: **panacheextract**: a ruby gem for dealing with all the alignment files for the panache and extracting all the snps specific information [panacheextract](https://rubygems.org/gems/panacheextract) [![Gem Version](https://badge.fury.io/rb/panacheextract.svg)](https://badge.fury.io/rb/panacheextract)
 ### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): building release version
