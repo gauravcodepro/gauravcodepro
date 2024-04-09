@@ -6,7 +6,8 @@
 :star: **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes with species of interest:plant, bacterial and fungal. \
 :star: **Sequencing platform** Illumina, PacBio, Oxford Nanopore. \
 :star: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
-:star: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. Established computing clusters and blades. I am skilled in both pbs and slurm \
+:star: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. 
+:star: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
 :star: **Generative AI and Graphs.** \
 :star: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
 :star: You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
