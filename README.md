@@ -20,7 +20,7 @@
 - Profile development by reading about the latest trends in code, personal and professional development. 
 - Prefer office space work but also open to remote work 1-2 days. 
 - Efficient in time and project requirements, approaches and solving limitations.
- 
+ panacheextract-0.0.1.gem
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are. \
 :star: AI was invented by people talking at the table,so an outcome of the efforts from the human and not computer, so i believe have a question, prompt it and lets solve it. \
@@ -54,7 +54,7 @@
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) \
-:star: **panacheextract**: a ruby gem for dealing with all the alignment files for the panache and extracting all the snps specific information [panacheextract](https://rubygems.org/gems/panacheextract)
+:star: **panacheextract**: a ruby gem for dealing with all the alignment files for the panache and extracting all the snps specific information [panacheextract](https://rubygems.org/gems/panacheextract) [![Gem Version](https://badge.fury.io/rb/panacheextract.svg)](https://badge.fury.io/rb/panacheextract)
 ### [Julia Packages](https://juliahub.com/): building release version
 :star: **panachegraph** a pre-release version of the a implementation of genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
