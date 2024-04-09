@@ -12,14 +12,12 @@
 :star: You can read the curriculum vitae here: [curriculum vitae](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/curriculum_vitae_sablokgaurav_2024.pdf) \
 :star: You can read the employers references and what they say about me [employers](https://github.com/sablokgaurav/code_quicklook_curriculum_vitae/blob/main/curriculum_vitae/front_letter_references.pdf). \
 :star: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
-
 ### Soft Skills
 - I am very pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches.
 - Profile development by reading about the latest trends in code, personal and professional development. 
 - Prefer office space work but also open to remote work 1-2 days. 
 - Efficient in time and project requirements, approaches and solving limitations.
- panacheextract-0.0.1.gem
 ### Personal views 
 :bulb: There is no cost to make any assumption but there is a heap of effort to show results. Dont waste your time on assumptive people and anyone assumptions, you will never be able to make anything out of them. After sometime, everyone start to see what they are. \
 :star: AI was invented by people talking at the table,so an outcome of the efforts from the human and not computer, so i believe have a question, prompt it and lets solve it. \
