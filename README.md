@@ -53,7 +53,8 @@
 ### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): building release version
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
-:star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem)
+:star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) \
+:star: **panacheextract**: a ruby gem for dealing with all the alignment files for the panache and extractting all the snps specific information [panacheextract](https://rubygems.org/gems/panacheextract)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
 
 <div align="center">
