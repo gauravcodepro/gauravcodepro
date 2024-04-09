@@ -47,14 +47,15 @@
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) \
 :star: **pacbioquick**: a python package for pacbioreads 
 ### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released
-:star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) \
-:star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \
-:star: **fasta_tokenizer**: a fasta tokenizer genrator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner)
+:star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) [![Gem Version](https://badge.fury.io/rb/devops_system_util_profiler.svg)](https://badge.fury.io/rb/devops_system_util_profiler) \
+:star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator) \ [![Gem Version](https://badge.fury.io/rb/template_creator.svg)](https://badge.fury.io/rb/template_creator)
+:star: **fasta_tokenizer**: a fasta tokenizer genrator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner) [![Gem Version](https://badge.fury.io/rb/fasta_motif_sliding_generator.svg)](https://badge.fury.io/rb/fasta_motif_sliding_generator) \
+:star: **panacheextract**: a ruby gem for dealing with all the alignment files for the panache and extracting all the snps specific information [panacheextract](https://rubygems.org/gems/panacheextract) [![Gem Version](https://badge.fury.io/rb/panacheextract.svg)](https://badge.fury.io/rb/panacheextract)
 ### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): building release version
 :star: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) \
-:star: **panacheextract**: a ruby gem for dealing with all the alignment files for the panache and extracting all the snps specific information [panacheextract](https://rubygems.org/gems/panacheextract) [![Gem Version](https://badge.fury.io/rb/panacheextract.svg)](https://badge.fury.io/rb/panacheextract)
+
 ### [Julia Packages](https://juliahub.com/): building release version
 :star: **panachegraph** a pre-release version of the a implementation of genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
