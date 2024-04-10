@@ -54,7 +54,7 @@
 :star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) 
 
 ### [Julia Packages](https://juliahub.com/): building release version
-:star: **panachegraph** a pre-release version of the a implementation of genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
+:star: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
 ### [Docker applications](https://hub.docker.com/u/sablokg)
 
 <div align="center">
