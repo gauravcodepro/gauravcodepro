@@ -35,7 +35,8 @@
 :star: **Templating engine:** jinja and jinja2, jq and yq 
 
 ### Operating system:
-:star: [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) \
+:star: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) \
+:star: Previously using MacBook. 
 :star: [Discord](https://discord.com/) **sablokgaurav**
 
 ### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
