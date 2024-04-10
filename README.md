@@ -37,7 +37,7 @@
 
 ### Operating system:
 :star: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) \
-:star: Previously using MacBook. 
+:star: Previously using MacBook. \
 :star: [Discord](https://discord.com/) **sablokgaurav**
 
 ### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
