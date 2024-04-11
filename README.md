@@ -60,6 +60,6 @@
 ### [Docker applications](https://hub.docker.com/u/sablokg)
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=github" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sablokgaurav&theme=onedark" height="200em" />
 </div>
 
