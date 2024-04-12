@@ -40,6 +40,8 @@
 :star: Previously using MacBook. \
 :star: [Discord](https://discord.com/) **sablokgaurav**
 
+### [codeearn](https://github.com/codeearn): Hosting the final released packages and subcompiled versions at my personal repository.
+
 ### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
