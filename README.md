@@ -20,7 +20,7 @@
 - Prefer office space work but also open to remote work 1-2 days. 
 - Efficient in time and project requirements, approaches and solving limitations.
 #### Personal views 
-:star: You can speak on anything but it takes effort to show. Speaking about anything is a freetime pass, that you do when you dont work on something. \
+:star: You can speak on anything but it takes effort to show. Speaking about anything is a freetime pass. \
 :star: I believe have a question, prompt it and lets solve it. \
 :star: keep a day off from coding and fix the bugs in code. \
 :star: clean the code and forked repositories once a week.
