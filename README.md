@@ -8,7 +8,7 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) and [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :star: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :star: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
-:star: **Bioinformatics**: genomes, transcriptomes, metagenomes and metatranscriptomes. \
+:star: **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
 :star: **Species**: plant, bacterial and fungal. \
 :star: **Sequencing platform** Illumina, PacBio, Oxford Nanopore. \
 :star: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
