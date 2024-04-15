@@ -34,7 +34,7 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :star: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
 :star: **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
 :star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
-:star: **Templating engine:** jinja and jinja2, jq and yq 
+:star: **Templating engine:** jinja and jinja2, jq and yq \
 :star: **Previously** C++ and Scala.
 
 ### Operating system:
