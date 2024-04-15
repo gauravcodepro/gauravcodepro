@@ -35,8 +35,7 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :star: **Web Application:** Streamlit, Django, HTML and Tailwind CSS \
 :star: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :star: **Templating engine:** jinja and jinja2, jq and yq 
-:Star: **Previously**
-      - C++ and Scala.
+:star: **Previously** C++ and Scala.
 
 ### Operating system:
 :star: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) \
