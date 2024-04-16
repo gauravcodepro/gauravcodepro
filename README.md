@@ -48,6 +48,7 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) \
+:star: **protein-annotator**: a python package for analyzing the genome annotations coming from the protein alignments [protein-annotator](https://github.com/sablokgaurav/protein-analyzer) \
 :star: **pacbioquick**: a python package for pacbioreads 
 #### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released
 :star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) [![Gem Version](https://badge.fury.io/rb/devops_system_util_profiler.svg)](https://badge.fury.io/rb/devops_system_util_profiler) \
