@@ -44,8 +44,6 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :star: Previously using MacBook. \
 :star: [Discord](https://discord.com/) **sablokgaurav**
 
-#### Final released packages.[codeearn](https://github.com/codeearn):
-
 #### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
