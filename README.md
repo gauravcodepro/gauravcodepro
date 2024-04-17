@@ -48,7 +48,8 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :star: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :star: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :star: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) \
-:star: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/sablokgaurav/protein-annotator) 
+:star: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/sablokgaurav/protein-annotator) \
+:star: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/sablokgaurav/ontologyanalyzer)
 #### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released
 :star: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) [![Gem Version](https://badge.fury.io/rb/devops_system_util_profiler.svg)](https://badge.fury.io/rb/devops_system_util_profiler) \
 :star: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator)  [![Gem Version](https://badge.fury.io/rb/template_creator.svg)](https://badge.fury.io/rb/template_creator) \
