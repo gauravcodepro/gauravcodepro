@@ -40,7 +40,7 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :star: **Previously** C++ and Scala.
 
 ### Operating system:
-:star: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) \
+:star: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) and [plasmakde](https://kde.org/) \
 :star: Previously using MacBook. \
 :star: [Discord](https://discord.com/) **sablokgaurav**
 
