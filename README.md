@@ -1,7 +1,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&show_icons=true&locale=en&layout=compact" alt="sablokgaurav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=false&locale=en&layout=compact" alt="sablokgaurav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=true&locale=en&layout=compact" alt="sablokgaurav" /></p>
 
 
 #### About me
