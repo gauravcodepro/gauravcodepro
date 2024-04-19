@@ -1,9 +1,3 @@
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sablokgaurav&show_icons=true&locale=en&layout=compact" alt="sablokgaurav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sablokgaurav&show_icons=true&locale=en&layout=compact" alt="sablokgaurav" /></p>
-
-
 #### About me
 
 I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de: \
