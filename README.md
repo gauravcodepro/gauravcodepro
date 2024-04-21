@@ -41,23 +41,21 @@ I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for B
 :point_right: Previously using MacBook. \
 :point_right: [Discord](https://discord.com/) **sablokgaurav**
 
-#### [Python Packages](https://pypi.org/user/sablokgaurav/): building release version 
+#### [Python Packages](https://pypi.org/user/sablokgaurav/): development and release version 
 :point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
 :point_right: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/sablokgaurav/graphanalyzer) \
 :point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/sablokgaurav/rnaprocessor) \
 :point_right: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/sablokgaurav/protein-annotator) \
 :point_right: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/sablokgaurav/ontologyanalyzer)
-#### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released
-:point_right: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) [![Gem Version](https://badge.fury.io/rb/devops_system_util_profiler.svg)](https://badge.fury.io/rb/devops_system_util_profiler) \
-:point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator)  [![Gem Version](https://badge.fury.io/rb/template_creator.svg)](https://badge.fury.io/rb/template_creator) \
-:point_right: **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner) [![Gem Version](https://badge.fury.io/rb/fasta_motif_sliding_generator.svg)](https://badge.fury.io/rb/fasta_motif_sliding_generator) \
-:point_right: **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract) [![Gem Version](https://badge.fury.io/rb/panacheextract.svg)](https://badge.fury.io/rb/panacheextract)
-#### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): building release version
+#### [Ruby gems](https://rubygems.org/profiles/sablokgaurav): released and development version
+:point_right: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/sablokgaurav/devops-system) [![Gem Version](https://badge.fury.io/rb/devops_system_util_profiler.svg&tyle=plastic)](https://badge.fury.io/rb/devops_system_util_profiler) \
+:point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/sablokgaurav/ruby_gem_creator)  [![Gem Version](https://badge.fury.io/rb/template_creator.svg&tyle=plastic)](https://badge.fury.io/rb/template_creator) \
+:point_right: **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/sablokgaurav/pacbiohifi-motif-scanner) [![Gem Version](https://badge.fury.io/rb/fasta_motif_sliding_generator.svg&tyle=plastic)](https://badge.fury.io/rb/fasta_motif_sliding_generator) \
+:point_right: **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract) [![Gem Version](https://badge.fury.io/rb/panacheextract.svg&tyle=plastic)](https://badge.fury.io/rb/panacheextract)
 :point_right: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
-:star: **alignruby**: a ruby gem for graph building from the pacbio and pacbiohifi reads \
-:star: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) 
+:point_right: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) 
 
 #### [Julia Packages](https://juliahub.com/): building release version
-:star: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
+:point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
 #### [Docker applications](https://hub.docker.com/u/sablokg)
 
