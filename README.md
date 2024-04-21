@@ -1,7 +1,7 @@
 #### About me
 
-I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de: \
-📧  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) and [sablokg@gmail.com](mailto:sablokg@gmail.com) \
+:point_right: I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de: \
+:point_right:  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) and [sablokg@gmail.com](mailto:sablokg@gmail.com) \
 :point_right: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :point_right: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
 :point_right: **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
