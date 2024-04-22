@@ -10,7 +10,7 @@
 :point_right: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
 :point_right: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. \
 :point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
-:point_right: **Git management**: both using the github commandline and also using the pro client exclusively **GitKraken inlcuding stagging, rebasing, stashing, commiting** \
+:point_right: **Git management**: Github commandline and GitKraken inlcuding stagging, rebasing, stashing, commiting \
 :point_right: **Generative AI and Graphs.** \
 :point_right: You can read the curriculum vitae here: [curriculum vitae](https://drive.google.com/file/d/1cmWwiBgFG40HnZxjxb913r-jjjuDAGFk/view?usp=sharing) and [citations](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate) and [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
 :point_right: You can read the employers references and what they say about me [employers](https://drive.google.com/file/d/1nRod167faP1GhjIUS1UCpd7iMBTAIUDf/view?usp=sharing). \
