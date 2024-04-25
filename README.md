@@ -59,5 +59,5 @@
 :point_right: **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/sablokgaurav/pacbiohifi-analyzer)
 #### [Julia Packages](https://juliahub.com/): building release version
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
-#### [R package]: building release version
+#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/): building release version
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/sablokgaurav/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/sablokgaurav/genome-annotation-visualizer)
