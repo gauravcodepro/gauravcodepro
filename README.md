@@ -56,7 +56,7 @@
 :point_right: **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract) \
 :point_right: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/sablokgaurav/flux-models-ruby) \
 :point_right: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/sablokgaurav/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/sablokgaurav/protein-multialign-gem) \
-:point_right: **pacbio-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/sablokgaurav/pacbiohifi-analyzer)
+:point_right: **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/sablokgaurav/pacbiohifi-analyzer)
 
 #### [Julia Packages](https://juliahub.com/): building release version
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/sablokgaurav/panachegraph)
