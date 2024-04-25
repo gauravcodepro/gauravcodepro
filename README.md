@@ -17,10 +17,10 @@
 :point_right: Hosting the completed packages at [codearn](https://github.com/codeearn) \
 :point_right: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 #### Soft Skills
-:point_right: I am very pro-active in making communication and upskilling on emerging trends.
-:point_right: Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches.
-:point_right: Profile development by reading about the latest trends in code, personal and professional development. 
-:point_right: Prefer office space work but also open to remote work 1-2 days. 
+:point_right: I am very pro-active in making communication and upskilling on emerging trends. \
+:point_right: Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches. \
+:point_right: Profile development by reading about the latest trends in code, personal and professional development. \
+:point_right: Prefer office space work but also open to remote work 1-2 days. \
 :point_right: Efficient in time and project requirements, approaches and solving limitations.
 
 #### Programming Languages
