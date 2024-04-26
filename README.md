@@ -36,11 +36,12 @@
 :point_right: **Bioinformatics templating:** Nextflow, Snakemake \
 :point_right: **Previously program:** C++ and Scala.
 
-### Operating system and Containerization:
+### Operating system, Containerization, Open Software:
 :point_right: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) and [plasmakde](https://kde.org/) \
 :point_right: Previously using MacBook. \
 :point_right: [Discord](https://discord.com/) **sablokgaurav** \
-:point_right: [Docker applications](https://hub.docker.com/u/sablokg)
+:point_right: [Docker applications](https://hub.docker.com/u/sablokg) \
+:point_right: [journal of open software](https://joss.theoj.org/)
 
 #### [Python Packages](https://pypi.org/user/sablokgaurav/): development and release version 
 :point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
