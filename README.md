@@ -29,13 +29,12 @@
 :point_right:  Progress thrives on the exchange of knowledge. (Albert Einstein) \
 :point_right:  Fortune favours the prepared mind. (Louis Pasteur) \
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Nushell, Scala. \
-:point_right: **Deep Learning:**  Python, R, Scala., learning Julia, graphsAPI. \
+:point_right: **Deep Learning:**  Python, R, Scala., learning Julia, learning graphsAPI. \
 :point_right: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-:point_right: **Web Application:** Streamlit, Django, Scala, HTML and Tailwind CSS \
+:point_right: **Web Application:** Streamlit, Shiny, Django, Scala, HTML and Tailwind CSS \
 :point_right: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
 :point_right: **Templating engine:** jinja and jinja2, jq and yq \
-:point_right: **Bioinformatics templating:** Nextflow, Snakemake \
-:point_right: **Previously program:** C++ 
+:point_right: **Bioinformatics templating:** Nextflow, Snakemake  
 
 ### Operating system, Containerization, Open Software:
 :point_right: Currently using Linux [Linux](https://linuxcommunity.io/u/sablokgaurav/summary) and [plasmakde](https://kde.org/) \
