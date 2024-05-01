@@ -27,6 +27,7 @@
 
 :point_right:  **Currently program:** \
 :point_right: “Progress thrives on the exchange of knowledge.” (Albert Einstein) \
+:point_right: "Fortune favours the prepared mind."(Louis Pasteur) \
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Nushell, Scala. \
 :point_right: **Deep Learning:**  Python, R, Scala., learning Julia, graphsAPI. \
 :point_right: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
