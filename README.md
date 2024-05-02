@@ -31,7 +31,7 @@
 :point_right:  Progress thrives on the exchange of knowledge. (Albert Einstein) \
 :point_right:  Fortune favours the prepared mind. (Louis Pasteur) \
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Nushell, Scala. \
-:point_right: **Deep Learning:**  Python, R, Scala., learning Julia, learning graphsAPI. \
+:point_right: **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI. \
 :point_right: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
 :point_right: **Web Application:** Streamlit, Shiny, Django, Scala, HTML and Tailwind CSS \
 :point_right: **Static documentation:** Markdown, ReadTheDocs, MKdocs, Jekyll and Ruby  \
