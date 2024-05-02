@@ -12,7 +12,7 @@
 :point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
 :point_right: **Git management**: Github commandline and GitKraken inlcuding stagging, rebasing, stashing, commiting \
 :point_right: **Generative AI and Graphs.** \
-:point_right: You can read the curriculum vitae here: [curriculum vitae](https://drive.google.com/file/d/1cmWwiBgFG40HnZxjxb913r-jjjuDAGFk/view?usp=sharing) and [citations](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate) and [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
+:point_right: You can read the curriculum vitae here: [curriculum vitae](https://drive.google.com/file/d/1EbUzcMlFnYQMxF_KiRyBT0Qo-VIptadh/view?usp=drive_link) and [citations](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate), and [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
 :point_right: You can read the employers references and what they say about me [employers](https://drive.google.com/file/d/1nRod167faP1GhjIUS1UCpd7iMBTAIUDf/view?usp=sharing). \
 :point_right: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 #### Soft Skills
