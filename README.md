@@ -12,7 +12,7 @@
 :point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
 :point_right: **Git management**: Github commandline and GitKraken inlcuding stagging, rebasing, stashing, commiting \
 :point_right: **Generative AI and Graphs.** \
-:point_right: You can read the curriculum vitae here: [curriculum vitae](https://drive.google.com/file/d/1EbUzcMlFnYQMxF_KiRyBT0Qo-VIptadh/view?usp=sharing) and [citations](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate), and [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
+:point_right: You can read the curriculum vitae here: [curriculum vitae](https://drive.google.com/file/d/1xhPEQmup5iXFC3Bpv8y5jnn9Dm5Itv5F/view?usp=sharing) and [citations](https://scholar.google.com/citations?hl=de&user=XaA2hbUAAAAJ&view_op=list_works&sortby=pubdate), and [web of science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
 :point_right: You can read the employers references and what they say about me [employers](https://drive.google.com/file/d/1nRod167faP1GhjIUS1UCpd7iMBTAIUDf/view?usp=sharing). \
 :point_right: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 #### Soft Skills
@@ -46,7 +46,7 @@
 :point_right: [journal of open software](https://joss.theoj.org/)
 
 #### [Python Packages](https://pypi.org/user/sablokgaurav/): development and release version 
-:point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/sablokgaurav/tairaccession) \
+:point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravearn/tairaccession) \
 :point_right: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravearn/graphanalyzer) \
 :point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravearn/rnaprocessor) \
 :point_right: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravearn/protein-annotator) \
