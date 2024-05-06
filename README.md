@@ -9,7 +9,7 @@
 :point_right: **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
 :point_right: **Species**: plant, bacterial and fungal. \
 :point_right: **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC \
-:point_right: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other machine and deep learning \
+:point_right: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. \
 :point_right: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. \
 :point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
 :point_right: **Git management**: Github commandline and GitKraken inlcuding stagging, rebasing, stashing, commiting \
