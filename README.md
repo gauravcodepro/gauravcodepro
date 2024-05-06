@@ -63,3 +63,4 @@
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravearn/panachegraph)
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/): building release version
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravearn/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravearn/genome-annotation-visualizer)
+:point_right: **Streamlit and Chainlit Applications**, streamlit-pacbiohifi: a streamline application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://app-pacbiohifi-bgterm6cbucptwwvkbpaas.streamlit.app/) 
