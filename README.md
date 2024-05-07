@@ -41,7 +41,6 @@
 ### Operating system, Containerization, Open Software:
 :point_right: Currently using Ubuntu [Community](https://linuxcommunity.io/u/sablokgaurav/summary) with [PlasmaKDE](https://kde.org/) \
 :point_right: Previously used MacBook. \
-:point_right: [Discord](https://discord.com/) **gauravearn** \
 :point_right: [Docker applications](https://hub.docker.com/u/sablokg) \
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
 
