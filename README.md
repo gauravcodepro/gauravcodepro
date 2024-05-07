@@ -45,22 +45,22 @@
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
 
 #### [Python Packages](https://pypi.org/user/sablokgaurav/): development and release version 
-:point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravearn/tairaccession) \
-:point_right: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravearn/graphanalyzer) \
-:point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravearn/rnaprocessor) \
-:point_right: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravearn/protein-annotator) \
-:point_right: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravearn/ontologyanalyzer)
+:point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession) \
+:point_right: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) \
+:point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) \
+:point_right: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator) \
+:point_right: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
 #### [Ruby gems](https://rubygems.org/profiles/gauravearn): released and development version
-:point_right: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravearn/devops-system) \
-:point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravearn/ruby_gem_creator) \
-:point_right: **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/gauravearn/pacbiohifi-motif-scanner) \
+:point_right: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system) \
+:point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) \
+:point_right: **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) \
 :point_right: **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract) \
-:point_right: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/gauravearn/flux-models-ruby) \
-:point_right: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravearn/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravearn/protein-multialign-gem) \
-:point_right: **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravearn/pacbiohifi-analyzer)
+:point_right: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) \
+:point_right: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) \
+:point_right: **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer)
 #### [Julia Packages](https://juliahub.com/): building release version
-:point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravearn/panachegraph)
+:point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravcodepro/panachegraph)
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/): building release version
-:point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravearn/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravearn/genome-annotation-visualizer) 
+:point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
 #### [Streamlit and Chainlit Applications](https://streamlit.io/)
 :point_right: **streamlit-pacbiohifi**: a streamline application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) 
