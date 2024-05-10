@@ -60,4 +60,5 @@
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/): building release version
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
 #### [Streamlit and Chainlit Applications](https://streamlit.io/)
-:point_right: **streamlit-pacbiohifi**: a streamline application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) 
+:point_right: **streamlit-pacbiohifi**: a streamline application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
+:point_right: **streamlit univeristat potsdam devops application**: a streamline application for writing the configuration files for the analysis. No need for searching, it dynamically update the modules [slurm applicator](https://github.com/gauravcodepro/streamlit-up-application) 
