@@ -41,7 +41,7 @@
 :point_right: [Docker applications](https://hub.docker.com/u/sablokg) \
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
 
-#### [Python Packages](https://pypi.org/user/sablokgaurav/): development and release version 
+#### [Python Packages](https://pypi.org/user/gauravcodepro/): development and release version 
 :point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession) \
 :point_right: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) \
 :point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) \
