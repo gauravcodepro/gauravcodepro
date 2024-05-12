@@ -4,6 +4,7 @@
 :point_right:  Progress thrives on the exchange of knowledge. (Albert Einstein) \
 :point_right:  Fortune favours the prepared mind. (Louis Pasteur) \
 :point_right:  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)  \
+:point_right: If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com) \
 :point_right: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :point_right: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
 :point_right: **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
