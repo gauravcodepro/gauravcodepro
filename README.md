@@ -38,7 +38,7 @@
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
 
 #### Continious Development and Deployment
-:point_right: **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development and integrations. \
+:point_right: **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development. \
 :point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. 
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/): development and release version 
