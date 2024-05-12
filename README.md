@@ -37,9 +37,9 @@
 :point_right: [Docker applications](https://hub.docker.com/u/sablokg) \
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
 
-#### Continious Development 
-:point_right: **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development and integrations. 
-:point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
+#### Continious Development and Deployment
+:point_right: **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development and integrations. \
+:point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. 
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/): development and release version 
 :point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession) \
