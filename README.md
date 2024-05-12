@@ -11,8 +11,6 @@
 :point_right: **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC \
 :point_right: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. \
 :point_right: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. \
-:point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
-:point_right: **Git management**: Github commandline and GitKraken inlcuding stagging, rebasing, stashing, commiting \
 :point_right: **Generative AI and Graphs.** \
 :point_right: You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/1xhPEQmup5iXFC3Bpv8y5jnn9Dm5Itv5F/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
 :point_right: You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1nRod167faP1GhjIUS1UCpd7iMBTAIUDf/view?usp=sharing). \
@@ -30,16 +28,20 @@
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell \
 :point_right: **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI. \
 :point_right: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-:point_right: **Web Application:** Streamlit, Shiny, Django, Julia, HTML and Javascript \
+:point_right: **Web Application:** Streamlit, Shiny, Django, Julia, HTML, Javascript \
 :point_right: **Static documentation:** Markdown, ReadTheDocs, Jekyll and Ruby  \
-:point_right: **Templating engine:** jinja and jinja2, jq and yq \
-:point_right: **Bioinformatics templating:** Nextflow, Snakemake  
+:point_right: **Templating engine:** jinja and jinja2, jq, yq \
+:point_right: **Bioinformatics templating:** Nextflow, Snakemake.  
 
 #### Operating system, Containerization, Open Software:
 :point_right: Currently using Ubuntu [Community](https://linuxcommunity.io/u/sablokgaurav/summary) with [PlasmaKDE](https://kde.org/) \
 :point_right: Previously used MacBook. \
 :point_right: [Docker applications](https://hub.docker.com/u/sablokg) \
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
+
+#### Continious Development 
+:point_right: **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development and integrations. 
+:point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/): development and release version 
 :point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession) \
