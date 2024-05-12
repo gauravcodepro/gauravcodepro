@@ -30,7 +30,7 @@
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell \
 :point_right: **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI. \
 :point_right: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-:point_right: **Web Application:** Streamlit, Shiny, Django, Julia, Scala, HTML and Tailwind CSS \
+:point_right: **Web Application:** Streamlit, Shiny, Django, Julia, HTML and Javascript \
 :point_right: **Static documentation:** Markdown, ReadTheDocs, Jekyll and Ruby  \
 :point_right: **Templating engine:** jinja and jinja2, jq and yq \
 :point_right: **Bioinformatics templating:** Nextflow, Snakemake  
