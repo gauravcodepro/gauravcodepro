@@ -62,4 +62,4 @@
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
 #### [Streamlit and Chainlit Applications](https://streamlit.io/)
 :point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
-:point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://github.com/gauravcodepro/streamlit-up-application) 
+:point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
