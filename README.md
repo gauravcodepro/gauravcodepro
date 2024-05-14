@@ -70,4 +70,4 @@
 :point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
 #### [Heroku Applications](https://www.heroku.com/)
-:point_right: **model-ontologies**: web application deployed for modelling ontologies on Heroku
+:point_right: **biological-terms**: web application deployed for modelling biological terms on Heroku
