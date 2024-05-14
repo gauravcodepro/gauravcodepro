@@ -22,6 +22,7 @@
 :point_right: Profile development by reading about the latest trends in code, personal and professional development. \
 :point_right: Prefer office space work but also open to remote work 1-2 days. \
 :point_right: Efficient in time and project requirements, approaches and solving limitations.
+:point_right: Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
 #### Programming Languages
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell \
