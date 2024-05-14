@@ -62,10 +62,10 @@
 #### [Julia Packages](https://juliahub.com/): building release version
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravcodepro/panachegraph)
 
-#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/): building release version
+#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building release version
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
 
-#### [Streamlit and Chainlit Applications](https://streamlit.io/)
+#### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
 :point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
 :point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
