@@ -13,8 +13,8 @@
 :point_right: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. \
 :point_right: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. \
 :point_right: **Generative AI and Graphs.** \
-:point_right: You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/1xhPEQmup5iXFC3Bpv8y5jnn9Dm5Itv5F/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
-:point_right: You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1nRod167faP1GhjIUS1UCpd7iMBTAIUDf/view?usp=sharing). \
+:point_right: You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
+:point_right: You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). \
 :point_right: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 #### Soft Skills
 :point_right: I am very pro-active in making communication and upskilling on emerging trends. \
