@@ -40,7 +40,7 @@
 #### Continious Development and Deployment
 :point_right: **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development. \
 :point_right: **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades. \
-:point_right: **[Herkou Development]**: Application deployment using [Herkou](https://devcenter.heroku.com/) \
+:point_right: **[Heroku Development]**: Application deployment using [Heroku](https://devcenter.heroku.com/) \
 :point_right: [Docker applications](https://hub.docker.com/u/gauravcodepro)
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/): development and release version 
