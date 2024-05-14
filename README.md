@@ -48,6 +48,7 @@
 :point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) \
 :point_right: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator) \
 :point_right: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
+
 #### [Ruby gems](https://rubygems.org/profiles/gauravcodepro): released and development version
 :point_right: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system) \
 :point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) \
@@ -56,10 +57,16 @@
 :point_right: **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) \
 :point_right: **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) \
 :point_right: **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer)
+
 #### [Julia Packages](https://juliahub.com/): building release version
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravcodepro/panachegraph)
+
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/): building release version
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
+
 #### [Streamlit and Chainlit Applications](https://streamlit.io/)
 :point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
 :point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
+
+#### [Heroku Applications](https://www.heroku.com/)
+:point_right: **model ontologies**: web application deployed for modelling ontologies on Heroku
