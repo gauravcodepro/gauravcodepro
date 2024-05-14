@@ -71,3 +71,6 @@
 
 #### [Heroku Applications](https://www.heroku.com/)
 :point_right: **biological-terms**: web application deployed for modelling biological terms on Heroku
+
+#### [WebAssembly Application](https://webassembly.org/)
+:point_right: **web-crawler**: an application for writing webassembly pattern.
