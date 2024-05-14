@@ -43,14 +43,14 @@
 :point_right: **Heroku Development**: Application deployment using [Heroku](https://devcenter.heroku.com/) \
 :point_right: **Docker**: [Docker applications](https://hub.docker.com/u/gauravcodepro)
 
-#### [Python Packages](https://pypi.org/user/gauravcodepro/): development and release version 
+#### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): development and release version 
 :point_right: **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession) \
 :point_right: **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) \
 :point_right: **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) \
 :point_right: **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator) \
 :point_right: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
 
-#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro): released and development version
+#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/) and [Crystal Community](https://forum.crystal-lang.org/): released and development version
 :point_right: **devopsutils**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system) \
 :point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) \
 :point_right: **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) \
