@@ -51,7 +51,7 @@
 :point_right: **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
 
 #### [Ruby gems](https://rubygems.org/profiles/gauravcodepro): released and development version
-:point_right: **devops_system_profiler**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system) \
+:point_right: **devopsutils**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system) \
 :point_right: **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) \
 :point_right: **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) \
 :point_right: **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract) \
