@@ -32,7 +32,7 @@
 :point_right: **Templating engine:** jinja and jinja2, jq, yq \
 :point_right: **Bioinformatics templating:** Nextflow, Snakemake.  
 
-#### Operating system, Containerization, Open Software:
+#### Operating system, Containerization, Open Software
 :point_right: Currently using [Ubuntu](https://kde.org/)  and [Community](https://linuxcommunity.io/) \
 :point_right: Previously used MacBook. \
 :point_right: [Docker applications](https://hub.docker.com/u/gauravcodepro) \
