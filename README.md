@@ -33,7 +33,7 @@
 :point_right: **Templating engine:** jinja and jinja2, jq, yq \
 :point_right: **Bioinformatics templating:** Nextflow, Snakemake.  
 
-#### Operating system, Containerization, Open Software
+#### Operating system, Open Software
 :point_right: Currently using [Ubuntu](https://kde.org/)  and [Community](https://linuxcommunity.io/) \
 :point_right: [Journal of Open Source Software](https://joss.theoj.org/)
 
