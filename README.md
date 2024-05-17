@@ -28,10 +28,11 @@
 :point_right: **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell \
 :point_right: **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI. \
 :point_right: **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python \
-:point_right: **Web Application:** Streamlit, Shiny, Django, Julia, HTML, Javascript \
+:point_right: **Web Application:** Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript \
 :point_right: **Static documentation:** Markdown, ReadTheDocs, Jekyll and Ruby  \
 :point_right: **Templating engine:** jinja and jinja2, jq, yq \
 :point_right: **Bioinformatics templating:** Nextflow, Snakemake.  
+:point_right: **Mathematical Modelling:** MATLAB.
 
 #### Operating system, Open Software
 :point_right: Currently using [Ubuntu](https://kde.org/)  and [Community](https://linuxcommunity.io/) \
@@ -71,6 +72,3 @@
 
 #### [Heroku Applications](https://www.heroku.com/)
 :point_right: **biological-terms**: web application deployed for modelling biological terms on Heroku
-
-#### [WebAssembly Application](https://webassembly.org/)
-:point_right: **web-crawler**: an application for writing webassembly pattern.
