@@ -3,7 +3,7 @@
 :point_right: I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de: \
 :point_right:  Progress thrives on the exchange of knowledge. (Albert Einstein) \
 :point_right:  Fortune favours the prepared mind. (Louis Pasteur) \
-<img width="48" height="48" src="https://img.icons8.com/color/48/filled-message.png" alt="filled-message"/>  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)  \
+<img width="48" height="10" src="https://img.icons8.com/color/48/filled-message.png" alt="filled-message"/>  You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)  \
 :point_right: If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com) \
 :point_right: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
 :point_right: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
