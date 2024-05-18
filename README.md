@@ -48,7 +48,7 @@
 - **Heroku Development**: Application deployment using [Heroku](https://devcenter.heroku.com/)
 - **Docker**: [Docker applications](https://hub.docker.com/u/gauravcodepro)
   
-#### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) <img width="60" height="60" src="https://img.icons8.com/external-outline-juicy-fish/60/external-web-side-hustles-outline-outline-juicy-fish-2.png" alt="external-web-side-hustles-outline-outline-juicy-fish-2"/> <img width="13" height="13" src="https://img.icons8.com/officel/16/internet.png" alt="internet"/>
+#### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) <img width="40" height="40" src="https://img.icons8.com/external-outline-juicy-fish/60/external-web-side-hustles-outline-outline-juicy-fish-2.png" alt="external-web-side-hustles-outline-outline-juicy-fish-2"/> <img width="20" height="20" src="https://img.icons8.com/officel/16/internet.png" alt="internet"/>
 
 :point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
 :point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
