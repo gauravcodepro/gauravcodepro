@@ -30,9 +30,7 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
 #### Programming Languages
-<img width="50" height="50" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/>
-
-<img width="64" height="64" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="64" height="64" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
 
 - **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell
 - **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI.
