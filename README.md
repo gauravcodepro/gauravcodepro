@@ -58,6 +58,9 @@
 - **Docker**: [Docker applications](https://hub.docker.com/u/gauravcodepro)
   
 #### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
+
+<img width="65" height="65" src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/external-web-web-hosting-flatarticons-blue-flatarticons-2.png" alt="external-web-web-hosting-flatarticons-blue-flatarticons-2"/>
+
 :point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
 :point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
