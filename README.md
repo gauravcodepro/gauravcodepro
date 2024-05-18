@@ -8,14 +8,14 @@
  - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
  - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
  - Highly communicative, motivated, task oriented, responsive, time oriented, approachable, solution seeker and initiative taker. 
- - **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
+ - **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. 
  - **Species**: plant, bacterial and fungal.
  - **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
  - **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. 
  - **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration.
  - **Generative AI and Graphs.**
  - You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
- - You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). \
+ - You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). 
  - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
 #### Soft Skills
