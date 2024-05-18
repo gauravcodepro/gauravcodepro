@@ -1,23 +1,21 @@
 #### About me
 
 <img width="100" height="100" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
-
-:point_right: I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de: \
-:point_right:  Progress thrives on the exchange of knowledge. (Albert Einstein) \
-:point_right:  Fortune favours the prepared mind. (Louis Pasteur) \
-<img width="20" height="20" src="https://img.icons8.com/color/100/filled-message.png" alt="filled-message"/> You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)  \
-:point_right: If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com) \
-:point_right: Highly communicative, motivated, task oriented, feature responsive, time oriented, approachable, solution seeker and initiative taker focussed professional person. \
-:point_right: **Bioinformatics |  Deep Learning | DevOps | Generative AI | Graphs** \
-:point_right: **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
-:point_right: **Species**: plant, bacterial and fungal. \
-:point_right: **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC \
-:point_right: **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. \
-:point_right: **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration. \
-:point_right: **Generative AI and Graphs.** \
-:point_right: You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)  \
-:point_right: You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). \
-:point_right: Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
+ - I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de:
+ - Progress thrives on the exchange of knowledge. (Albert Einstein)
+ - Fortune favours the prepared mind. (Louis Pasteur)
+ - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
+ - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
+ - Highly communicative, motivated, task oriented, responsive, time oriented, approachable, solution seeker and initiative taker. 
+ - **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, evolutionary and phylogenome analysis. \
+   -- **Species**: plant, bacterial and fungal.
+   -- **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
+ - **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. \
+ - **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration.
+ - **Generative AI and Graphs.**
+ - You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
+ - You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). \
+ - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 #### Soft Skills
 :point_right: I am very pro-active in making communication and upskilling on emerging trends. \
 :point_right: Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches. \
