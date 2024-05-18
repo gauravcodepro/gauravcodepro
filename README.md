@@ -1,6 +1,6 @@
 #### About me
 
-<img width="100" height="100" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
+<img width="50" height="50" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
 
  - I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de:
  - Progress thrives on the exchange of knowledge. (Albert Einstein)
@@ -20,7 +20,7 @@
 
 #### Soft Skills
 
-<img width="100" height="100" src="https://img.icons8.com/stickers/100/parse-resumes.png" alt="parse-resumes"/>
+<img width="40" height="40" src="https://img.icons8.com/stickers/100/parse-resumes.png" alt="parse-resumes"/>
 
 - I am very pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches.
@@ -30,7 +30,8 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
 #### Programming Languages
-<img width="50" height="50" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="64" height="64" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
+
+<img width="30" height="30" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="64" height="64" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
 
 - **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell
 - **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI.
@@ -43,14 +44,14 @@
 
 #### Operating system, Open Software
 
-<img width="16" height="16" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
+<img width="30" height="30" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
 
 - Currently using [Ubuntu](https://kde.org/)  and [Community](https://linuxcommunity.io/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 
 #### Continious Development and Deployment
 
-<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-proactive-project-management-flaticons-lineal-color-flat-icons.png" alt="external-proactive-project-management-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png" alt="external-settings-statistical-analysis-flatart-icons-flat-flatarticons"/>
+<img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-proactive-project-management-flaticons-lineal-color-flat-icons.png" alt="external-proactive-project-management-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png" alt="external-settings-statistical-analysis-flatart-icons-flat-flatarticons"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/remote.png" alt="remote"/>
 
 - **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development.
 - **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades.
