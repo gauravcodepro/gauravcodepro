@@ -16,9 +16,7 @@
  - You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). 
  - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
-#### Soft Skills
-
-<img width="40" height="40" src="https://img.icons8.com/stickers/100/parse-resumes.png" alt="parse-resumes"/>
+#### Soft Skills <img width="40" height="40" src="https://img.icons8.com/stickers/100/parse-resumes.png" alt="parse-resumes"/>
 
 - I am very pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches.
@@ -27,9 +25,7 @@
 - Efficient in time and project requirements, approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
-#### Programming Languages
-
-<img width="30" height="30" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="64" height="64" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
+#### Programming Languages <img width="30" height="30" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="64" height="64" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
 
 - **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell
 - **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI.
@@ -40,31 +36,24 @@
 - **Bioinformatics templating:** Nextflow, Snakemake.
 - **Mathematical Modelling:** MATLAB.
 
-#### Operating system, Open Software
-
-<img width="30" height="30" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
+#### Operating system, Open Software <img width="30" height="30" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
 
 - Currently using [Ubuntu](https://kde.org/)  and [Community](https://linuxcommunity.io/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 
-#### Continious Development and Deployment
-
-<img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-proactive-project-management-flaticons-lineal-color-flat-icons.png" alt="external-proactive-project-management-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png" alt="external-settings-statistical-analysis-flatart-icons-flat-flatarticons"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/remote.png" alt="remote"/>
+#### Continious Development and Deployment <img width="40" height="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-proactive-project-management-flaticons-lineal-color-flat-icons.png" alt="external-proactive-project-management-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png" alt="external-settings-statistical-analysis-flatart-icons-flat-flatarticons"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/remote.png" alt="remote"/>
 
 - **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development.
 - **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades.
 - **Heroku Development**: Application deployment using [Heroku](https://devcenter.heroku.com/)
 - **Docker**: [Docker applications](https://hub.docker.com/u/gauravcodepro)
   
-#### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
-<img width="60" height="60" src="https://img.icons8.com/external-outline-juicy-fish/60/external-web-side-hustles-outline-outline-juicy-fish-2.png" alt="external-web-side-hustles-outline-outline-juicy-fish-2"/>
+#### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) <img width="60" height="60" src="https://img.icons8.com/external-outline-juicy-fish/60/external-web-side-hustles-outline-outline-juicy-fish-2.png" alt="external-web-side-hustles-outline-outline-juicy-fish-2"/> <img width="13" height="13" src="https://img.icons8.com/officel/16/internet.png" alt="internet"/>
 
 :point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
 :point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
-#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/) and [Crystal Community](https://forum.crystal-lang.org/): released and development version
-
-<img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
+#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/) and [Crystal Community](https://forum.crystal-lang.org/): released and development version <img width="43" height="43" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 - **devopsutils**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system)
 - **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator)
@@ -74,9 +63,7 @@
 - **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem)
 - **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer)
 
-#### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
-
-<img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
+#### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version  <img width="43" height="43" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 - **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession)
 - **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer)
@@ -84,15 +71,11 @@
 - **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator)
 - **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
 
-#### [Julia Packages](https://juliahub.com/): building development release version
-
-<img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
+#### [Julia Packages](https://juliahub.com/): building development release version <img width="43" height="43" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravcodepro/panachegraph)
 
-#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version
-
-<img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
+#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version <img width="43" height="43" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
 
