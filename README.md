@@ -7,7 +7,7 @@
  - Fortune favours the prepared mind. (Louis Pasteur)
  - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
  - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
- - Highly communicative, motivated, task oriented, responsive, time oriented, approachable, solution seeker and initiative taker. 
+ - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. 
  - **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenome analysis. 
  - **Species**: plant, bacterial and fungal.
  - **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
