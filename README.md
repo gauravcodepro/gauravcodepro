@@ -73,7 +73,7 @@
 - **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem)
 - **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer)
 
-#### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): development and release version 
+#### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
 
 <img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
@@ -83,13 +83,13 @@
 - **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator)
 - **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
 
-#### [Julia Packages](https://juliahub.com/): building release version
+#### [Julia Packages](https://juliahub.com/): building development release version
 
 <img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 :point_right: **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravcodepro/panachegraph)
 
-#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building release version
+#### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version
 
 <img width="58" height="58" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
