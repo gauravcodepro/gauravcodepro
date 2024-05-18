@@ -72,7 +72,3 @@
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version <img width="43" height="43" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 :point_right: **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
-
-<table class="table table-striped-columns">
-
-
