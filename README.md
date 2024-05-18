@@ -50,8 +50,7 @@
 
 #### Continious Development and Deployment
 
-<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-proactive-project-management-flaticons-lineal-color-flat-icons.png" alt="external-proactive-project-management-flaticons-lineal-color-flat-icons"/>
-<img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png" alt="external-settings-statistical-analysis-flatart-icons-flat-flatarticons"/>
+<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-proactive-project-management-flaticons-lineal-color-flat-icons.png" alt="external-proactive-project-management-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-settings-statistical-analysis-flatart-icons-flat-flatarticons.png" alt="external-settings-statistical-analysis-flatart-icons-flat-flatarticons"/>
 
 - **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development.
 - **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades.
