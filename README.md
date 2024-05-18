@@ -70,7 +70,7 @@
 - **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
 - **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract)
 - **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby)
-- **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem
+- **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem)
 - **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer)
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): development and release version 
