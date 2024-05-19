@@ -70,6 +70,3 @@
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version <img width="34" height="34" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 
 - **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
-
-![Metrics](https://metrics.lecoq.io/gauravcodepro template=classic&habits=1&repositories=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&gists=false&config.timezone=Europe%2FBerlin)
-
