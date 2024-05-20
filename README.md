@@ -44,8 +44,8 @@
 - **Docker**: [Docker applications](https://hub.docker.com/u/gauravcodepro)
   
 #### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) <img width="30" height="30" src="https://img.icons8.com/external-outline-juicy-fish/60/external-web-side-hustles-outline-outline-juicy-fish-2.png" alt="external-web-side-hustles-outline-outline-juicy-fish-2"/> <img width="20" height="20" src="https://img.icons8.com/officel/16/internet.png" alt="internet"/>
-:point_right: **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) \
-:point_right: **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
+- **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) 
+- **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
 #### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/) and [Crystal Community](https://forum.crystal-lang.org/): released and development version <img width="34" height="34" src="https://img.icons8.com/external-sbts2018-solid-sbts2018/58/external-software-design-thinking2-sbts2018-solid-sbts2018.png" alt="external-software-design-thinking2-sbts2018-solid-sbts2018"/>
 - **devopsutils**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system)
