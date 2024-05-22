@@ -1,6 +1,6 @@
 #### About me <img width="30" height="30" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
 
- - I'm based in Germany as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de:
+ - I work as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de:
  - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
  - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
  - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. 
@@ -24,13 +24,12 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
 #### Programming Languages <img width="30" height="30" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="34" height="34" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
-- **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell
+- **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake
 - **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI.
 - **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python
-- **Web Application:** Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
-- **Static documentation:** Markdown, ReadTheDocs, Jekyll and Ruby
-- **Templating engine:** jinja and jinja2, jq, yq
-- **Bioinformatics templating:** Nextflow, Snakemake.
+- **Web:** Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
+- **Documentation:** Markdown, ReadTheDocs, MkDocs, Jekyll and Ruby, GitBook
+- **Web Engine:** jinja and jinja2, jq, yq
 - **Mathematical Modelling:** MATLAB.
 
 #### Operating system, Open Software <img width="30" height="30" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
