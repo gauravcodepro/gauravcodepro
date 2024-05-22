@@ -24,13 +24,12 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
 #### Programming Languages <img width="30" height="30" src="https://img.icons8.com/ios/50/programming-flag.png" alt="programming-flag"/> <img width="34" height="34" src="https://img.icons8.com/external-filled-outline-geotatah/64/external-experience-gamification-color-filled-outline-geotatah-2.png" alt="external-experience-gamification-color-filled-outline-geotatah-2"/>
-- **Bioinformatics:**  Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake
-- **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI.
+- **Bioinformatics, Metabolic Modelling :**  Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake, MATLAB
+- **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI
 - **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python
 - **Web:** Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
 - **Documentation:** Markdown, ReadTheDocs, MkDocs, Jekyll and Ruby, GitBook
 - **Web Engine:** jinja and jinja2, jq, yq
-- **Mathematical Modelling:** MATLAB.
 
 #### Operating system, Open Software <img width="30" height="30" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
 - Currently using [Ubuntu](https://kde.org/)  and [Community](https://linuxcommunity.io/)
