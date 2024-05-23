@@ -28,7 +28,7 @@
 - **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI
 - **DevOPs:** Shell, NuShell, Awk, Ruby, HashiCorp, Python
 - **Web:** Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
-- **Documentation:** Markdown, ReadTheDocs, MkDocs, Jekyll and Ruby, GitBook
+- **Documentation:** Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook
 - **Web Engine:** jinja and jinja2, jq, yq
 
 #### Operating system, Open Software <img width="30" height="30" src="https://img.icons8.com/officel/16/monitor.png" alt="monitor"/>
