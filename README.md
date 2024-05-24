@@ -1,5 +1,6 @@
 #### About me <img width="30" height="30" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
  - I work as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de:
+ - I work at the interface of both academics as well as developing applications from client side rendering. 
  - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
  - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
  - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. 
