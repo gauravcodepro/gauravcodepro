@@ -24,7 +24,7 @@
 
 #### Programming Languages 
 - **Bioinformatics, Metabolic Modelling :**  Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake, MATLAB
-- **Deep Learning:**  Python, R, Scala, learning Julia, learning graphsAPI
+- **Deep Learning:**  Python, R, Scala, MATLAB, learning Julia, learning graphsAPI
 - **DevOPs:** Shell, NuShell, Awk, Ruby, Python
 - **Web:** Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
 - **Documentation:** Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook
