@@ -41,7 +41,7 @@
 - **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
 #### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
-| Gem name | Description | URL |
+| Name | Description | URL |
 |----------|-------------|------|
 | devopsutils | a devops system configuration gem | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
 | ruby_template_creator | a ruby templating gem creator | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
@@ -49,14 +49,18 @@
 | panacheextract | snps specific information for panache | [panacheextract](https://rubygems.org/gems/panacheextract) |
 | fluxmodels | implementation of flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
 | protalign | protein alignment gem for the genome annotation | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
-| pacbiohifi-analyzer | analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
+| pacbiohifi-analyzer | analyzing pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
-- **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession)
-- **graphanalyzer**: python package for analyzing the alignments from the graph alignment tools: [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer)
-- **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor)
-- **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator)
-- **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
+| Name | Description | URL |
+|----------|-------------|------|
+| tairaccession |  python package for interacting with tair | [tairaccession](https://github.com/gauravcodepro/tairaccession) |
+| graphanalyzer | python package for graph alignment tools | [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) |
+| rnaprocessor | python package for sequence based machine learning | [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) |
+| protein-annotator | python package for genome-protein alignments | [protein-annotator](https://github.com/gauravcodepro/protein-annotator) |
+| ontologyanalyzer | python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
 
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
-- **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
+| Nname | Description | URL |
+|----------|-------------|------|
+| evoseq |  genome annotation visualization, phylogeny from protein to genome alignments | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
