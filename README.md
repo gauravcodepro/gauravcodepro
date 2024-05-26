@@ -33,7 +33,7 @@
   - Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, jinja and jinja2, jq, yq
   - Web Engine:
 
-#### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
+#### [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
 |----------|-------------|------|
 | streamlit-pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
