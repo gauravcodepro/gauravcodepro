@@ -40,14 +40,16 @@
 - **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) 
 - **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
 
-#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/) and [Crystal Community](https://forum.crystal-lang.org/): released and development version 
-- **devopsutils**: a devops system configuration gem: [devops_system_profiler](https://github.com/gauravcodepro/devops-system)
-- **ruby_template_creator**: a ruby templating gem creator: [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator)
-- **fasta_tokenizer**: a fasta tokenizer generator and motif indexer: [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
-- **panacheextract**: a ruby gem for dealing with snps specific information for panache [panacheextract](https://rubygems.org/gems/panacheextract)
-- **fluxmodels**: implementation of all flux models in ruby [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby)
-- **protalign**: a pre-release protein alignment gem for the genome annotation [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem)
-- **pacbiohifi-analyzer**: analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer)
+#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
+| Gem name | Description | URL |
+|----------|-------------|------|
+| devopsutils | a devops system configuration gem | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
+| ruby_template_creator | a ruby templating gem creator | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
+| fasta_tokenizer | a fasta tokenizer generator and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
+| panacheextract | snps specific information for panache | [panacheextract](https://rubygems.org/gems/panacheextract) |
+| fluxmodels | implementation of flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
+| protalign | protein alignment gem for the genome annotation | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
+| pacbiohifi-analyzer | analyzing pacbio hifi data from reads to graphs [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
 #### [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
 - **tairaccession**: python package for interacting with tair: [tairaccession](https://github.com/gauravcodepro/tairaccession)
@@ -55,9 +57,6 @@
 - **rnaprocessor**: python package for analyzing the sequence for tag based machine learning: [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor)
 - **protein-annotator**: python package for analyzing the genome-protein alignments [protein-annotator](https://github.com/gauravcodepro/protein-annotator)
 - **ontologyanalyzer**: python for analyzing the ontologies using the semantic web [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer)
-
-#### [Julia Packages](https://juliahub.com/): building development release version
-- **panachegraph** genome graph and nearest neighbour approach in julia-lang to the pangenome graphs. [panachegraph](https://github.com/gauravcodepro/panachegraph)
 
 #### [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
 - **evoseq** genome annotation visualization, phylogeny and blocks estimation from protein to genome alignments [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) 
