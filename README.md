@@ -19,7 +19,7 @@
  - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
  - Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake, MATLAB
  #### Deep Learning, RAG, Language Models and Graphs.
- - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LighGBM and other deep learning. 
+ - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and other deep learning libraries. 
  - Python, R, MATLAB, learning Julia, learning graphsAPI
  #### DevOPs 
  - Git,Docker,Kubernetes, Terraform for container orchestration.
