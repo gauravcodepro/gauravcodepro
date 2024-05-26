@@ -1,44 +1,43 @@
-#### About me <img width="30" height="30" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
+#### About me <img width="20" height="20" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
  - I work as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de:
  - I work at the interface of both academics as well as developing applications from client side rendering. 
  - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
  - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
- - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. 
- - **Bioinformatics**: genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenome analysis. 
- - **Species**: plant, bacterial and fungal.
- - **Sequencing platform** Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
- - **Deep learning**: PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras and other deep learning. 
- - **DevOPs**: Git,Docker,Kubernetes and Terraform for container orchestration.
- - **Generative AI and Graphs.**
- - You can read the curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
- - You can read the previous employers references and what they say about me [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). 
+ - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
+ - I am very pro-active in making communication and upskilling on emerging trends.
+ - Proficient in developing new approaches for code development.
+ - Prefer office space work but also open to remote work 1-2 days.
+ - Active time and project based approaches and solving limitations.
+ - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
+ - Curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
+ - Employers references [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). 
  - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
-#### Soft Skills 
-- I am very pro-active in making communication and upskilling on emerging trends.
-- Proficient in developing new approaches for better integration and minimal interactions, ease of access approaches.
-- Profile development by reading about the latest trends in code, personal and professional development.
-- Prefer office space work but also open to remote work 1-2 days.
-- Efficient in time and project requirements, approaches and solving limitations.
-- Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
+ #### Bioinformatics
+ - genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenomes. 
+ - plant, bacterial and fungal.
+ - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
+ - Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake, MATLAB
+ #### Deep Learning, RAG, Language Models and Graphs.
+ - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LighGBM and other deep learning. 
+ - Python, R, MATLAB, learning Julia, learning graphsAPI
+ #### DevOPs 
+ - Git,Docker,Kubernetes, Terraform for container orchestration.
+ - Shell, NuShell, Awk, Ruby, Python
+ - GitKraken and Tower for code management.
+ - PBS and SLURM as job scheduler
+ - Application deployment using [Heroku](https://devcenter.heroku.com/)
+ - Docker [Docker applications](https://hub.docker.com/u/gauravcodepro)
+ #### Web Dev
+  - Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
+  - Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, jinja and jinja2, jq, yq
+  - Web Engine:
 
-#### Programming Languages 
-- **Bioinformatics, Metabolic Modelling :**  Python, R, Ruby, Awk, Shell, Scala, Nushell, Nextflow, Snakemake, MATLAB
-- **Deep Learning:**  Python, R, Scala, MATLAB, learning Julia, learning graphsAPI
-- **DevOPs:** Shell, NuShell, Awk, Ruby, Python
-- **Web:** Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
-- **Documentation:** Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook
-- **Web Engine:** jinja and jinja2, jq, yq
-
-#### Continious Development and Deployment 
-- **Git management**: Proficient in Github, Githubcli, Gitlab, GitKraken and Tower for all continous development.
-- **Job Scheduler**: Skilled in both pbs and slurm. Established computing cluster and blades.
-- **Heroku Development**: Application deployment using [Heroku](https://devcenter.heroku.com/)
-- **Docker**: [Docker applications](https://hub.docker.com/u/gauravcodepro)
-  
 #### [Streamlit and Chainlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
-- **streamlit-pacbiohifi**: web application for pacbiohifi sequencing length [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) 
-- **streamlit-Univeristat-Potsdam**: web application for Universitat Potsdam, [slurm-applicator](https://sup-application.streamlit.app/)
+| Name | Description | URL |
+|----------|-------------|------|
+| streamlit-pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
+| streamlit-Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
 
 #### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
 | Name | Description | URL |
