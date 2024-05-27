@@ -9,8 +9,8 @@
  - Prefer office space work but also open to remote work 1-2 days.
  - Active time and project based approaches and solving limitations.
  - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
- - Curriculum vitae here: [Curriculum Vitae](https://drive.google.com/file/d/10M2skWJsLLx_-Hze7rHxH-bTT-2VJ_if/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
- - Employers references [Previous Employers](https://drive.google.com/file/d/1KgQLycgD1S9ztJpt9McQ2yH5lZIUJAgb/view?usp=sharing). 
+ - Curriculum vitae here: [Covering Letter](https://drive.google.com/file/d/1uGG3JZ9TlD1VytRy9DWMElfo0_n-xUo3/view?usp=sharing) [Curriculum Vitae](https://drive.google.com/file/d/1P9BUeprHiRCU1u31O8zIPil47m1Te-AP/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
+ - Employers references [Previous Employers](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing). 
  - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 
  #### Bioinformatics
@@ -31,7 +31,6 @@
  #### Web Dev
   - Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
   - Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, jinja and jinja2, jq, yq
-  - Web Engine:
 
 #### [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
