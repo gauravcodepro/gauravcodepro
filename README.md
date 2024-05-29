@@ -38,7 +38,7 @@
 | streamlit-pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
 | streamlit-Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
 
-#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
+#### [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
 | Name | Description | URL |
 |----------|-------------|------|
 | devopsutils | a devops system configuration gem | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
