@@ -1,4 +1,4 @@
-#### About me <img width="20" height="20" src="https://img.icons8.com/dotty/100/parse-resumes.png" alt="parse-resumes"/>
+#### 
  - I work as Academic Staff Member at Bioinformatics, Institute for Biochemistry and Biology at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) and [Group](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) :de: 
  - I work at the interface of both academics as well as developing applications from client side rendering. 
  - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
@@ -13,7 +13,6 @@
  - Employers references [Previous Employers](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing). 
  - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
  - Very collaborative and open to supporting those who support me.  
-
  #### Bioinformatics
  - genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenomes. 
  - plant, bacterial and fungal.
