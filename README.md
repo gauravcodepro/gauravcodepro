@@ -13,22 +13,22 @@
 - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 - Very collaborative and open to supporting those who support me.  
  
-** Bioinformatics **
+**Bioinformatics**
 - Genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenomes. 
 - Plant, bacterial and fungal.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
 - Python, R, Ruby, Awk, Shell, Nushell, Nextflow, Snakemake, MATLAB
-** Deep Learning, RAG, Language Models and Graphs.**
+**Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and other deep learning libraries. 
 - Python, R, MATLAB, learning Julia, learning graphsAPI
-** DevOPs **
+**DevOPs**
 - Git,Docker,Kubernetes, Terraform for container orchestration.
 - Shell, NuShell, Awk, Ruby, Python
 - GitKraken and Tower for code management.
 - PBS and SLURM as job scheduler
 - Application deployment using [Heroku](https://devcenter.heroku.com/)
 - Docker [Docker applications](https://hub.docker.com/u/gauravcodepro)
-** Web Develpoment **
+**Web Develpoment**
 - Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
 - Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, jinja and jinja2, jq, yq
 
