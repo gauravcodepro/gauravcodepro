@@ -28,7 +28,7 @@
 - Shell, NuShell, Awk, Python
 - GitKraken and Tower for code management.
 - PBS and SLURM as job scheduler
-- [Heroku](https://devcenter.heroku.com/) and [Docker applications](https://hub.docker.com/u/gauravcodepro) for Application deployment
+- [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Documentation**
 - Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
