@@ -24,8 +24,8 @@
 - Python, R, MATLAB, learning Julia, learning graphsAPI
   
 **DevOPs**
-- Git,Docker,Kubernetes, Terraform for container orchestration.
-- Shell, NuShell, Awk, Ruby, Python
+- Git,Docker,Kubernetes,Terraform for container orchestration.
+- Shell, NuShell, Awk, Python
 - GitKraken and Tower for code management.
 - PBS and SLURM as job scheduler
 - Application deployment using [Heroku](https://devcenter.heroku.com/)
