@@ -14,19 +14,17 @@
 - Very collaborative and open to supporting those who support me.  
  
 **Bioinformatics**
-- Genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenomes. 
-- Plant, bacterial and fungal.
+- Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
-- Python, R, Ruby, Awk, Shell, Nextflow, Snakemake, MATLAB
+- Programming specifics: Python, R, Ruby, Awk, Shell, Nextflow, Snakemake, MATLAB
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and others. 
-- Python, R, MATLAB, learning Julia and graphsAPI
+- Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
   
 **DevOPs**
-- Git,Docker,Kubernetes,Terraform for container orchestration.
-- Shell, NuShell, Awk, Python
-- GitKraken and Tower for code management.
+- Git,GitKraken,Docker,Kubernetes,Terraform for code management and container orchestration.
+- Programming specifics: Shell, NuShell, Awk, Python
 - PBS and SLURM as job scheduler
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
@@ -34,7 +32,7 @@
 - Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Web Develpoment**
-- Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
+- Programming specifics: Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
