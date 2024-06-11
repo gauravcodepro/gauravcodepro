@@ -30,10 +30,12 @@
 - PBS and SLURM as job scheduler
 - Application deployment using [Heroku](https://devcenter.heroku.com/)
 - Docker [Docker applications](https://hub.docker.com/u/gauravcodepro)
+
+**Documentation**
+- Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, Github Pages
   
 **Web Develpoment**
-- Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript
-- Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, jinja and jinja2, jq, yq
+- Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
