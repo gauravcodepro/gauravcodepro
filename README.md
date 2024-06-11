@@ -17,22 +17,21 @@
 - Genomes, transcriptomes, organelle, metagenomes and metatranscriptomes, phylogenomes. 
 - Plant, bacterial and fungal.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
-- Python, R, Ruby, Awk, Shell, Nushell, Nextflow, Snakemake, MATLAB
+- Python, R, Ruby, Awk, Shell, Nextflow, Snakemake, MATLAB
   
 **Deep Learning, RAG, Language Models and Graphs.**
-- PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and other deep learning libraries. 
-- Python, R, MATLAB, learning Julia, learning graphsAPI
+- PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and others. 
+- Python, R, MATLAB, learning Julia and graphsAPI
   
 **DevOPs**
 - Git,Docker,Kubernetes,Terraform for container orchestration.
 - Shell, NuShell, Awk, Python
 - GitKraken and Tower for code management.
 - PBS and SLURM as job scheduler
-- Application deployment using [Heroku](https://devcenter.heroku.com/)
-- Docker [Docker applications](https://hub.docker.com/u/gauravcodepro)
+- [Heroku](https://devcenter.heroku.com/) and [Docker applications](https://hub.docker.com/u/gauravcodepro) for Application deployment
 
 **Documentation**
-- Markdown, ReadTheDocs, MkDocs, Jekyll, GitBook, Github Pages
+- Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Web Develpoment**
 - Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
