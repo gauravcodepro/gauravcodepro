@@ -32,7 +32,7 @@
 - Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Web Develpoment**
-- Programming specifics: Ruby on Rails, Streamlit, Shiny, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
+- Programming specifics: Ruby on Rails, Streamlit, Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
