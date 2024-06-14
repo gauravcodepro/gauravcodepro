@@ -3,7 +3,7 @@
 - You can contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de)
 - If you want to contact me on Gmail, you can use [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- I am very pro-active in making communication and upskilling on emerging trends.
+- Pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for code development.
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
@@ -16,12 +16,14 @@
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
-- Programming specifics: Python, R, Ruby, Awk, Shell, Nextflow, Snakemake, MATLAB
+- Data Analysis Programming specifics: Python, R, Ruby, Awk, Shell, Nextflow, Snakemake, MATLAB, Julia
+- Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS. 
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and others. 
-- Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
-  
+-  Data Analysis Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
+- Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
+
 **DevOPs**
 - Git,GitKraken,Docker,Kubernetes,Terraform for code management and container orchestration.
 - Programming specifics: Shell, NuShell, Awk, Python
@@ -32,7 +34,8 @@
 - Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Web Develpoment**
-- Programming specifics: Ruby on Rails, Streamlit, Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript, jinja and jinja2, jq, yq
+- Programming specifics: Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
+- Format: jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
