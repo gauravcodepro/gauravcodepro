@@ -43,6 +43,7 @@
 | streamlit-pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
 | streamlit-Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
 | streamlit-ontology-graphs | analyzing arabidopsis ontologies and plant obo | [ontology-graphs](https://app-arabidopsis-ontology-graphs.streamlit.app/) |
+| streamlit-metabolic-json | analyzing BIGG metabolic models | [metabolic-app](https://metabolic-json-modelling.streamlit.app/) |
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
 | Name | Description | URL |
