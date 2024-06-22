@@ -12,7 +12,9 @@
 - Employers references [Previous Employers](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing). 
 - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 - Very collaborative and open to supporting those who support me.
-- Not attached to any specific programming language and I select the programming language according to the work specifics. 
+- Not attached to any specific programming language and I select the programming language according to the work specifics.
+
+![](https://profile-summary-for-github.com/user/gauravcodepro)
  
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
