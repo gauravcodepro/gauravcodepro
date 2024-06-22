@@ -12,6 +12,7 @@
 - Employers references [Previous Employers](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing). 
 - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 - Very collaborative and open to supporting those who support me.
+- Not attached to any specific programming language and I select the programming language according to the work specifics. 
  
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
@@ -21,7 +22,7 @@
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and others. 
--  Data Analysis Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
+- Data Analysis Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
 
 **DevOPs**
@@ -31,7 +32,7 @@
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Documentation**
-- Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Web Develpoment**
 - Programming specifics: Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
