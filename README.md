@@ -32,7 +32,7 @@
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Documentation**
-- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Web Develpoment**
 - Programming specifics: Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
