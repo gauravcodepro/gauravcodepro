@@ -14,6 +14,7 @@
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and I select the programming language according to the work specifics.
 - Dont waste your time if i havent talked or even talked once in years, i dont even remember your face.
+- All code and ideas concieved by me unless specified.
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
