@@ -49,13 +49,13 @@
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
 | Name | Description | URL |
 |----------|-------------|------|
-| devopsutils | a devops system configuration gem | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
-| ruby_template_creator | a ruby templating gem creator | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
-| fasta_tokenizer | a fasta tokenizer generator and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
-| panacheextract | snps specific information for panache | [panacheextract](https://rubygems.org/gems/panacheextract) |
-| fluxmodels | implementation of flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
-| protalign | protein alignment gem for the genome annotation | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
-| pacbiohifi-analyzer | analyzing pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
+| devopsutils | devops system configuration | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
+| ruby_template_creator | ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
+| fasta_tokenizer | fasta tokenizer and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
+| panacheextract | sps extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
+| fluxmodels | flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
+| protalign | protein alignment analyzer | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
+| pacbiohifi-analyzer | pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
 **Python Package**: [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
 | Name | Description | URL |
@@ -69,4 +69,4 @@
 **R package**: [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
 | Nname | Description | URL |
 |----------|-------------|------|
-| evoseq |  genome annotation visualization, phylogeny from protein to genome alignments | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
+| evoseq |  genome annotation visualization, phylogeny | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
