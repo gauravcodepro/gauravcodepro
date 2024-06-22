@@ -13,6 +13,7 @@
 - Open to collaboration on Bioinformatics, Deep Learning, Generative AI, and DevOPs.
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and I select the programming language according to the work specifics.
+- Dont waste your time if i havent talked to you in years, i dont even remember your face.
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
