@@ -53,7 +53,7 @@
 | devopsutils | devops system configuration | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
 | ruby_template_creator | ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
 | fasta_tokenizer | fasta tokenizer and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
-| panacheextract | sps extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
+| panacheextract | snp extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
 | fluxmodels | flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
 | protalign | protein alignment analyzer | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
 | pacbiohifi-analyzer | pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
