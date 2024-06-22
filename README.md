@@ -14,8 +14,6 @@
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and I select the programming language according to the work specifics.
 
-![](https://profile-summary-for-github.com/user/gauravcodepro)
- 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
