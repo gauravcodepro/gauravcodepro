@@ -22,7 +22,7 @@
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS. 
   
 **Deep Learning, RAG, Language Models and Graphs.**
-- PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM and others. 
+- PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
 - Data Analysis Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
 
