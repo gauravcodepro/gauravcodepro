@@ -7,7 +7,7 @@
 - Contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) / [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making communication and upskilling on emerging trends.
-- Proficient in developing new approaches for code development and have been coding for more than 14 years.
+- Proficient in developing new approaches for code development.
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
