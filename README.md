@@ -18,12 +18,12 @@
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
-- Data Analysis Programming specifics: Python, R, Ruby, Awk, Shell, Nextflow, Snakemake, MATLAB, Julia
+- Data Analysis Programming specifics: Python, R, Ruby, Awk, Shell, Nextflow, MATLAB, Julia
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS. 
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
-- Data Analysis Programming specifics: Python, R, MATLAB, learning Julia and graphsAPI
+- Data Analysis Programming specifics: Python, R, MATLAB, Julia and graphsAPI
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
 
 **DevOPs**
