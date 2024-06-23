@@ -15,6 +15,8 @@
 - Fact: Dont waste your time if i havent talked or even talked once in years, i dont even remember.
 - All code and ideas concieved by me unless specified.
 
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
