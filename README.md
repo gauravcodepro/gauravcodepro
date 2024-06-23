@@ -8,7 +8,7 @@
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for code development.
-- Think very precisely before speaking as what has spoken cant be fetched back.
+- I think very precisely before speaking as what has spoken cant be fetched back.
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
