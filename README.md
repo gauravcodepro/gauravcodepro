@@ -1,4 +1,4 @@
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 - I work as Academic Staff Member at [Institute for Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: 
 - I work at the interface of both academics as well as developing applications.
