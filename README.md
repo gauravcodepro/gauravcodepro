@@ -12,7 +12,7 @@
 - Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs.
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and I select the programming language according to the work specifics.
-- Fact: Dont waste your time if i havent talked or even talked once in years, i dont even remember your face.
+- Fact: Dont waste your time if i havent talked or even talked once in years, i dont even remember.
 - All code and ideas concieved by me unless specified.
 
 **Bioinformatics**
