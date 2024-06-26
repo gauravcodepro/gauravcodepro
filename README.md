@@ -34,7 +34,7 @@
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
 - Database Management Specifics: MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
-- 
+  
 **DevOPs**
 - Git,GitKraken,Docker,Kubernetes,Terraform for code management and container orchestration.
 - Programming specifics: Shell, NuShell, Awk, Python
