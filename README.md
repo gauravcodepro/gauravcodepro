@@ -6,6 +6,7 @@
 - [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
 - Contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) / [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
+- I learn quickly what is required and i am an applicative person.
 - Pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for code development.
 - I think very precisely before speaking as what has spoken cant be fetched back.
