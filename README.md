@@ -24,24 +24,29 @@
 - Data Analysis Programming specifics: Python, R, Ruby, MATLAB, Julia
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS.
 - Server Management and Command Line Data Management: Awk, Shell, Nextflow
+- Database Management Specifics: MySQL, MongoDB.
+- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
 - Data Analysis Programming specifics: Python, R, MATLAB, Julia
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
-
+- Database Management Specifics: MySQL, MongoDB.
+- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- 
 **DevOPs**
 - Git,GitKraken,Docker,Kubernetes,Terraform for code management and container orchestration.
 - Programming specifics: Shell, NuShell, Awk, Python
 - PBS and SLURM as job scheduler
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
+- Database Management Specifics: MySQL, MongoDB.
+- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
-**Documentation**
-- Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
-  
 **Web Develpoment**
 - Programming specifics: Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
 - Format: jinja and jinja2, jq, yq
+- Database Management Specifics: MySQL, MongoDB.
+- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Description | URL |
