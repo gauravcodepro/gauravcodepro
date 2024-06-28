@@ -10,7 +10,8 @@
 - Pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for code development.
 - I think very precisely before speaking as what has spoken cant be fetched back.
-- I read, code and plan well ahead as to have a planned approach of problem solving. 
+- I read, code and plan well ahead as to have a planned approach of problem solving.
+- I never waste a single moment in making a communication as communication leads to result oriented approaches.
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
@@ -19,6 +20,7 @@
 - Not attached to any specific programming language and select according to the work specifics and needs.
 - Fact: Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
 - All code and ideas concieved by me unless specified.
+
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
