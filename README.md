@@ -1,7 +1,7 @@
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 - I work as Academic Staff Member at [Institute for Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: 
-- I work at the interface of both academics as well as developing applications.
+- I work at the interface of both academics as well as developing applications. 
 - [Covering Letter](https://drive.google.com/file/d/1uGG3JZ9TlD1VytRy9DWMElfo0_n-xUo3/view?usp=sharing) [Curriculum Vitae](https://drive.google.com/file/d/1P9BUeprHiRCU1u31O8zIPil47m1Te-AP/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
 - [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
 - Contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) / [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
@@ -10,6 +10,7 @@
 - Pro-active in making communication and upskilling on emerging trends.
 - Proficient in developing new approaches for code development.
 - I think very precisely before speaking as what has spoken cant be fetched back.
+- I read, code and plan well ahead as to have a planned approach of problem solving. 
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
