@@ -20,14 +20,14 @@
 - Not attached to any specific programming language and select according to the work specifics and needs.
 - Believe in not wasting time at any aspect and take dedicated approaches towards the work. 
 - Fact: Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
-- Effectively work with those, who talk to me as i am working on the solutions not other way around.
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
 - Bring your skills to the work and show them as that will raise your value. - Jihm Rohn
 - I raise my value and respect those who respect my skills and value."
 - If there is no outcome means that there is no existence and baseless words have no value. 
-- There is no limit but if you put your efforts right, everyday you see a new skill added. 
+- There is no limit but if you put your efforts right, everyday you see a new skill added.
+- Effectively work with those, who talk to you and not other way around. Indirect approaches never generate effective results.
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
