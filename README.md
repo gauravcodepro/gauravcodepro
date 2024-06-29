@@ -6,21 +6,20 @@
 - [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
 - Contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) / [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
+- All code and ideas concieved by me unless specified.
 - I learn quickly what is required and i am an applicative person.
-- Pro-active in making communication and upskilling on emerging trends.
+- Pro-active in making effective communication as communication leads to result oriented approaches.
 - Proficient in developing new approaches for code development.
 - I think very precisely before speaking as what has spoken cant be fetched back.
 - I read, code and plan well ahead as to have a planned approach of problem solving.
-- I never waste a single moment in making a communication as communication leads to result oriented approaches.
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs.
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and select according to the work specifics and needs.
+- Believe in not wasting time at any aspect and take dedicated approaches towards the work. 
 - Fact: Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
-- All code and ideas concieved by me unless specified.
-
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
