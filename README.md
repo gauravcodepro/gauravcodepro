@@ -8,9 +8,7 @@
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - All code and ideas concieved by me unless specified.
 - I learn quickly what is required and i am an applicative person.
-- Pro-active in making effective communication as communication leads to result oriented approaches.
 - Proficient in developing new approaches for code development.
-- I think very precisely before speaking as what has spoken cant be fetched back.
 - I read, code and plan well ahead as to have a planned approach of problem solving.
 - Prefer onsite work but also open to work in a hybrid environment.
 - Active time and project based approaches and solving limitations.
@@ -23,11 +21,13 @@
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
+- I think very precisely before speaking as what has spoken cant be fetched back.
+- Pro-active in making effective communication as communication leads to result oriented approaches.
 - Bring your skills to the work and show them as that will raise your value. - Jihm Rohn
 - I raise my value and respect those who respect my skills and value."
-- If there is no outcome means that there is no existence and baseless words have no value. 
+- If there is no outcome or visbility means that there is no existence and baseless and non-existence words have no value. 
 - There is no limit but if you put your efforts right, everyday you see a new skill added.
-- Effectively work with those, who talk to you and not other way around. Indirect approaches never generate effective results.
+- Effectively work with those, who talk to you and not other way around. Indirect approaches never generate results. 
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
