@@ -20,7 +20,13 @@
 - Not attached to any specific programming language and select according to the work specifics and needs.
 - Believe in not wasting time at any aspect and take dedicated approaches towards the work. 
 - Fact: Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
-- Effectively work with those, who talk to me as i am working on the solutions not other way around. 
+- Effectively work with those, who talk to me as i am working on the solutions not other way around.
+
+**Think Aptitude**
+- I read and believe Jihm Rohn
+  - “Don’t bring your needs to the marketplace, bring your skills." and my words "Empty words dont bring results, so i dont even give importance to those".
+  - I respect those who respect my skills"
+  - There is no limit but if you put your efforts right, everyday you see a new skill added. 
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
