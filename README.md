@@ -18,8 +18,7 @@
 - Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs.
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and select according to the work specifics and needs.
-- Believe in not wasting time at any aspect and take dedicated approaches towards the work. 
-- Fact: Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
+- Believe in not wasting time at any aspect and take dedicated approaches towards the work. [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
