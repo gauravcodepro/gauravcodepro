@@ -1,3 +1,4 @@
+- This will save you time, as i belive that you are yourself an important person and like everyone have limited time allocated.
 - Effective means of communications as outlined by several people to increase your value:
 - Before approaching please evaluate:
    - Since how long i havent been in contact with you. 
@@ -8,4 +9,5 @@
    - Have i ever even been in communication with you.
    - Do you know me directly or through any other person.
    - If you know me through other person, did you attempted to talk to me directly.
-- If answer to any of these questions is inconsistent or not applicable then kindly dont contact. 
+- If answer to any of these questions is inconsistent or not applicable then kindly dont contact.
+- Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
