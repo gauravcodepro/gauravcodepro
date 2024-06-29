@@ -22,9 +22,9 @@
 - Fact: Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
 - Effectively work with those, who talk to me as i am working on the solutions not other way around.
 
-**Think Aptitude**
+**Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
-- “Bring your skills to the work and show them as that will raise your value." - Jihm Rohn
+- Bring your skills to the work and show them as that will raise your value. - Jihm Rohn
 - I raise my value and respect those who respect my skills and value."
 - If there is no outcome means that there is no existence and baseless words have no value. 
 - There is no limit but if you put your efforts right, everyday you see a new skill added. 
