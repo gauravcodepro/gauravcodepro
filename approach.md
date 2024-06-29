@@ -1,0 +1,11 @@
+- Effective means of communications as outlined by several people to increase your value:
+- Before approaching please evaluate:
+   - Since how long i havent been in contact with you. 
+   - Since last when i saw you.
+   - Since last when i replied to your email.
+   - Since last when i talked to you personally.
+   - Have i ever met or talked to you.
+   - Have i ever even been in communication with you.
+   - Do you know me directly or through any other person.
+   - If you know me through other person, did you attempted to talk to me directly.
+- If answer to any of these questions is inconsistent or not applicable then kindly dont contact. 
