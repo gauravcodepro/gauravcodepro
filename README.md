@@ -18,14 +18,14 @@
 - Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs.
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and select according to the work specifics and needs.
-- Believe in not wasting time at any aspect and take dedicated approaches towards the work. [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
+- Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
 - I think very precisely before speaking as what has spoken cant be fetched back.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
-- Bring your skills to the work and show them as that will raise your value. - Jihm Rohn
-- I raise my value and respect those who respect my skills and value."
+- Bring your skills to the work and show them as that will raise your value.
+- I raise my value and respect those who respect my skills and value.
 - If there is no outcome or visbility means that there is no existence and baseless and non-existence words have no value. 
 - There is no limit but if you put your efforts right, everyday you see a new skill added.
 - Effectively work with those, who talk to you and not other way around. Indirect approaches never generate results. 
