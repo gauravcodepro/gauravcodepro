@@ -23,8 +23,9 @@
 - Effectively work with those, who talk to me as i am working on the solutions not other way around.
 
 **Think Aptitude**
-- I read and believe Jihm Rohn
-  - “Don’t bring your needs to the marketplace, bring your skills." and my words "Empty words dont bring results, so i dont even give importance to those".
+- I read Jihm Rohn and some aptitude to increase my work potential and for continous development:
+  - “Don’t bring your needs to the marketplace, bring your skills."
+  - My words "Empty words dont bring results and as empty, you will not have any results, so dont even look, hear and think about it".
   - I respect those who respect my skills"
   - There is no limit but if you put your efforts right, everyday you see a new skill added. 
 
