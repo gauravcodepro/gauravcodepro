@@ -24,9 +24,9 @@
 
 **Think Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
-- “Don’t bring your needs to the marketplace, bring your skills." - Jihm Rohn
-- My aptitude "Empty talks dont bring results and as empty, you will not have any results, so dont even look, hear and think about it".
-- I respect those who respect my skills"
+- “Bring your skills to the work and show them." - Jihm Rohn
+- My aptitude "Empty talks dont bring results and as empty, you will not have any results, so I dont even look, hear and think about it".
+- I raise my value and respect those who respect my skills and value."
 - If there is no outcome means that there is no existence. 
 - There is no limit but if you put your efforts right, everyday you see a new skill added. 
 
