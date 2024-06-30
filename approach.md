@@ -1,4 +1,4 @@
-- Effective means of communications as outlined by several people to increase your value, and time:
+- **Effective means of communications as outlined to build new communications/development to increase your value, and time**:
 - This will save you time, as i belive that you are yourself an important person and like everyone have limited time.
 - Instead of me writing that please invest your time effectively in yourself. Read these points and self evaluate.
    - Since how long i havent been in contact with you. 
@@ -8,7 +8,7 @@
    - Have i ever met or had communication with you in last years.
    - Do you know me directly or through any other person.
    - If you know me through other person, did you attempted to talk to me directly.
-   - If you know me indirectly, ask since how long i have been in contact with that person.
+   - If you know me indirectly, ask since how long i have been in contact with that person or how well enough that person knows me.
 - If answer to any of these questions is inconsistent or not applicable then kindly dont contact.
 - I appreciate you investing your time in yourself and giving yourself the credit, importance you deserve to yourself.
 - Thank you for reading and self evaluating this.
