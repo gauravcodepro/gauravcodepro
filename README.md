@@ -17,6 +17,7 @@
 - Very collaborative and open to supporting those who support me.
 - Not attached to any specific programming language and select according to the work specifics and needs.
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
+- I dont code anymore in C and C++ and since start have been doing time based programming to increase my speed and efficiency.
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development:
