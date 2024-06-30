@@ -59,7 +59,6 @@
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
-| Name | Description | URL |
 |----------|-------------|------|
 | Pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
 | Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
@@ -88,6 +87,6 @@
 | ontologyanalyzer | python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
 
 **R package**: [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
-| Nname | Description | URL |
+| Name | Description | URL |
 |----------|-------------|------|
 | evoseq |  genome annotation visualization, phylogeny | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
