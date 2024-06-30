@@ -1,6 +1,6 @@
 - This will save you time, as i belive that you are yourself an important person and like everyone have limited time allocated.
 - Effective means of communications as outlined by several people to increase your value, and time:
-- Before approaching with whom you have been having communication and it didnt worked, please evaluate:
+- Instead of me writing that please invest your time effectively in yourself. Read these points and self evaluate.
    - Since how long i havent been in contact with you. 
    - Since last when i saw you.
    - Since last when i replied to your email.
@@ -10,7 +10,6 @@
    - Do you know me directly or through any other person.
    - If you know me through other person, did you attempted to talk to me directly.
 - If answer to any of these questions is inconsistent or not applicable then kindly dont contact.
-- Instead of me writing that please invest your time effectively in yourself. Read these points and self evaluate.
-- I appreciate you investing your time in yourself and giving you the credit you deserve to yourself.
+- I appreciate you investing your time in yourself and giving you the credit, importance you deserve to yourself.
 - Thank you for reading and self evaluating this.
 - Dont waste your time if i havent or never talked or even talked once in years, i dont even remember.
