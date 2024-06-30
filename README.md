@@ -59,6 +59,7 @@
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
+| Name | Description | URL |
 |----------|-------------|------|
 | Pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
 | Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
