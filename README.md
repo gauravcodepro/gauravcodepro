@@ -35,14 +35,14 @@
 - Data Analysis Programming specifics: Python, R, Ruby, MATLAB, Julia
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS.
 - Server Management and Command Line Data Management: Awk, Shell, Nextflow
-- Database Management Specifics: SQLITE3, MySQL, MongoDB.
+- Database Management Specifics: SQlite3, MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
 - Data Analysis Programming specifics: Python, R, MATLAB, Julia
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
-- Database Management Specifics: MySQL, MongoDB.
+- Database Management Specifics: SQlite3, MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **DevOPs**
@@ -50,7 +50,7 @@
 - Programming specifics: Shell, NuShell, Awk, Python
 - PBS and SLURM as job scheduler
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
-- Database Management Specifics: MySQL, MongoDB.
+- Database Management Specifics: SQlite3, MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Web Develpoment**
