@@ -35,7 +35,7 @@
 - Data Analysis Programming specifics: Python, R, Ruby, MATLAB, Julia
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS.
 - Server Management and Command Line Data Management: Awk, Shell, Nextflow
-- Database Management Specifics: MySQL, MongoDB.
+- Database Management Specifics: SQLITE3, MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
   
 **Deep Learning, RAG, Language Models and Graphs.**
