@@ -15,7 +15,7 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs.
 - Very collaborative and open to supporting those who support me.
-- Not attached to any specific programming language and select according to the work specifics and needs.
+- Not attached to any specific programming language and select according to the need of the work.
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 
@@ -60,7 +60,7 @@
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
-| Name | Description | URL |
+| Name | Description | Application |
 |----------|-------------|------|
 | Pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
 | Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
@@ -69,7 +69,7 @@
 | Metabolic-analyzer | API to BIGG database models | [metabolic-analyzer](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer) |
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
-| Name | Description | URL |
+| Name | Description | Gem Release |
 |----------|-------------|------|
 | Devopsutils | devops system configuration | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
 | Ruby-template | ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
@@ -80,7 +80,7 @@
 | Pacbiohifi-analyzer | pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
 **Python Package**: [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
-| Name | Description | URL |
+| Name | Description | Python Package Repo |
 |----------|-------------|------|
 | Tairaccession |  python package for interacting with tair | [tairaccession](https://github.com/gauravcodepro/tairaccession) |
 | Graphanalyzer | python package for graph alignment tools | [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) |
@@ -89,6 +89,6 @@
 | Ontologyanalyzer | python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
 
 **R package**: [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
-| Name | Description | URL |
+| Name | Description | R Package Repo |
 |----------|-------------|------|
 | Evoseq |  genome annotation visualization, phylogeny | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
