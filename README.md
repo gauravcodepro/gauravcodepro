@@ -83,8 +83,3 @@
 | RNAprocessor: python package for sequence based machine learning | [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) |
 | ProteinAnnotator: python package for genome-protein alignments | [protein-annotator](https://github.com/gauravcodepro/protein-annotator) |
 | Ontologyanalyzer: python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
-
-**R package**: [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
-| Name | R Package Repo |
-|----------|------|
-| Evoseq: genome annotation visualization, phylogeny | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
