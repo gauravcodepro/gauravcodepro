@@ -58,11 +58,11 @@
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Application |
 |----------|------|
-| Pacbiohifi: pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
+| Pacbiohifi: pacbiohifi sequencing information | [Pacbiohifi](https://pacbiohifi.streamlit.app/) |
 | Univeristat-Potsdam: web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
 | Ontology-graphs: analyzing arabidopsis ontologies and plant obo | [ontology-graphs](https://app-arabidopsis-ontology-graphs.streamlit.app/) |
 | Metabolic-json: analyzing BIGG metabolic models | [metabolic-app](https://metabolic-json-modelling.streamlit.app/) |
-| Metabolic-analyzer:API to BIGG database models | [metabolic-analyzer](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer) |
+| Metabolic-analyzer:API to BIGG database models | [metabolic-analyzer](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer-API) |
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
 | Name | Gem Release |
