@@ -25,8 +25,6 @@
 - Pro-active in making effective communication as communication leads to result oriented approaches.
 - Bring your skills to the work and show them as that will raise your value.
 - I raise my value and respect those who respect my skills and value.
-- If there is no outcome or visbility means that there is no existence and baseless and non-existence words have no value. 
-- There is no limit but if you put your efforts right, everyday you see a new skill added.
 - Effectively work with those, who talk to you and not other way around. Indirect approaches never generate results. 
 
 **Bioinformatics**
@@ -60,35 +58,35 @@
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
-| Name | Description | Application |
-|----------|-------------|------|
-| Pacbiohifi | pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
-| Univeristat-Potsdam | web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
-| Ontology-graphs | analyzing arabidopsis ontologies and plant obo | [ontology-graphs](https://app-arabidopsis-ontology-graphs.streamlit.app/) |
-| Metabolic-json | analyzing BIGG metabolic models | [metabolic-app](https://metabolic-json-modelling.streamlit.app/) |
-| Metabolic-analyzer | API to BIGG database models | [metabolic-analyzer](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer) |
+| Name | Application |
+|----------|------|
+| Pacbiohifi: pacbiohifi sequencing information | [streamlit-pacbiohifi](https://pacbiohifi.streamlit.app/) |
+| Univeristat-Potsdam: web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
+| Ontology-graphs: analyzing arabidopsis ontologies and plant obo | [ontology-graphs](https://app-arabidopsis-ontology-graphs.streamlit.app/) |
+| Metabolic-json: analyzing BIGG metabolic models | [metabolic-app](https://metabolic-json-modelling.streamlit.app/) |
+| Metabolic-analyzer:API to BIGG database models | [metabolic-analyzer](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer) |
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
-| Name | Description | Gem Release |
-|----------|-------------|------|
-| Devopsutils | devops system configuration | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
-| Ruby-template | ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
-| Fasta-tokenizer | fasta tokenizer and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
-| Panacheextract | snp extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
-| Fluxmodels | flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
-| Protalign | protein alignment analyzer | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
-| Pacbiohifi-analyzer | pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
+| Name | Gem Release |
+|----------|------|
+| Devopsutils: devops system configuration | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
+| Ruby-template: ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
+| Fasta-tokenizer: fasta tokenizer and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
+| Panacheextract: snp extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
+| Fluxmodels: flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
+| Protalign: protein alignment analyzer | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
+| Pacbiohifi-analyzer: pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
 **Python Package**: [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
-| Name | Description | Python Package Repo |
-|----------|-------------|------|
-| Tairaccession |  python package for interacting with tair | [tairaccession](https://github.com/gauravcodepro/tairaccession) |
-| Graphanalyzer | python package for graph alignment tools | [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) |
-| Rnaprocessor | python package for sequence based machine learning | [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) |
-| Protein-annotator | python package for genome-protein alignments | [protein-annotator](https://github.com/gauravcodepro/protein-annotator) |
-| Ontologyanalyzer | python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
+| Name | Python Package Repo |
+|----------|------|
+| Tairaccession: python package for interacting with tair | [tairaccession](https://github.com/gauravcodepro/tairaccession) |
+| Graphanalyzer: python package for graph alignment tools | [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) |
+| RNAprocessor: python package for sequence based machine learning | [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) |
+| ProteinAnnotator: python package for genome-protein alignments | [protein-annotator](https://github.com/gauravcodepro/protein-annotator) |
+| Ontologyanalyzer: python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
 
 **R package**: [R package](https://cran.r-project.org/web/packages/) and [Bioconductor](https://bioconductor.org/) and [Posit community](https://forum.posit.co/): building development release version 
-| Name | Description | R Package Repo |
-|----------|-------------|------|
-| Evoseq |  genome annotation visualization, phylogeny | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
+| Name | R Package Repo |
+|----------|------|
+| Evoseq: genome annotation visualization, phylogeny | [evoseq](https://github.com/gauravcodepro/evoseq-genome-informatics), subfunction [genomevisual](https://github.com/gauravcodepro/genome-annotation-visualizer) |
