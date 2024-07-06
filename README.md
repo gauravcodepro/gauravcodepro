@@ -29,10 +29,11 @@
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
 - Data Analysis Programming specifics: Python, R, Ruby, MATLAB, Julia
-- Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS.
+- Web Development Programming specifics: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
 - Server Management and Command Line Data Management: Awk, Shell, Nextflow
 - Database Management Specifics: SQlite3, MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Package Development: Python, Julia, Javascript, Ruby.
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
@@ -40,6 +41,7 @@
 - Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
 - Database Management Specifics: SQlite3, MySQL, MongoDB.
 - Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Package Development: Python, Julia, Javascript, Ruby.
   
 **DevOPs**
 - Git,GitKraken,Docker,Kubernetes,Terraform for code management and container orchestration.
