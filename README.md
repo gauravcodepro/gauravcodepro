@@ -25,37 +25,26 @@
 - I belive in effectively working with those, who talk to me and not other way around. Indirect approaches never generate results.
 - Extremely collaborative and open to supporting those who support me.
 
-**Bioinformatics**
-- Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
-- Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
+**Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - **Data Analysis**: Python, R, Ruby, MATLAB, Julia
+- **Machine/Deep Learning**:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others.
 - **Web Development**: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
 - **Server and Data Management**: Awk, Shell, Nextflow
-- **Database**: SQlite3, MySQL, MongoDB.
+- **Database Management**: SQlite3, MySQL, MongoDB.
 - **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 - **Package Development**: Python, Julia, Javascript, Ruby.
   
-**Deep Learning, RAG, Language Models and Graphs.**
-- PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
-- Data Analysis Programming specifics: Python, R, MATLAB, Julia
-- Web Development Programming specifics: Python, Javascript, Ruby on Rails, Django, HTML and CSS, Julia
-- Database Management Specifics: SQlite3, MySQL, MongoDB.
-- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
-- Package Development: Python, Julia, Javascript, Ruby.
-  
 **DevOPs**
-- Git,GitKraken,Docker,Kubernetes,Terraform for code management and container orchestration.
-- Programming specifics: Shell, NuShell, Awk, Python
+- **Code Management**: Git,GitKraken,Docker,Kubernetes,Terraform.
+- **Programming**: Shell, NuShell, Awk, Python
+- **Database**: SQlite3, MySQL, MongoDB.
+- **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 - PBS and SLURM as job scheduler
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
-- Database Management Specifics: SQlite3, MySQL, MongoDB.
-- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 
 **Web Develpoment**
-- Programming specifics: Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
-- Format: jinja and jinja2, jq, yq
-- Database Management Specifics: MySQL, MongoDB.
-- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- **Programming specifics:** Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
+- **JSON Format:** jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Application |
