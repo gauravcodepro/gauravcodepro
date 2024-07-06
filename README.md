@@ -5,7 +5,6 @@
 - [Curriculum Vitae](https://drive.google.com/file/d/1P9BUeprHiRCU1u31O8zIPil47m1Te-AP/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
 - Contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) / [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - All code and ideas concieved by me unless specified.
-- Prefer onsite work but also open to work in a hybrid environment.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
@@ -23,25 +22,25 @@
 - Extremely collaborative and open to supporting those who support me.
 
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
-- **Data Analysis**: Python, R, Ruby, MATLAB, Julia
-- **Machine/Deep Learning**:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others.
-- **Web Development**: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
-- **Server and Data Management**: Awk, Shell, Nextflow
-- **Database Management**: SQlite3, MySQL, MongoDB.
-- **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
-- **Package Development**: Python, Julia, Javascript, Ruby.
+- Language: Python, R, Ruby, MATLAB, Julia
+- Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others.
+- Web Development: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
+- Server and Data Management: Awk, Shell, Nextflow
+- Database Management: SQlite3, MySQL, MongoDB.
+- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Package Development: Python, Julia, Javascript, Ruby.
   
 **DevOPs**
-- **Code Management**: Git,GitKraken,Docker,Kubernetes,Terraform.
-- **Programming**: Shell, NuShell, Awk, Python
-- **Database**: SQlite3, MySQL, MongoDB.
-- **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Code Management: Git,GitKraken,Docker,Kubernetes,Terraform.
+- Language: Shell, NuShell, Awk, Python
+- Database: SQlite3, MySQL, MongoDB.
+- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 - PBS and SLURM as job scheduler
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Web Develpoment**
-- **Programming specifics:** Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
-- **JSON Format:** jinja and jinja2, jq, yq
+- Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
+- JSON Format: jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Application |
