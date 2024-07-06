@@ -30,7 +30,7 @@
 - Database Management: SQlite3, MySQL, MongoDB.
 - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
 - Package Development: Python, Julia, Javascript, Ruby.
-- API Development using FASTAPI.
+- API Development using FASTAPI/Javascript
   
 **DevOPs**
 - Code Management: Git,GitKraken,Docker,Kubernetes,Terraform.
