@@ -17,23 +17,23 @@
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 
 **Professional Aptitude**
-- I read scientific aptitude to increase my work potential for continous development:
+- I read scientific aptitude to increase my work potential for continous development.
 - I think very precisely before speaking as what has spoken cant be fetched back.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
 - Bring your skills to the work and show them as that will raise your value.
 - I raise my value and respect those who respect my skills and value.
-- Effectively work with those, who talk to you and not other way around. Indirect approaches never generate results.
+- I belive in effectively working with those, who talk to me and not other way around. Indirect approaches never generate results.
 - Extremely collaborative and open to supporting those who support me.
 
 **Bioinformatics**
 - Plant, bacterial and fungal genomes, transcriptomes, organelle, metagenomics and phylogenomics.
 - Illumina, PacBio, Oxford Nanopore, PacBioHifi, HiC
-- Data Analysis Programming specifics: Python, R, Ruby, MATLAB, Julia
-- Web Development Programming specifics: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
-- Server Management and Command Line Data Management: Awk, Shell, Nextflow
-- Database Management Specifics: SQlite3, MySQL, MongoDB.
-- Documentation Programming specifics: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
-- Package Development: Python, Julia, Javascript, Ruby.
+- **Data Analysis**: Python, R, Ruby, MATLAB, Julia
+- **Web Development**: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
+- **Server and Data Management**: Awk, Shell, Nextflow
+- **Database**: SQlite3, MySQL, MongoDB.
+- **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- **Package Development**: Python, Julia, Javascript, Ruby.
   
 **Deep Learning, RAG, Language Models and Graphs.**
 - PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, fastai and others. 
