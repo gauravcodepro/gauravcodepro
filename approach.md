@@ -5,7 +5,6 @@
    - Since how long i havent been in contact with you. 
    - Since last when i saw you / talked to you personally.
    - Since last when i replied to your email.
-   - Have i ever met or had communication with you in last years.
    - Do you know me directly or through any other person.
    - If you know me through other person, did you attempted to talk to me directly.
    - If you know me indirectly, ask since how long i have been in contact with that person or how well enough that person knows me. 
