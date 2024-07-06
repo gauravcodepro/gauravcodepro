@@ -1,4 +1,3 @@
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 - I work as Academic Staff Member at [Institute for Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: 
 - I work at the interface of both academics as well as developing applications.
@@ -45,6 +44,8 @@
 **Web Develpoment**
 - **Programming specifics:** Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
 - **JSON Format:** jinja and jinja2, jq, yq
+
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Application |
