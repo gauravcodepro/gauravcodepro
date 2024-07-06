@@ -1,27 +1,24 @@
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
-- I work as Academic Staff Member at [Institute for Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de: 
-- I work at the interface of both academics as well as developing applications.
-- Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs.
-- [Covering Letter](https://drive.google.com/file/d/1uGG3JZ9TlD1VytRy9DWMElfo0_n-xUo3/view?usp=sharing) [Curriculum Vitae](https://drive.google.com/file/d/1P9BUeprHiRCU1u31O8zIPil47m1Te-AP/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014)
-- [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
+- I work as Academic Staff Member at the interface of both academics as well as developing applications.at [Institute for Biochemistry and Biology](https://www.uni-potsdam.de/en/ibb-bioinformatik/members/gaurav-sablok) at [Universtat Potsdam(UP)](https://www.uni-potsdam.de/de/) :de:
+- Open to collaboration on Bioinformatics, Deep Learning, Language Deep models, and DevOPs. [Covering Letter](https://drive.google.com/file/d/1uGG3JZ9TlD1VytRy9DWMElfo0_n-xUo3/view?usp=sharing) [Curriculum Vitae](https://drive.google.com/file/d/1P9BUeprHiRCU1u31O8zIPil47m1Te-AP/view?usp=sharing), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
 - Contact me at [gaurav.sablok@uni-potsdam.de](mailto:gaurav.sablok@uni-potsdam.de) / [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
-- Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - All code and ideas concieved by me unless specified.
-- Applicative person, proficient in developing new approaches for code development.
-- Read, code and plan well ahead as to have a planned approach of problem solving.
 - Prefer onsite work but also open to work in a hybrid environment.
-- Active time and project based approaches and solving limitations.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development.
-- I think very precisely before speaking as what has spoken cant be fetched back.
+- Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
-- Bring your skills to the work and show them as that will raise your value.
+- Active in solving limitations and applicative person, proficient in developing new approaches for code development.
+- Plan and code well ahead as to have a planned approach of problem solving.
+- I think very precisely before speaking as what has spoken cant be fetched back.
 - I raise my value and respect those who respect my skills and value.
-- I belive in effectively working with those, who talk to me and not other way around. Indirect approaches never generate results.
+- I belive in effectively working with those, who talk to me and not other way around.
+- I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
 
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
