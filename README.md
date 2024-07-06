@@ -42,8 +42,6 @@
 - **Programming specifics:** Ruby on Rails, Streamlit, Python Shiny and ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
 - **JSON Format:** jinja and jinja2, jq, yq
 
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
-
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
 | Name | Application |
 |----------|------|
