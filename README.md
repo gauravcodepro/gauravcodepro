@@ -28,7 +28,7 @@
 - Web Development: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
 - Server and Data Management: Awk, Shell, Nextflow
 - Database Management: SQlite3, MySQL, MongoDB.
-- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - Package Development: Python, Julia, Javascript, Ruby.
 - API Development using FASTAPI/Javascript
   
@@ -36,7 +36,7 @@
 - Code Management: Git,GitKraken,Docker,Kubernetes,Terraform.
 - Language: Shell, NuShell, Awk, Python
 - Database: SQlite3, MySQL, MongoDB.
-- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages
+- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - PBS and SLURM as job scheduler
 - [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
