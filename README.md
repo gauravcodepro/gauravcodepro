@@ -20,7 +20,7 @@
 - I belive in effectively working with those, who talk to me and not other way around.
 - I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
-- I never delay in making a contact approach, as I believe that those who are interested dont delay and those who delay are not interested and wasting their and others time. 
+- I never delay in making a contact approach, as if you delay means you are not interested and if you are interested you dont delay.
 
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Language: Python, R, Ruby, MATLAB, Julia
