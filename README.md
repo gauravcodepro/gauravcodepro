@@ -8,6 +8,7 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
+- When not writing code, reading about those languages in which i code and how to add to the same. 
 
 **Professional Aptitude**
 - I read scientific aptitude to increase my work potential for continous development.
