@@ -8,9 +8,8 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
-- When not writing code, reading about those languages in which i code by following language specific code repositories.  
 
-**Professional Aptitude**
+**Working Aptitude/Atitude**
 - I read scientific aptitude to increase my work potential for continous development.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
@@ -21,7 +20,9 @@
 - I belive in effectively working with those, who talk to me and not other way around.
 - I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
-- I never delay in making a contact approach, as if you delay means you are not interested and if you are interested you dont delay.
+- I never delay in making a contact, as delay means not interested and interested means you dont delay.
+- Following language specific code repositories.
+- Not interested in themes, fontsizes, theme colours or any type of such associations. 
 
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Language: Python, R, Ruby, MATLAB, Julia
