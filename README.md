@@ -24,7 +24,7 @@
 - Not interested in themes, fontsizes, theme colours or any type of such associations. 
 
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
-- Language: Python, R, Ruby, MATLAB, Julia
+- Language: Python, R, Ruby, Julia
 - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai and others.
 - Web Development: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
 - Server and Data Management: Awk, Shell, Nextflow
