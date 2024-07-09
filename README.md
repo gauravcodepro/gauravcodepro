@@ -62,7 +62,6 @@
 | Ruby-template: ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
 | Fasta-tokenizer: fasta tokenizer and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
 | Panacheextract: snp extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
-| Fluxmodels: flux models | [fluxmodels](https://github.com/gauravcodepro/flux-models-ruby) |
 | Protalign: protein alignment analyzer | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
 | Pacbiohifi-analyzer: pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
