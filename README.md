@@ -6,6 +6,7 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
+- If you a previous collaborator and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me, I am not interested and will not reply.
 
 **Working Atitude**
 - I read scientific aptitude to increase my work potential for continous development.
