@@ -7,7 +7,7 @@
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 
-**Working Aptitude/Atitude**
+**Working Atitude**
 - I read scientific aptitude to increase my work potential for continous development.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
