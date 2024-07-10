@@ -8,4 +8,5 @@
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
 - If you believe someone else rather than my work, then you should hire that person, and prove that talking mouth do more work than a efficeint dedicated skilled person actually working.
 - I respect everyone and i thank you and i am available for immediate joining.
-- I have no interested and neither i am waiting for someone specific. 
+- I am not waiting for someone specific.
+- I thank you for employing me and i assure you that I give my complete dedication. 
