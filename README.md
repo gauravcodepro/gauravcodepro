@@ -8,7 +8,7 @@
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 - If you a previous collaborator and i havent seen you ever and talked to you or not been in contact with you in the last years, please dont write/approach me. I am not interested.
 
-**Working Atitude**
+**Working Attitude**
 - I read scientific aptitude to increase my work potential for continous development.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
