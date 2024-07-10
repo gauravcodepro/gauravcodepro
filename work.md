@@ -11,4 +11,5 @@
 - If you believe someone else rather than my work, then you should hire that person, and prove that talking mouth do more work than a efficeint dedicated skilled person actually working.
 - I respect everyone and i thank you and i am available for immediate joining.
 - I am not waiting for someone specific.
+- I have no family, no father, mother, brother, sister or anyone, so available for immediate relocation.
 
