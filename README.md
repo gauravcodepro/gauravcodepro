@@ -39,7 +39,7 @@
 - Database: SQlite3, MySQL, MongoDB.
 - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - PBS and SLURM as job scheduler
-- [Heroku](https://devcenter.heroku.com/) and [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
+- [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Web Develpoment**
 - Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
