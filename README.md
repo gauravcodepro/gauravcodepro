@@ -1,6 +1,6 @@
 
 - **Open to collaboration and positons on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
-- [Covering Letter](https://drive.google.com/file/d/1uGG3JZ9TlD1VytRy9DWMElfo0_n-xUo3/view?usp=sharing), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), and [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://drive.google.com/file/d/18rUaXpZDNzblcL3txNppogiBhNvIjZVv/view?usp=sharing).
+- [Covering Letter](https://github.com/gauravcodepro/gauravcodepro/blob/main/covering_letter.pdf), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). The employer references are here: [Employers references](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
 - I can be contacted at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - All code and ideas concieved by me unless specified.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
