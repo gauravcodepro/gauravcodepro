@@ -1,4 +1,6 @@
 #### Please read this as these will help you understand better:
+- **I am extensively applying and submitting applications and ready to take the first selected position**.
+- I thank you for employing me and i assure you that I give my complete dedication. 
 - I am applying to your position becasue i am interested in working there.
 - I am not interested in working with those, which speak to others rather than the people you are working with.
 - I am not associated with any number, colour, browser, operating system, so i dont believe in this crap.
@@ -9,4 +11,4 @@
 - If you believe someone else rather than my work, then you should hire that person, and prove that talking mouth do more work than a efficeint dedicated skilled person actually working.
 - I respect everyone and i thank you and i am available for immediate joining.
 - I am not waiting for someone specific.
-- I thank you for employing me and i assure you that I give my complete dedication. 
+
