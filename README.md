@@ -44,14 +44,12 @@
 - Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
 - JSON Format: jinja and jinja2, jq, yq
 
-**Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/) 
-| Name | Application |
-|----------|------|
-| Pacbiohifi: pacbiohifi sequencing information | [Pacbiohifi](https://pacbiohifi.streamlit.app/) |
-| Univeristat-Potsdam: web application for Universitat Potsdam | [slurm-applicator](https://sup-application.streamlit.app/) |
-| Ontology-graphs: analyzing arabidopsis ontologies and plant obo | [ontology-graphs](https://app-arabidopsis-ontology-graphs.streamlit.app/) |
-| Metabolic-json: analyzing BIGG metabolic models | [metabolic-app](https://metabolic-json-modelling.streamlit.app/) |
-| Metabolic-analyzer:API to BIGG database models | [metabolic-analyzer](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer-API) |
+**Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
+ - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer-API)
+ - [Metabolic-json: analyzing BIGG metabolic models](https://github.com/gauravcodepro/streamlit-metabolic-json-modelling)
+ - [Ontology-graphs: analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/streamlit-arabidopsis-ontology-graphs)
+ - [Pacbiohifi: pacbiohifi sequencing information](https://github.com/gauravcodepro/streamlit-pacbiohifi)
+ - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/streamlit-up-application)
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
 | Name | Gem Release |
