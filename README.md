@@ -5,10 +5,8 @@
 - I can be contacted at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - All code and ideas concieved by me unless specified.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
-- Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 - I dont work with the past and this keeps me result oriented and give importance to the people i am working with.
-- **Previous collaborator and employers, please dont write/approach me.**
 
 **Working Attitude**
 - I read scientific aptitude to increase my work potential for continous development.
@@ -21,6 +19,7 @@
 - I belive in effectively working with those, who talk to me and not other way around.
 - I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
+- [**Previous collaborator and employers, please dont write/approach me.**]((https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
  
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Language: Python, R, Ruby, Julia
