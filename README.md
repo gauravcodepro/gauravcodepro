@@ -8,8 +8,7 @@
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 - I dont work with the past and this keeps me result oriented and give importance to the people i am working with.
-- Previous collaborator, please dont write/approach me.
-- Previous employers please kindly dont approach me.
+- **Previous collaborator and employers, please dont write/approach me.**
 
 **Working Attitude**
 - I read scientific aptitude to increase my work potential for continous development.
