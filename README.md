@@ -7,8 +7,8 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Believe in not wasting time at any aspect [Please read this to save your time](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
-- Previous collaborator, if i havent seen you or ever/talked to you or haven't been in contact with you in the last years, please dont write/approach me.
-- Previous employers please kindly dont approach me. I am not interested.
+- Previous collaborator, if i havent seen you or haven't been in contact with you in the last years, please dont write/approach me.
+- Previous employers please kindly dont approach me.
 
 **Working Attitude**
 - I read scientific aptitude to increase my work potential for continous development.
