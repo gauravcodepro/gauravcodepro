@@ -1,3 +1,5 @@
+<p align = "justify">
+
 - **Effective means of communications as outlined to build new communications/development to increase your value, and time**:
 - This will save you time, as i belive that you are yourself an important person and like everyone have limited time.
 - Instead of me writing through a reply that please invest your time effectively in yourself or not even replying. For some, not having a reply means a good thing and for me, having a no reply means not interested as that is what straight and clear person talks. So if you dont have a reply from me means not interested and dont write me further. 
