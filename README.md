@@ -7,6 +7,7 @@
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - I dont code C and C++ anymore and follow time based programming to increase my speed and efficiency.
 - I dont work with the past and this keeps me result oriented and give importance to the people i am working with.
+- Decisions and approaches/attempts not made in time have no value and importance.
 
 **Working Attitude**
 - I read scientific aptitude to increase my work potential for continous development.
