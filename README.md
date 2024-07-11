@@ -52,20 +52,16 @@
  - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/streamlit-up-application)
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
-| Name | Gem Release |
-|----------|------|
-| Devopsutils: devops system configuration | [devops_system_profiler](https://github.com/gauravcodepro/devops-system) |
-| Ruby-template: ruby templating  | [ruby template creator](https://github.com/gauravcodepro/ruby_gem_creator) |
-| Fasta-tokenizer: fasta tokenizer and motif indexer | [fasta_tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) |
-| Panacheextract: snp extractor | [panacheextract](https://rubygems.org/gems/panacheextract) |
-| Protalign: protein alignment analyzer | [protein-alignment-gem](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
-| Pacbiohifi-analyzer: pacbio hifi data from reads to graphs | [pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
+ - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
+ - [Ruby-template: ruby templating](https://github.com/gauravcodepro/ruby_gem_creator)
+ - [Fasta-tokenizer: fasta tokenizer and motif indexer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
+ - [Panacheextract: snp extractor](https://rubygems.org/gems/panacheextract) |
+ - [Protalign: protein alignment analyzer](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
+ - [Pacbiohifi-analyzer: pacbio hifi data from reads to graphs](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
 
 **Python Package**: [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
-| Name | Python Package Repo |
-|----------|------|
-| Tairaccession: python package for interacting with tair | [tairaccession](https://github.com/gauravcodepro/tairaccession) |
-| Graphanalyzer: python package for graph alignment tools | [graphanalyzer](https://github.com/gauravcodepro/graphanalyzer) |
-| RNAprocessor: python package for sequence based machine learning | [rnaprocessor](https://github.com/gauravcodepro/rnaprocessor) |
-| ProteinAnnotator: python package for genome-protein alignments | [protein-annotator](https://github.com/gauravcodepro/protein-annotator) |
-| Ontologyanalyzer: python package ontologies using the semantic web | [ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer) |
+ - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
+ - [Graphanalyzer: python package for graph alignment tools](https://github.com/gauravcodepro/graphanalyzer)
+ - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
+ - [ProteinAnnotator: python package for genome-protein alignments](https://github.com/gauravcodepro/protein-annotator)
+ - [Ontologyanalyzer: python package ontologies using the semantic web](https://github.com/gauravcodeproontologyanalyzer) 
