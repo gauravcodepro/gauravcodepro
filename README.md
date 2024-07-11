@@ -21,11 +21,7 @@
 - I belive in effectively working with those, who talk to me and not other way around.
 - I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
-- I never delay in making a contact, as delay means not interested and interested means you dont delay.
-- Following language specific code repositories.
-- Not interested in themes, fontsizes, theme colours or any type of such associations.
-- If you have any thought/association/belief, which you have self assumed or believed someone, without talking to me and getting a confirmation, I am not responsible for the same and neither i will allow you to talk to me second time after understanding your mental aptitude. 
-
+ 
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Language: Python, R, Ruby, Julia
 - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
