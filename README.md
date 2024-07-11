@@ -19,7 +19,7 @@
 - I belive in effectively working with those, who talk to me and not other way around.
 - I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
-- [**Previous collaborator and employers, please dont write/approach me.**]((https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
+- [**Previous collaborator and employers, please dont write/approach me.**](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
  
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Language: Python, R, Ruby, Julia
