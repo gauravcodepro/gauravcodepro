@@ -12,4 +12,6 @@
 - I respect everyone and i thank you and i am available for immediate joining.
 - I am not waiting for someone specific.
 - I have no family, no father, mother, brother, sister or anyone, so available for immediate relocation.
-
+- **If you a past collaborator and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me, I am not interested and will not reply.**
+- **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me, i will not reply**
+- **This should be self-understandable that i am not approaching you and neither i follow or search about your research**
