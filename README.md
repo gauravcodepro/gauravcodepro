@@ -55,9 +55,9 @@
  - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
  - [Ruby-template: ruby templating](https://github.com/gauravcodepro/ruby_gem_creator)
  - [Fasta-tokenizer: fasta tokenizer and motif indexer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
- - [Panacheextract: snp extractor](https://rubygems.org/gems/panacheextract) |
- - [Protalign: protein alignment analyzer](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) |
- - [Pacbiohifi-analyzer: pacbio hifi data from reads to graphs](https://github.com/gauravcodepro/pacbiohifi-analyzer) |
+ - [Panacheextract: snp extractor](https://rubygems.org/gems/panacheextract) 
+ - [Protalign: protein alignment analyzer](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) 
+ - [Pacbiohifi-analyzer: pacbio hifi data from reads to graphs](https://github.com/gauravcodepro/pacbiohifi-analyzer) 
 
 **Python Package**: [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
  - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
