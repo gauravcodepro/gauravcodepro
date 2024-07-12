@@ -34,6 +34,7 @@
   
 **DevOPs**
 - Code Management: Git, GitKraken,Docker.
+- Orchestration:Terraform, Kubernetes.
 - Language: Shell, NuShell, Awk, Python
 - Database: SQlite3, MySQL, MongoDB.
 - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
