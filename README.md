@@ -23,7 +23,7 @@
 - Extremely collaborative and open to supporting those who support me.
  
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
-- Language: Python, R, Ruby, Julia
+- Priority Language: Python, R, Ruby, Julia, Javascript
 - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
 - Web Development: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
 - Server and Data Management: Awk, Shell, Nextflow
