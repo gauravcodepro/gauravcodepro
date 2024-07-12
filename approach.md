@@ -17,7 +17,8 @@
 - **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me, i will not reply**
 - **This should be self-understandable that i am not approaching you and neither i follow or search about your research, so you should do the same. You will listen the same what is mentioned here, either no reply or a blunt reply: please dont write me further**
 - If you think that I am issing or remembering someone, you are highly mistaken.
-- If you ahve believed this by listening to someone and treated me accordingly, you will not have a second chance.
+- If you have believed this by listening to someone and treated me accordingly, you will not have a second chance.
+- I give importance to those who are clear, approachable, and not assumptive and judgemental as i cant work on assumptions. I have the ability on work not to evaluate someone assumptions. 
 - Thank you for reading and self evaluating this.
 
 
