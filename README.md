@@ -33,8 +33,7 @@
 - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - Package Development: Python, Julia, Javascript, Ruby.
 - API Development using FASTAPI/Javascript
-- Learning RUST as a system programming language in spare time since last week and not immediate and can drop anytime.
-  
+
 **DevOPs**
 - Priority Language: Shell, NuShell, Awk, Python
 - Code Management: Git, GitKraken,Docker.
