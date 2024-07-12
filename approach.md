@@ -16,6 +16,8 @@
 - **If you are a past collaborator and i havent seen you ever or talked to you or been in contact with you in the last few years, please dont write to me, I am not interested and will not reply.**.
 - **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me, i will not reply**
 - **This should be self-understandable that i am not approaching you and neither i follow or search about your research, so you should do the same. You will listen the same what is mentioned here, either no reply or a blunt reply: please dont write me further**
+- If you think that I am issing or remembering someone, you are highly mistaken.
+- If you ahve believed this by listening to someone and treated me accordingly, you will not have a second chance.
 - Thank you for reading and self evaluating this.
 
 
