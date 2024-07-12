@@ -22,6 +22,7 @@
 - I belive in effectively working with those, who talk to me and not other way around.
 - I belive in not taking and appreciating indirect approaches as it never generate results.
 - Extremely collaborative and open to supporting those who support me.
+- I give importance to those who are clear, approachable, and not assumptive and judgemental as i cant work on assumptions. I have the ability on work not to evaluate someone assumptions. 
  
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Priority Language: Python, R, Ruby, Julia, Javascript
