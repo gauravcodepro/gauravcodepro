@@ -18,7 +18,8 @@
 - **This should be self-understandable that i am not approaching you and neither i follow or search about your research, so you should do the same. You will listen the same what is mentioned here, either no reply or a blunt reply: please dont write me further**
 - If you think that I am issing or remembering someone, you are highly mistaken.
 - If you have believed this by listening to someone and treated me accordingly, you will not have a second chance.
-- I give importance to those who are clear, approachable, and not assumptive and judgemental as i cant work on assumptions. I have the ability on work not to evaluate someone assumptions. 
+- I give importance to those who are clear, approachable, and not assumptive and judgemental as i cant work on assumptions. I have the ability on work not to evaluate someone assumptions.
+- if you have given importance to someone else thinking that i am attached or something else and discarded me then you are highly mistaken and kindly dont approach me.  
 - Thank you for reading and self evaluating this.
 
 
