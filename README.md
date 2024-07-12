@@ -3,7 +3,7 @@
 - [Read this: Immediate joining and relocation for the selection position](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md)
 - [Read this: Past collaborator and employers, please dont write/approach me.](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - [Covering Letter](https://github.com/gauravcodepro/gauravcodepro/blob/main/covering_letter.pdf), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
-- Approachable at at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
+- Approachable at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - All code and ideas concieved and written by me unless specified.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 - Time based programming to increase my speed and efficiency.
