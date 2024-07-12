@@ -31,6 +31,7 @@
 - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - Package Development: Python, Julia, Javascript, Ruby.
 - API Development using FASTAPI/Javascript
+- Learning RUST as a system programming language in spare time.
   
 **DevOPs**
 - Code Management: Git, GitKraken,Docker.
