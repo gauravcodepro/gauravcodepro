@@ -34,16 +34,16 @@
 - Learning RUST as a system programming language in spare time since last week and not immediate and can drop anytime.
   
 **DevOPs**
+- Priority Language: Shell, NuShell, Awk, Python
 - Code Management: Git, GitKraken,Docker.
 - Orchestration:Terraform, Kubernetes.
-- Language: Shell, NuShell, Awk, Python
 - Database: SQlite3, MySQL, MongoDB.
 - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - PBS and SLURM as job scheduler
 - [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Web Develpoment**
-- Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
+- Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
 - JSON Format: jinja and jinja2, jq, yq
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
