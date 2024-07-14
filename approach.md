@@ -13,14 +13,13 @@
    - Your outcome will be what you believe without talking to me and that has nothing to do with me.
 - If answer to any of these questions is inconsistent or not applicable then kindly dont contact. This will save your self confidence that you wrote and never heard back. 
 - I appreciate you investing your time in yourself and giving yourself the credit, importance you deserve to yourself.
-- **If you are a past collaborator and i havent seen you ever or talked to you or been in contact with you in the last few years, please dont write to me, I am not interested and will not reply.**.
-- **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me, i will not reply**
-- **This should be self-understandable that i am not approaching you and neither i follow or search about your research, so you should do the same. You will listen the same what is mentioned here, either no reply or a blunt reply: please dont write me further**
-- If you think that I am issing or remembering someone, you are highly mistaken.
+- **If you are a past collaborator and i havent seen you ever or talked to you or never been in contact with you in the last few years, please dont write to me, I am not interested**.
+- **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me**
+- If you think that I am missing or remembering someone, you are highly mistaken.
 - If you have believed this by listening to someone and treated me accordingly, you will not have a second chance.
 - I give importance to those who are clear, approachable, and not assumptive and judgemental as i cant work on assumptions. I have the ability on work not to evaluate someone assumptions.
 - if you have given importance to someone else thinking that i am attached or something else and discarded me then you are highly mistaken and kindly dont approach me.
-- I give importance to those who are clear, approachable, can talk and not assumptive and judgemental as i cant work on assumptions. I have the ability to work on real not to evaluate or take part in someone assumptions. 
+- I give importance to those who are clear, approachable, can talk and not assumptive and judgemental as i cant work on assumptions. I have the ability to work on real not to evaluate or take part in someone assumptions.
 - Thank you for reading and self evaluating this.
 
 
