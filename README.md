@@ -22,23 +22,19 @@
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
  
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
-- Priority Language: Python, R, Ruby, Julia, Javascript
+- Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
 - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
-- Web Development: Python, Javascript, Julia, Ruby on Rails, Django, HTML and CSS.
-- Server and Data Management: Awk, Shell, Nextflow
-- Database Management: SQlite3, MySQL, MongoDB.
-- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - Package Development: Python, Julia, Javascript, Ruby.
 - API Development using FASTAPI/Javascript
+- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 
 **DevOPs**
 - Priority Language: Shell, NuShell, Awk, Python
-- Code Management: Git, GitKraken,Docker.
+- Code Management: Git, GitKraken.
+- Application deployment: [Docker](https://hub.docker.com/u/gauravcodepro)
 - Orchestration:Terraform, Kubernetes.
-- Database: SQlite3, MySQL, MongoDB.
-- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
+- Database Management: SQlite3, MySQL, MongoDB.
 - PBS and SLURM as job scheduler
-- [Docker](https://hub.docker.com/u/gauravcodepro) for application deployment
 
 **Web Develpoment**
 - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
