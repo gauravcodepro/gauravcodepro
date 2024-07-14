@@ -7,7 +7,7 @@
 - All code and ideas concieved and written by me unless specified.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
 
-[**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [Professionalism](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
+[**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - **Decisions and approaches/attempts not made in time have no value and importance.**
 - I read scientific aptitude to increase my work potential for continous development.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
