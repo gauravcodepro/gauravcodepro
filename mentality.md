@@ -8,5 +8,6 @@
 - First give importance to your work as your work will be done by the candiate and not by others, if you loose the candidate and hire some loose candidate then its your loss.
 - Inspect visually that how productive the candidate is and his performance both at the professional level and before and after leaving employers. You should also compare the employer performance when the candidate was with them and before and after them and you will be able to make better decisions.
 - What a candidate is reading and developing and if he or she is developing that for your work, then you should give importance to the candidate rather than from where he or she is downloading and anything else. That is not important as that is momentary and what the candidate applies to your work is long lasting and goes as output and not from where it is downloaded. You should appreciate that the candidate is learning and developing the same for your work rather than sitting idly and wasting time.
+- **I use the tools such as github, browser, code editor, terminal client, linux management and others written by others like everyone and if you have objection with colour or if you have interpreted anything else then please kindly report to those organization as this has nothing to do with me. They should be able to answer these questions.**
 
      
