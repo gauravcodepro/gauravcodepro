@@ -1,5 +1,5 @@
 
-- **Open to collaboration and positons on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
+- **Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
 - **Candidate word: If i have applied for your open position then i am surely interested**
 - **Read this:** [Immediate joining and relocation](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md), [Past collaborator and employers](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md), [Mentality Note](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md), [Professionalism](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - [Covering Letter](https://github.com/gauravcodepro/gauravcodepro/blob/main/covering_letter.pdf), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
