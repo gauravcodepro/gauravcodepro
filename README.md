@@ -41,7 +41,7 @@
 - JSON Format: jinja and jinja2, jq, yq
 
 **Application Development**
-- Learning Electron, Slint, Tauri, PyQT, PyGTK, 
+- Learning Electron, Slint, Tauri, PyQT, PyGTK 
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
  - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer-API)
