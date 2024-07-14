@@ -19,7 +19,8 @@
 - If you think that I am issing or remembering someone, you are highly mistaken.
 - If you have believed this by listening to someone and treated me accordingly, you will not have a second chance.
 - I give importance to those who are clear, approachable, and not assumptive and judgemental as i cant work on assumptions. I have the ability on work not to evaluate someone assumptions.
-- if you have given importance to someone else thinking that i am attached or something else and discarded me then you are highly mistaken and kindly dont approach me.  
+- if you have given importance to someone else thinking that i am attached or something else and discarded me then you are highly mistaken and kindly dont approach me.
+- I give importance to those who are clear, approachable, can talk and not assumptive and judgemental as i cant work on assumptions. I have the ability to work on real not to evaluate or take part in someone assumptions. 
 - Thank you for reading and self evaluating this.
 
 
