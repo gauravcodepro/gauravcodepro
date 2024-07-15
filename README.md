@@ -20,10 +20,11 @@
 - I give importance and priority to the people I am working with.
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
 
-**Communication skill**: Clear, presice, applicative
+[**Communication skill**: Clear, presice, applicative](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 -  Pro-active in making effective communication as communication leads to result oriented approaches.
-- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**. **I believe: loss is yours if you have thought/judged/believed anything/anyone without talking to the person.**. **You are allowed to believe/assume/link/talk anything and that has nothing to do with me if you have not listened from me. Loss is yours if you have invested your time.**
+- If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**.
+- I believe: loss is yours if you have thought/judged/believed anything/anyone without talking to the person.**. You are allowed to believe/assume/link/talk anything and that has nothing to do with me if you have not listened from me. Loss is yours if you have invested your time.
 - If you are a past collaborator or anyone and i havent seen you ever or talked to you or never been in contact with you in the last few years, please dont write to me, I am not interested.
 
 
