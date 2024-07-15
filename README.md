@@ -1,6 +1,6 @@
-
+<p align = "justify">
+ 
 **About me**
-
 - **Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
 - **Candidate word: If i have applied for your open position then i am surely interested**
 - **Read this:** [Immediate joining and relocation](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md), [Past collaborator and employers](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md), [Mentality Note](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md), [Professionalism](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
@@ -18,14 +18,12 @@
 - **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss.**. **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.** I think very precisely before speaking as what has spoken cant be fetched back. Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. Pro-active in making effective communication as communication leads to result oriented approaches.
 
 **Areas of Interest**
- 
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
   - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
   - Package Development: Python, Julia, Javascript, Ruby.
   - API Development using FASTAPI/Javascript
   - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
-
 - **DevOPs**
   - Priority Language: Shell, NuShell, Awk, Python
   - Code Management: Git, GitKraken.
@@ -33,11 +31,9 @@
   - Orchestration:Terraform, Kubernetes.
   - Database Management: SQlite3, MySQL, MongoDB.
   - PBS and SLURM as job scheduler
-
 - **Web Develpoment**
   - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
   - JSON Format: jinja and jinja2, jq, yq
-
 - **Application Development**
   - Learning Electron, Slint, Tauri, PyQT, PyGTK 
 
