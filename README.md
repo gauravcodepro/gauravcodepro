@@ -12,21 +12,10 @@
 - **Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.** 
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
-- **Decisions and approaches/attempts not made in time have no value and importance.**
-- I read scientific aptitude to increase my work potential for continous development.
-- Active in solving limitations and applicative person, proficient in developing new approaches for code development.
-- I belive in effectively working with those, who talk to me and not other way around.
-- I belive in not taking and appreciating indirect approaches as it never generate results.
-- Extremely collaborative and open to supporting those who support me.
-- I give importance and priority to the people I am working with. 
-- I pick the programming langauge to get the work done and can drop anytime and pick another.
+- **Decisions and approaches/attempts not made in time have no value and importance.**. I read scientific aptitude to increase my work potential for continous development. Active in solving limitations and applicative person, proficient in developing new approaches for code development. I belive in effectively working with those, who talk to me and not other way around. I belive in not taking and appreciating indirect approaches as it never generate results. Extremely collaborative and open to supporting those who support me. I give importance and priority to the people I am working with. I pick the programming langauge to get the work done and can drop anytime and pick another.
 
 **Communication skill**
-- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss.**
-- **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
-- I think very precisely before speaking as what has spoken cant be fetched back.
-- Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- Pro-active in making effective communication as communication leads to result oriented approaches.
+- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss.**. **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.** I think very precisely before speaking as what has spoken cant be fetched back. Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. Pro-active in making effective communication as communication leads to result oriented approaches.
 
 **Areas of Interest**
  
