@@ -13,6 +13,7 @@
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - **Decisions and approaches/attempts not made in time have no value and importance.**
+- If someone is understanding without saying it is a fool person personality trait and supporting such is a matter of your loss.
 - I read scientific aptitude to increase my work potential for continous development.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
