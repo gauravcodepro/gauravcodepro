@@ -13,7 +13,8 @@
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - **Decisions and approaches/attempts not made in time have no value and importance.**
-- If someone is understanding without speaking it is a disordered personality trait and supporting such is a matter of your loss.
+- If someone unerstands another without speaking it is a sign of disordered personality and supporting such is your loss.
+- You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.
 - I read scientific aptitude to increase my work potential for continous development.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
