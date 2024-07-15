@@ -1,11 +1,14 @@
 
+**About me**
+
 - **Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
 - **Candidate word: If i have applied for your open position then i am surely interested**
 - **Read this:** [Immediate joining and relocation](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md), [Past collaborator and employers](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md), [Mentality Note](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md), [Professionalism](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - Application package: [Covering Letter](https://github.com/gauravcodepro/gauravcodepro/blob/main/covering_letter.pdf), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
 - Approachable at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - All code and ideas concieved and written by me unless specified.
-- Voracious reader of language model implementations [language-models](https://paperswithcode.com/) 
+- Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
+- **Continous learning, and feature addition in the priority languages and areas of interest**
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - **Decisions and approaches/attempts not made in time have no value and importance.**
@@ -20,6 +23,8 @@
 - Extremely collaborative and open to supporting those who support me.
 - I dont work with the past and this keeps me result oriented and give importance to the people i am working with.
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
+
+**Areas of Interest**
  
 **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
 - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
