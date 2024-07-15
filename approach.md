@@ -13,7 +13,7 @@
    - Your outcome will be what you believe without talking to me and that has nothing to do with me.
 - If answer to any of these questions is inconsistent or not applicable then kindly dont contact. This will save your self confidence that you wrote and never heard back. 
 - I appreciate you investing your time in yourself and giving yourself the credit, importance you deserve to yourself.
-- **If you are a past collaborator and i havent seen you ever or talked to you or never been in contact with you in the last few years, please dont write to me, I am not interested**.
+- **If you are a past collaborator or anyone and i havent seen you ever or talked to you or never been in contact with you in the last few years, please dont write to me, I am not interested**.
 - **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me**
 - If you think that I am missing or remembering someone, you are highly mistaken.
 - If you have believed this by listening to someone and treated me accordingly, you will not have a second chance.
