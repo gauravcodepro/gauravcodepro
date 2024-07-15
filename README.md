@@ -2,7 +2,8 @@
 **About me** 
 
 - **Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
-- **Candidate word: If i have applied for your open position then i am surely interested**.
+- **If i have applied for your open position then i am surely interested**.
+- **If i have previously applied to your position, and not been selected and still open then i am interested**
 - **Continous learning, and latest feature addition in the priority languages and areas of interest**
 - **Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.**
 - **All code and ideas concieved and written by me unless specified.**
@@ -22,7 +23,7 @@
 **Communication skill**: Clear, presice, applicative
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 -  Pro-active in making effective communication as communication leads to result oriented approaches.
-- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**. **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
+- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**. **You are allowed to believe/assume/link/talk anything and that has nothing to do with me if you have not listened from me. Loss is yours if you have invested your time.**
 
 
 **Areas of Interest**
