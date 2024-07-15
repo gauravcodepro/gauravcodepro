@@ -8,7 +8,7 @@
 - Approachable at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - All code and ideas concieved and written by me unless specified.
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
-- **Continous learning, and feature addition in the priority languages and areas of interest**
+- **Continous learning, and latest feature addition in the priority languages and areas of interest**
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md)
 - **Decisions and approaches/attempts not made in time have no value and importance.**
