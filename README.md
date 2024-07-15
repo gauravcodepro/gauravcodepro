@@ -26,27 +26,27 @@
 
 **Areas of Interest**
  
-**Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
-- Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
-- Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
-- Package Development: Python, Julia, Javascript, Ruby.
-- API Development using FASTAPI/Javascript
-- Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
+- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
+  - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
+  - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
+  - Package Development: Python, Julia, Javascript, Ruby.
+  - API Development using FASTAPI/Javascript
+  - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 
-**DevOPs**
-- Priority Language: Shell, NuShell, Awk, Python
-- Code Management: Git, GitKraken.
-- Application deployment: [Docker](https://hub.docker.com/u/gauravcodepro)
-- Orchestration:Terraform, Kubernetes.
-- Database Management: SQlite3, MySQL, MongoDB.
-- PBS and SLURM as job scheduler
+- **DevOPs**
+  - Priority Language: Shell, NuShell, Awk, Python
+  - Code Management: Git, GitKraken.
+  - Application deployment: [Docker](https://hub.docker.com/u/gauravcodepro)
+  - Orchestration:Terraform, Kubernetes.
+  - Database Management: SQlite3, MySQL, MongoDB.
+  - PBS and SLURM as job scheduler
 
-**Web Develpoment**
-- Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
-- JSON Format: jinja and jinja2, jq, yq
+- **Web Develpoment**
+  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
+  - JSON Format: jinja and jinja2, jq, yq
 
-**Application Development**
-- Learning Electron, Slint, Tauri, PyQT, PyGTK 
+- **Application Development**
+  - Learning Electron, Slint, Tauri, PyQT, PyGTK 
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
  - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer-API)
