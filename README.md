@@ -19,12 +19,12 @@
 - I give importance and priority to the people I am working with.
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
 
-**Communication skill**
-- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your mental dialect and lack of reasoning and comprehending**.
-- **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
-- I think very precisely before speaking as what has spoken cant be fetched back.
+**Communication skill**: Clear, presice, applicative
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 -  Pro-active in making effective communication as communication leads to result oriented approaches.
+- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**.
+- **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
+
 
 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
