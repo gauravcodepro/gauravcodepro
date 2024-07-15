@@ -22,8 +22,7 @@
 **Communication skill**: Clear, presice, applicative
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 -  Pro-active in making effective communication as communication leads to result oriented approaches.
-- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**.
-- **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
+- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending**. **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
 
 
 **Areas of Interest**
