@@ -22,7 +22,7 @@
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
 
 **Communication skill**
-- **If someone understands without speaking/listening it is a sign of disordered personality and supporting such is your loss.**
+- **If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss.**
 - **You are allowed to believe/assume anything and that has nothing to do with me if you have not listened from me.**
 - I think very precisely before speaking as what has spoken cant be fetched back.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
