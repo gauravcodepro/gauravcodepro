@@ -1,6 +1,5 @@
  
 **About me** 
-
 - Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.
 - If i have applied for your open position then i am surely interested.
 - If i have previously applied to your position, and not been selected and still open then i am interested.
