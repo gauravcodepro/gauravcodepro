@@ -1,19 +1,19 @@
  
 **About me** 
 
-- **Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.**
-- **If i have applied for your open position then i am surely interested**.
-- **If i have previously applied to your position, and not been selected and still open then i am interested**
-- **Continous learning, and latest feature addition in the priority languages and areas of interest**
-- **Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.**
-- **All code and ideas concieved and written by me unless specified.**
+- Open to collaboration and position on Bioinformatics, Deep Learning, Language Deep models,and DevOPs.
+- If i have applied for your open position then i am surely interested.
+- If i have previously applied to your position, and not been selected and still open then i am interested.
+- Continous learning, and latest feature addition in the priority languages and areas of interest.
+- Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.
+- All code and ideas concieved and written by me unless specified.
 - [Immediate joining and relocation](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md), [Past collaborator and employers](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md), [Mentality Note](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md), [Professionalism](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md).
 - Application package: [Covering Letter](https://github.com/gauravcodepro/gauravcodepro/blob/main/covering_letter.pdf), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
 - Approachable at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Voracious reader of language model implementations [language-models](https://paperswithcode.com/)
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md) 
-- **Decisions and communication not made in time have no value and importance.**.
+- Decisions and communication not made in time have no value and importance.
 - I read scientific aptitude to increase my work potential for continous development.
 - Active in solving limitations and applicative person, proficient in developing new approaches for code development.
 - Extremely collaborative and open to supporting those who support me.
@@ -24,7 +24,7 @@
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 -  Pro-active in making effective communication as communication leads to result oriented approaches.
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending. I believe: loss is yours if you have thought/judged/believed anything/anyone without talking to the person. You are allowed to believe/assume/link/talk anything and that has nothing to do with me if you have not listened from me. Loss is yours if you have invested your time.
-- **If you are a past collaborator or anyone and i havent seen you ever or talked to you or never been in contact with you in the last few years, please dont write to me, I am not interested.**
+- If you are a past collaborator or anyone and havent talked/met/contact in last years, please kindly dont write to me.
 
 
 **Areas of Interest**
