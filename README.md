@@ -23,7 +23,7 @@
 [**Communication skill**: Clear, presice, applicative](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 -  Pro-active in making effective communication as communication leads to result oriented approaches.
-- If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approach shows your lack of mental dialect and reasoning and comprehending. I believe: loss is yours if you have thought/judged/believed anything/anyone without talking to the person. You are allowed to believe/assume/link/talk anything and that has nothing to do with me if you have not listened from me. Loss is yours if you have invested your time.
+- If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining or getting involved is your loss. Giving importance to such approaches display lack of mental reasoning abilities. Loss is yours: If you have thought/judged/believed anything/anyone without talking to the person. You are allowed to believe/assume/link/talk anything and that has nothing to do with me if you have not listened from me. 
 - If you are a past collaborator or anyone and havent talked/met/contact in last years, please kindly dont write to me.
 
 
