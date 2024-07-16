@@ -47,7 +47,7 @@
 - **Application Development**
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
  
-[**Python Packages**](https://pypi.org/user/gauravcodepro/) | Python Community](https://www.python.org/community/) | [Streamlit Applications](https://streamlit.io/) | [Streamlit Community](https://discuss.streamlit.io/)
+[**Python Packages**](https://pypi.org/user/gauravcodepro/) | [Python Community](https://www.python.org/community/) | [Streamlit Applications](https://streamlit.io/) | [Streamlit Community](https://discuss.streamlit.io/)
  - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
  - [Graphanalyzer: python package for graph alignment tools](https://github.com/gauravcodepro/graphanalyzer)
  - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
