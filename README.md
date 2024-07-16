@@ -50,11 +50,11 @@
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
  
 [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) | [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
- - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
- - [Graphanalyzer: python package for graph alignment tools](https://github.com/gauravcodepro/graphanalyzer)
- - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
- - [ProteinAnnotator: python package for genome-protein alignments](https://github.com/gauravcodepro/protein-annotator)
- - [Ontologyanalyzer: python package ontologies using the semantic web](https://github.com/gauravcodeproontologyanalyzer)
+ - [Tairaccession](https://github.com/gauravcodepro/tairaccession):python package for interacting with tair
+ - [Graphanalyzer](https://github.com/gauravcodepro/graphanalyzer):python package for graph alignment tools
+ - [RNAprocessor](https://github.com/gauravcodepro/rnaprocessor):python package for sequence based machine learning
+ - [ProteinAnnotator](https://github.com/gauravcodepro/protein-annotator):python package for genome-protein alignments
+ - [Ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer): python package ontologies using the semantic web
  - [Metabolic-analyzer:streamlit API to BIGG database models](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API)
  - [Metabolic-json: streamlit analyzing BIGG metabolic models](https://github.com/gauravcodepro/metabolic-json-modelling)
  - [Ontology-graphs: streamlit analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
