@@ -13,7 +13,8 @@
 
 [**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md) 
 - Decisions and communication not made in time have no value and importance.
-- I read scientific aptitude to increase my work potential for continous development.
+- I constantly read scientific aptitude/literature/code development to increase my work potential.
+- I belive if you dont read new development, you will never be able to diversify and apply.
 - Active in solving limitations and applicative person, proficient in developing new approaches for code development.
 - Extremely collaborative and open to supporting those who support me.
 - I give importance and priority to the people I am working with.
