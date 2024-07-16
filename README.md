@@ -47,7 +47,7 @@
 - **Application Development**
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
  
-**Python Package:developmental version**: [Python Packages](https://pypi.org/user/gauravcodepro/)/[Python Community](https://www.python.org/community/): and **Streamlit**: [Streamlit Applications](https://streamlit.io/)/[Streamlit Community](https://discuss.streamlit.io/)
+[**Python Packages**](https://pypi.org/user/gauravcodepro/) | Python Community](https://www.python.org/community/) | [Streamlit Applications](https://streamlit.io/) | [Streamlit Community](https://discuss.streamlit.io/)
  - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
  - [Graphanalyzer: python package for graph alignment tools](https://github.com/gauravcodepro/graphanalyzer)
  - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
@@ -58,8 +58,8 @@
  - [Ontology-graphs: analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
  - [Pacbiohifi: pacbiohifi sequencing information](https://github.com/gauravcodepro/pacbiohifi)
  - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
-   
-**Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
+
+[Ruby gems](https://rubygems.org/profiles/gauravcodepro) | [Ruby app](https://www.ruby-forum.com/) | [Ruby Community](https://www.ruby-forum.com/): released and development version 
  - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
  - [Ruby-template: ruby templating](https://github.com/gauravcodepro/ruby_gem_creator)
  - [Fasta-tokenizer: fasta tokenizer and motif indexer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
