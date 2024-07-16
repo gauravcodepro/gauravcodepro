@@ -19,7 +19,8 @@
 - Extremely collaborative and open to supporting those who support me.
 - I give importance and priority to the people I am working with.
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
-- I fork repositories as per language and dependencies need and once learnt then unforked. 
+- I fork repositories as per language and dependencies need and once learnt then unforked.
+- I never take part in brining any other person down as i believe by taking part in such is already a sign that you are illerate and below that person. 
 
 [**Communication skill**: Clear, presice, applicative](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 -  Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
