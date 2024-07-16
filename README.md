@@ -47,11 +47,11 @@
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
 
 **Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
- - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/streamlit-BIGG-metabolic-analyzer-API)
- - [Metabolic-json: analyzing BIGG metabolic models](https://github.com/gauravcodepro/streamlit-metabolic-json-modelling)
- - [Ontology-graphs: analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/streamlit-arabidopsis-ontology-graphs)
- - [Pacbiohifi: pacbiohifi sequencing information](https://github.com/gauravcodepro/streamlit-pacbiohifi)
- - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/streamlit-up-application)
+ - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API)
+ - [Metabolic-json: analyzing BIGG metabolic models](https://github.com/gauravcodepro/metabolic-json-modelling)
+ - [Ontology-graphs: analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
+ - [Pacbiohifi: pacbiohifi sequencing information](https://github.com/gauravcodepro/pacbiohifi)
+ - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application)
 
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
  - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
