@@ -41,7 +41,7 @@
   - Database Management: SQlite3, MySQL, MongoDB.
   - PBS and SLURM as job scheduler
 - **Web Develpoment**
-  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, BootStrap, Julia, HTML, Javascript
+  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, HTML, Javascript
   - JSON Format: jinja and jinja2, jq, yq
 - **Application Development**
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
