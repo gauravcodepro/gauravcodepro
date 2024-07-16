@@ -46,14 +46,18 @@
   - JSON Format: jinja and jinja2, jq, yq
 - **Application Development**
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
-
-**Streamlit**: [Streamlit Applications](https://streamlit.io/) and [Streamlit Community](https://discuss.streamlit.io/)
+ 
+**Python Package:developmental version**: [Python Packages](https://pypi.org/user/gauravcodepro/)/[Python Community](https://www.python.org/community/): and **Streamlit**: [Streamlit Applications](https://streamlit.io/)/[Streamlit Community](https://discuss.streamlit.io/)
+ - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
+ - [Graphanalyzer: python package for graph alignment tools](https://github.com/gauravcodepro/graphanalyzer)
+ - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
+ - [ProteinAnnotator: python package for genome-protein alignments](https://github.com/gauravcodepro/protein-annotator)
+ - [Ontologyanalyzer: python package ontologies using the semantic web](https://github.com/gauravcodeproontologyanalyzer)
  - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API)
  - [Metabolic-json: analyzing BIGG metabolic models](https://github.com/gauravcodepro/metabolic-json-modelling)
  - [Ontology-graphs: analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
  - [Pacbiohifi: pacbiohifi sequencing information](https://github.com/gauravcodepro/pacbiohifi)
  - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application)
-
 **Ruby Gems**: [Ruby gems](https://rubygems.org/profiles/gauravcodepro), [Ruby app](https://www.ruby-forum.com/) and [Ruby Community](https://www.ruby-forum.com/): released and development version 
  - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
  - [Ruby-template: ruby templating](https://github.com/gauravcodepro/ruby_gem_creator)
@@ -62,9 +66,4 @@
  - [Protalign: protein alignment analyzer](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) 
  - [Pacbiohifi-analyzer: pacbio hifi data from reads to graphs](https://github.com/gauravcodepro/pacbiohifi-analyzer) 
 
-**Python Package**: [Python Packages](https://pypi.org/user/gauravcodepro/) and [Python Community](https://www.python.org/community/): building development release version 
- - [Tairaccession: python package for interacting with tair](https://github.com/gauravcodepro/tairaccession) 
- - [Graphanalyzer: python package for graph alignment tools](https://github.com/gauravcodepro/graphanalyzer)
- - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
- - [ProteinAnnotator: python package for genome-protein alignments](https://github.com/gauravcodepro/protein-annotator)
- - [Ontologyanalyzer: python package ontologies using the semantic web](https://github.com/gauravcodeproontologyanalyzer) 
+
