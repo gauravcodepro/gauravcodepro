@@ -53,11 +53,11 @@
  - [RNAprocessor: python package for sequence based machine learning](https://github.com/gauravcodepro/rnaprocessor)
  - [ProteinAnnotator: python package for genome-protein alignments](https://github.com/gauravcodepro/protein-annotator)
  - [Ontologyanalyzer: python package ontologies using the semantic web](https://github.com/gauravcodeproontologyanalyzer)
- - [Metabolic-analyzer:API to BIGG database models](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API)
- - [Metabolic-json: analyzing BIGG metabolic models](https://github.com/gauravcodepro/metabolic-json-modelling)
- - [Ontology-graphs: analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
- - [Pacbiohifi: pacbiohifi sequencing information](https://github.com/gauravcodepro/pacbiohifi)
- - [DevOPS Application Slurm Generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
+ - [Metabolic-analyzer:streamlit API to BIGG database models](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API)
+ - [Metabolic-json: streamlit analyzing BIGG metabolic models](https://github.com/gauravcodepro/metabolic-json-modelling)
+ - [Ontology-graphs: streamlit analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
+ - [Pacbiohifi: streamlit pacbiohifi sequencing information](https://github.com/gauravcodepro/pacbiohifi)
+ - [DevOPS streamlit application slurm generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
 
 [Ruby gems](https://rubygems.org/profiles/gauravcodepro) | [Ruby app](https://www.ruby-forum.com/) | [Ruby Community](https://www.ruby-forum.com/): released and development version 
  - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
