@@ -1,16 +1,26 @@
 <p align = "justify">
 
-#### A one page description on my work approach, mentality, professionalism, collaboration. 
+#### A one page description on my work approach, mentality, professionalism, collaboration, associations.
+
+#### Association: 
+- I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf.
+- I have no family, no father, mother, brother, sister or anyone, so available for immediate relocation.
+- I dont associate myself to any number/colour. If you have thought of or have been told then you are highly mistaken.
+- I dont like or believe someone that i havent met or seen. You cant self-imagine.
+- I dont take part in interactions that are simply discussing other people.
+- I dont believe words about someone such as their preferences, likes, dislikes or anything without asking them. Believing someone about someone else is like believeing the superimposed choices.
+- If you have associated any numbers or letters or anything to personal perferences then it is your lookout, i have nothing to do with the same as without knowing no one can understand.
+- I distance myself from those, who are taking a lot about others without others even knowing or others speaking about them, as it means that they have nothing to talk about them.
+- If someone says to me that he or she thinks about this, i make a approach to ask that is it true or just a mere assumption of someone as this can significantly destroy my relations.
 
 #### Application 
 - I am extensively applying and submitting applications and ready to take the first selected position.
+- I am available immediately and i will give importance to the person, who approaches me directly and immediately.
+- I respect everyone and i thank you and i am available for immediate joining.
 - I thank you for employing me and i assure you that I give my complete dedication. 
 - I am applying to your position becasue i am interested in working there.
 - I have a work strong work ethic and I respect people those who appreciate that.
-- I am available immediately and i will give importance to the person, who approaches me directly and immediately.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
-- I respect everyone and i thank you and i am available for immediate joining.
-- I have no family, no father, mother, brother, sister or anyone, so available for immediate relocation.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
 
@@ -35,22 +45,11 @@
 #### Mentality
 - If you are a person, who is more interested in talking to the other as compared to the person doing the work, such as the candidate appearing for the position itself, then you should hire those others. I believe that the person, who is hired can only solve your problem.
 - If you have any questions, take the liberty to ask the candidate itself as he or she is going to work for you and not his parents, family, or anything else. So give the prime importance to the candidate.
-- If you are affected by directions such as right or left then ask yourself, that how can a person be mentallity right when he or she is talking about this: look that person is looking at 10.00 am in the right direction, so he is a right person and the same person at 10.02 am (just after 2 minutes) looking in the left direction, so he became bad. So if you work is less important then you can listen to such endless talks of mentally ill person and give less importance to your work or you can totally avoid them and give importance to the candidate. When you start ignoring them, after some time, they will stop even saying as they know it that you have stopped listening and you have realized who is right and wrong and who is actually worth of giving importance.**
-- First give importance to your work as your work will be done by the candiate and not by others, if you loose the candidate and hire some loose candidate then its your loss.
+- If you are affected by directions such as right or left then ask yourself, that how can a person be mentallity right when he or she is talking about this: look that person is looking at 10.00 am in the right direction, so he is a right person and the same person at 10.02 am (just after 2 minutes) looking in the left direction, so he became bad. So if you work is less important then you can listen to such endless talks of mentally ill person and give less importance to your work or you can totally avoid them and give importance to the candidate. When you start ignoring them, after some time, they will stop even saying as they know it that you have stopped listening and you have realized who is right and wrong and who is actually worth of giving importance.
+- I cant understand people without speaking or talking to them and neither i am interested in those people.
 - Inspect visually that how productive the candidate is and his performance both at the professional level and before and after leaving employers. You should also compare the employer performance when the candidate was with them and before and after them and you will be able to make better decisions.
 - What a candidate is reading and developing and if he or she is developing that for your work, then you should give importance to the candidate rather than from where he or she is downloading and anything else. That is not important as that is momentary and what the candidate applies to your work is long lasting and goes as output and not from where it is downloaded. You should appreciate that the candidate is learning and developing the same for your work rather than sitting idly and wasting time.
 - I use the tools such as github, browser, code editor, terminal client, linux management and others written by others like everyone and if you have objection with colour,icon,appearance or if you have interpreted anything else then please kindly report to those organization as this has nothing to do with me. I have not developed them. They should be able to answer these questions. They should be able to change the colour, icon, whatever you want for your needs. I use them to develop myself and apply to my work, so i dont have interest in any specific colour, icon or any other interpretation coming from those.
 - I am not interested in working with those, which speak to others rather than the people you are working with.
 - I am not associated with any number, colour, browser, operating system, so i dont believe in this crap.
 - I am not applying to your position to find someone.
-- If you believe someone else rather than my work, then you should hire that person, and prove that talking mouth do more work than a efficeint dedicated skilled person actually working.
-- I am not waiting for someone specific.
-
-#### Personality and Approach
-- I dont associate myself to any number/colour. If you have thought of or have been told then you are highly mistaken.
-- I dont like or believe someone that i havent met or seen. You cant self-imagine.
-- I dont take part in interactions that are simply discussing other people.
-- I dont believe words about someone such as their preferences, likes, dislikes or anything without asking them. Believing someone about someone else is like believeing the superimposed choices.
-- If you have associated any numbers or letters or anything to personal perferences then it is your lookout, i have nothing to do with the same as without knowing no one can understand.
-- I distance myself from those, who are taking a lot about others without others even knowing or others speaking about them, as it means that they have nothing to talk about them.
-- If someone says to me that he or she thinks about this, i make a approach to ask that is it true or just a mere assumption of someone as this can significantly destroy my relations.
