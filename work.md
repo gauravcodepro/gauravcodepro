@@ -14,9 +14,9 @@
 - If someone says to me that he or she thinks about this, i make a approach to ask that is it true or just a mere assumption of someone as this can significantly destroy my relations.
 - I am not associated with any number, colour, browser, operating system, so i dont believe in this crap.
 - I am not applying to your position to find someone.
+- If you are anyone from the prior to PhD or PhD or prior to me joining that place, worked with me during PhD or after that me till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
-- If you are anyone from the PhD prior to me joining that place, worked with me during PhD or after that me till now, kindly dont contact or write me. I have no space and time.
 
 
 #### Application 
