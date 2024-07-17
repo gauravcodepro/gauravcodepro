@@ -45,7 +45,7 @@
   - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, HTML, Javascript
   - JSON Format: jinja and jinja2, jq, yq
 - **Application Development**
-  - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, React,Typescript,Nodejs
+  - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, Typescript,Nodejs
  
 [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) | [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
  - [Tairaccession](https://github.com/gauravcodepro/tairaccession):python package for interacting with tair
