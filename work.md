@@ -3,10 +3,10 @@
 #### A one page description on my work approach, mentality, professionalism, collaboration, associations.
 
 #### Association: 
-- I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf.
+- I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
 - I have no family member, no father, mother, brother, sister or anyone, so available for immediate relocation.
 - I dont associate myself to any number/colour. If you have thought of or have been told then you are highly mistaken.
-- I dont like or believe someone that i havent met or seen. You cant self-imagine.
+- I dont like or believe someone that i havent met or seen. Self imagination and assumption is a disease.
 - I dont take part in interactions that are simply discussing other people.
 - I dont believe words about someone such as their preferences, likes, dislikes, where they want to work or anything else without asking them as that might lead to wrong decisions.
 - If you have associated any numbers or letters or anything to personal perferences then it is your lookout, i have nothing to do with the same as without knowing no one can understand.
@@ -14,10 +14,9 @@
 - If someone says to me that he or she thinks about this, i make a approach to ask that is it true or just a mere assumption of someone as this can significantly destroy my relations.
 - I am not associated with any number, colour, browser, operating system, so i dont believe in this crap.
 - I am not applying to your position to find someone.
-- If you are anyone from the prior to PhD or PhD or prior to me joining that place, worked with me during PhD or after that me till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
+- If you are anyone from the prior to PhD or PhD or after that me till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
-
 
 #### Application 
 - I am extensively applying and submitting applications and ready to take the first selected position.
