@@ -10,8 +10,8 @@
 - I am applying to your position becasue i am interested in working there.
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
-- A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not.
-- A unconsious employer, believes everything and looses the employee that could be more beneficial. 
+- A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not before(while hiring) and also after employment.
+- A unconsious employer, believes everything without asking employee and an employee loss. 
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
