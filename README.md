@@ -11,7 +11,7 @@
 - Approachable at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Voracious reader of [language-models](https://paperswithcode.com/)
 
-Work Attitude and Professionalism
+**Work Attitude and Professionalism**
 - I believe decisions and communication not made in time have no value and importance.
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
 - I belive if you dont read new development, you will never be able to diversify and apply.
