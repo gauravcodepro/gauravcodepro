@@ -18,7 +18,7 @@
 - If you are a past collaborator or anyone and havent talked/met/contact in last years, please kindly dont write to me.
 - A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not before(while hiring) and also after employment.
 - A unconsious employer, believes everything without asking employee and an employee loss.
-- If someone thinks that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage.  
+- If someone thinks/assumes that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage. 
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
