@@ -20,12 +20,9 @@
 - I give importance and priority to the people I am working with.
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
 - I fork repositories as per language and dependencies need and once learnt then unforked.
-- I never take part in bringing any other person down as i believe by taking part in such is already a sign that you are below that person and a dirt spitter, so you can imagine by supporting them what you will get/achieve.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
-- If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
-- Loss is yours: You are allowed to believed/thought/assume/judged/linked/talked anything and that has nothing to do with me if you have not listened/confirmed from me. 
-- If you are a past collaborator or anyone and havent talked/met/contact in last years, please kindly dont write to me.
+- If someone understands without speaking/listening it is a sign of disordered personality.
 
 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
