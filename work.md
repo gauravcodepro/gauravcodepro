@@ -1,5 +1,5 @@
 #### Please read this as these will help you understand better:
-- **I am extensively applying and submitting applications and ready to take the first selected position**.
+- I am extensively applying and submitting applications and ready to take the first selected position.
 - I thank you for employing me and i assure you that I give my complete dedication. 
 - I am applying to your position becasue i am interested in working there.
 - I have a work strong work ethic and I respect people those who appreciate that.
@@ -7,6 +7,5 @@
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
 - I respect everyone and i thank you and i am available for immediate joining.
 - I have no family, no father, mother, brother, sister or anyone, so available for immediate relocation.
-- **If you a past collaborator and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me, I am not interested and will not reply.**
-- **If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me, i will not reply**
-- **This should be self-understandable that i am not approaching you and neither i follow or search about your research**
+- If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
+- If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
