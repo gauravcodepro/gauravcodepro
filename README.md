@@ -16,7 +16,7 @@
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
 - I belive if you dont read new development, you will never be able to diversify and apply.
 - Active in solving limitations, proficient in developing new approaches for code development.
-- **Extremely collaborative and open to supporting those who support me.**
+- Extremely collaborative and open to supporting those who support me.
 - I give importance and priority to the people I am working with.
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
 - I fork repositories as per language and dependencies need and once learnt then unforked.
