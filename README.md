@@ -66,4 +66,5 @@
  - [Protalign](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) : protein alignment analyzer
  - [Pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) : pacbiohifi dataanalyzer from reads to graphs
 
-
+[**Electron Application**]
+ - A desktop application for [TAIR genome analysis](https://github.com/gauravcodepro/arabidopsis-tair-application)
