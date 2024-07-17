@@ -2,7 +2,18 @@
 
 #### A one page description on my work approach, mentality, professionalism, collaboration, associations.
 
-#### Association: 
+#### Application
+- I am extensively applying and submitting applications and ready to take the first selected position.
+- I am available immediately and i will give importance to the person, who approaches me directly and immediately.
+- I respect everyone and i thank you and i am available for immediate joining.
+- I thank you for employing me and i assure you that I give my complete dedication. 
+- I am applying to your position becasue i am interested in working there.
+- I have a work strong work ethic and I respect people those who appreciate that.
+- If you have any questions, then please feel free to ask me rather than asking anyone else.
+- A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not.
+- A unconsious employer, believes everything and looses the employee that could be more beneficial. 
+
+#### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
 - I have no family member, no father, mother, brother, sister or anyone, so available for immediate relocation.
 - I dont associate myself to any number/colour. If you have thought of or have been told then you are highly mistaken.
@@ -17,15 +28,6 @@
 - If you are anyone from the prior to PhD or PhD or after that me till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
-
-#### Application 
-- I am extensively applying and submitting applications and ready to take the first selected position.
-- I am available immediately and i will give importance to the person, who approaches me directly and immediately.
-- I respect everyone and i thank you and i am available for immediate joining.
-- I thank you for employing me and i assure you that I give my complete dedication. 
-- I am applying to your position becasue i am interested in working there.
-- I have a work strong work ethic and I respect people those who appreciate that.
-- If you have any questions, then please feel free to ask me rather than asking anyone else.
 
 #### Means of Communication
 - This will save you time, as i belive that you are yourself an important person and like everyone have limited time.
