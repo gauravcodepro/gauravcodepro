@@ -6,12 +6,12 @@
 - I learn continously and add to the priority languages and areas of interest.
 - Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.
 - All code and ideas concieved and written by me unless specified.
-- [Immediate joining and relocation](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md), [Past Collaborators/Employers](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md).
+- One page description on my [approach, professionalism, work ability](https://github.com/gauravcodepro/gauravcodepro/blob/main/work.md)
 - Application package: [Covering Letter](https://github.com/gauravcodepro/gauravcodepro/blob/main/covering_letter.pdf), [Curriculum Vitae](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024_7_10.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). [Employers references](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
 - Approachable at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 - Voracious reader of [language-models](https://paperswithcode.com/)
 
-[**Work Attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/mentality.md) and [**Professionalism**](https://github.com/gauravcodepro/gauravcodepro/blob/main/personality.md) 
+Work Attitude and Professionalism
 - I believe decisions and communication not made in time have no value and importance.
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
 - I belive if you dont read new development, you will never be able to diversify and apply.
@@ -21,8 +21,6 @@
 - I pick the programming langauge to get the work done and can drop anytime and pick another.
 - I fork repositories as per language and dependencies need and once learnt then unforked.
 - I never take part in bringing any other person down as i believe by taking part in such is already a sign that you are below that person and a dirt spitter, so you can imagine by supporting them what you will get/achieve.
-
-[**Communication skill**: Clear, presice, applicative](https://github.com/gauravcodepro/gauravcodepro/blob/main/approach.md)
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
