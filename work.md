@@ -10,8 +10,15 @@
 - I am applying to your position becasue i am interested in working there.
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
+
+#### Employer Benefits
+- If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
+- I never take part in bringing any other person down as i believe by taking part in such is already a sign that you are below that person and a dirt spitter, so you can imagine by supporting them what you will get/achieve.
+- Loss is yours: You are allowed to believed/thought/assume/judged/linked/talked anything and that has nothing to do with me if you have not listened/confirmed from me. 
+- If you are a past collaborator or anyone and havent talked/met/contact in last years, please kindly dont write to me.
 - A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not before(while hiring) and also after employment.
-- A unconsious employer, believes everything without asking employee and an employee loss. 
+- A unconsious employer, believes everything without asking employee and an employee loss.
+- If someone thinks that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage.  
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
