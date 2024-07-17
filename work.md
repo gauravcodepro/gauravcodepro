@@ -4,7 +4,7 @@
 
 #### Association: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf.
-- I have no family, no father, mother, brother, sister or anyone, so available for immediate relocation.
+- I have no family member, no father, mother, brother, sister or anyone, so available for immediate relocation.
 - I dont associate myself to any number/colour. If you have thought of or have been told then you are highly mistaken.
 - I dont like or believe someone that i havent met or seen. You cant self-imagine.
 - I dont take part in interactions that are simply discussing other people.
