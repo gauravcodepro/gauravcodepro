@@ -16,7 +16,7 @@
 - I am not applying to your position to find someone.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
-- If you are anyone from the PhD place prior to me joining or after me till now, kindly dont contact or write me. I have no space and time.
+- If you are anyone from the PhD prior to me joining that place, worked with me during PhD or after that me till now, kindly dont contact or write me. I have no space and time.
 
 
 #### Application 
