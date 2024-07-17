@@ -62,11 +62,11 @@
  - [DevOPS streamlit application slurm generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
 
 [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/): 
- - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
- - [Ruby-template: ruby templating](https://github.com/gauravcodepro/ruby_gem_creator)
- - [Fasta-tokenizer: fasta tokenizer and motif indexer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
- - [Panacheextract: snp extractor](https://rubygems.org/gems/panacheextract) 
- - [Protalign: protein alignment analyzer](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) 
- - [Pacbiohifi-analyzer: pacbio hifi data from reads to graphs](https://github.com/gauravcodepro/pacbiohifi-analyzer) 
+ - [Devopsutils](https://github.com/gauravcodepro/devops-system): devops system configuration
+ - [Ruby-template](https://github.com/gauravcodepro/ruby_gem_creator): ruby templating
+ - [Fasta-tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner): fasta tokenizer and motif indexer
+ - [Panacheextract](https://rubygems.org/gems/panacheextract): snp extractor
+ - [Protalign](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) : protein alignment analyzer
+ - [Pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) : pacbiohifi dataanalyzer from reads to graphs
 
 
