@@ -55,13 +55,13 @@
  - [RNAprocessor](https://github.com/gauravcodepro/rnaprocessor):python package for sequence based machine learning
  - [ProteinAnnotator](https://github.com/gauravcodepro/protein-annotator):python package for genome-protein alignments
  - [Ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer): python package ontologies using the semantic web
- - [Metabolic-analyzer:streamlit API to BIGG database models](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API)
- - [Metabolic-json: streamlit analyzing BIGG metabolic models](https://github.com/gauravcodepro/metabolic-json-modelling)
- - [Ontology-graphs: streamlit analyzing arabidopsis ontologies and plant obo](https://github.com/gauravcodepro/arabidopsis-ontology-graphs)
- - [Pacbiohifi: streamlit pacbiohifi sequencing information](https://github.com/gauravcodepro/pacbiohifi)
+ - [Metabolic-analyzer](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API):streamlit API to BIGG database models
+ - [Metabolic-json](https://github.com/gauravcodepro/metabolic-json-modelling): streamlit analyzing BIGG metabolic models
+ - [Ontology-graphs](https://github.com/gauravcodepro/arabidopsis-ontology-graphs): streamlit analyzing arabidopsis ontologies and plant obo
+ - [Pacbiohifi](https://github.com/gauravcodepro/pacbiohifi): streamlit pacbiohifi sequencing information
  - [DevOPS streamlit application slurm generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
 
-[**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/): released and development version 
+[**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/): 
  - [Devopsutils: devops system configuration](https://github.com/gauravcodepro/devops-system)
  - [Ruby-template: ruby templating](https://github.com/gauravcodepro/ruby_gem_creator)
  - [Fasta-tokenizer: fasta tokenizer and motif indexer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner)
