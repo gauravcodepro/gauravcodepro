@@ -23,6 +23,7 @@
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
 - If someone understands without speaking/listening it is a sign of disordered personality.
+- People who have distanced from me, dont approach me at any level and double the distance.
 
 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
