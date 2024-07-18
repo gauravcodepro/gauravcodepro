@@ -35,6 +35,7 @@
 - If you are anyone prior to PhD or during PhD or after that till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
+- I stay away from people, who without even talking become friend in their own mind by watching someone and then become enemy based on their own thinking without talking. So this means that neither they existed and nor they have importance. 
 
 #### Means of Communication
 - This will save you time, as i belive that you are yourself an important person and like everyone have limited time.
