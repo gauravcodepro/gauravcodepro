@@ -27,9 +27,9 @@
 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
-  - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Sklearn, Keras, LightGBM, Fastai.
-  - Package Development: Python, Julia, Javascript, Ruby.
-  - API Development using FASTAPI/Javascript
+  - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
+  - Package Development: Python, Julia, Ruby.
+  - API Development using FASTAPI
   - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - **DevOPs**
   - Priority Language: Shell, NuShell, Awk, Python
@@ -39,7 +39,7 @@
   - Database Management: SQlite3, MySQL, MongoDB.
   - HPC management: PBS and SLURM as job scheduler
 - **Web Develpoment**
-  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, HTML, Javascript
+  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, Flask, HTML, Javascript
 - **Application Development**
   - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, Typescript,Nodejs
  
