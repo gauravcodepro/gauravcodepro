@@ -41,7 +41,7 @@
 - **Web Develpoment**
   - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, Flask, HTML, Javascript
 - **Application Development**
-  - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, Typescript
+  - Priority Language: Learning Electron, PyQT, PyGTK, Typescript
  
 [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) | [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
  - [Tairaccession](https://github.com/gauravcodepro/tairaccession):python package for interacting with tair
