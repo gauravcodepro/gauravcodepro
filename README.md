@@ -32,7 +32,7 @@
   - API Development using FASTAPI
   - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
 - **DevOPs**
-  - Priority Language: Shell, NuShell, Awk, Python
+  - Priority Language: Shell, NuShell, Awk, Python, Nodejs
   - Code Management: Git, GitKraken.
   - Application deployment: [Docker](https://hub.docker.com/u/gauravcodepro)
   - Orchestration:Terraform, Kubernetes.
@@ -41,7 +41,7 @@
 - **Web Develpoment**
   - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, Flask, HTML, Javascript
 - **Application Development**
-  - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, Typescript,Nodejs
+  - Priority Language: Learning Electron, Slint, Tauri, PyQT, PyGTK, Typescript
  
 [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) | [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
  - [Tairaccession](https://github.com/gauravcodepro/tairaccession):python package for interacting with tair
