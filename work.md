@@ -17,7 +17,8 @@
 - Loss is yours: You are allowed to believed/thought/assume/judged/linked/talked anything and that has nothing to do with me if you have not listened/confirmed from me. 
 - A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not before (while hiring) and also after employment.
 - A unconsious employer, believes everything without asking employee and an employee loss.
-- If someone thinks/assumes that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage. 
+- If someone thinks/assumes that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage.
+- If anyone is saying to you that we will hire and you should not, then you are making a loss to your institution/university and not me as my role is submission of application and that i did with the consistency and also developed myself with the integrity for the same. It is upto you to belive them or not as when not shown means it doesnt exist. 
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
