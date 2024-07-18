@@ -7,7 +7,7 @@
 - I am available immediately and i will give importance to the person, who approaches me directly and immediately.
 - I respect everyone and i thank you and i am available for immediate joining.
 - I thank you for employing me and i assure you that I give my complete dedication. 
-- I am applying to your position becasue i am interested in working there.
+- I am applying to your position becasue i am interested with you.
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
 
@@ -15,8 +15,7 @@
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
 - I never take part in bringing any other person down as i believe by taking part in such is already a sign that you are below that person and a dirt spitter, so you can imagine by supporting them what you will get/achieve.
 - Loss is yours: You are allowed to believed/thought/assume/judged/linked/talked anything and that has nothing to do with me if you have not listened/confirmed from me. 
-- If you are a past collaborator or anyone and havent talked/met/contact in last years, please kindly dont write to me.
-- A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not before(while hiring) and also after employment.
+- A consious employer, will ask directly to the employee that i want to hear from you whether this is there or not before (while hiring) and also after employment.
 - A unconsious employer, believes everything without asking employee and an employee loss.
 - If someone thinks/assumes that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage. 
 
@@ -32,7 +31,7 @@
 - If someone says to me that he or she thinks about this, i make a approach to ask that is it true or just a mere assumption of someone as this can significantly destroy my relations.
 - I am not associated with any number, colour, browser, operating system, so i dont believe in this crap.
 - I am not applying to your position to find someone.
-- If you are anyone from the prior to PhD or PhD or after that me till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
+- If you are anyone prior to PhD or during PhD or after that till now, kindly dont contact or write me. I have no space and time. Additionally, i dont even remember your faces.
 - If you a past collaborator or anyone and i havent seen you ever and talked to you or been in contact with you in the last few years, please dont write to me.
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
 
