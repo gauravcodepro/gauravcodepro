@@ -1,6 +1,6 @@
 <p align = "justify">
 
-#### A one page description on my work approach, mentality, professionalism, collaboration, associations.
+#### A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. 
 
 #### Application
 - I am extensively applying and submitting applications and ready to take the first selected position.
