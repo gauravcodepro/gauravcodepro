@@ -3,11 +3,11 @@
 #### A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. 
 
 #### Application
-- I am extensively applying and submitting applications and ready to take the first selected position.
+- I am extensively applying and submitting applications and ready to take the first selected position. Everyone needs one position for themselves so i am applying and approachable to all the position and ready to take the position in which i am selected and make space for other candidates in the other position.
 - I am available immediately and i will give importance to the person, who approaches me directly and immediately.
 - I respect everyone and i thank you and i am available for immediate joining.
 - I thank you for employing me and i assure you that I give my complete dedication. 
-- I am applying to your position becasue i am interested with you.
+- I am applying to your position becasue i am interested with you. 
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
 
