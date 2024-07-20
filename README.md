@@ -1,6 +1,6 @@
  
 **About me** 
-- Open to position on **Plants, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
+- Open to position on **Plant, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
 - If i have applied for your open position then i am surely interested.
 - If i have previously applied to your position, and not been selected and still open then i am interested.
 - I learn continously and add to the priority languages and areas of interest.
