@@ -10,6 +10,7 @@
 - I am applying to your position becasue i am interested with you. 
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
+- **I stay away from the assumptive people or mere assumption as if you belive those people, then they will say the results will come tomorrow, then another tomorrow and it goes on but actually it will never comes and you cant destroy someone time and life for years, as it is fake and you cant have anything from fake people and fake assumptions. So i invest my time in what is actually there , result oriented and time oriented and dedicate my concentration on the same.**
 
 #### Employer Benefits
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
