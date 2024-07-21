@@ -11,7 +11,7 @@
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
 - **I stay away from the assumptive people or mere assumption as if you belive those people, then they will say the results will come tomorrow, then another tomorrow and it goes on but actually it will never comes and you cant destroy someone time and life for years, as it is fake and you cant have anything from fake people and fake assumptions. So i invest my time in what is actually there , result oriented and time oriented and dedicate my concentration on the same.** This makes me applicative and result-oriented and not a fake person, who belives everything and thinks about everything.
-
+ 
 #### Employer Benefits
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
 - I never take part in bringing any other person down as i believe by taking part in such is already a sign that you are below that person and a dirt spitter, so you can imagine by supporting them what you will get/achieve.
@@ -21,7 +21,9 @@
 - If someone thinks/assumes that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage.
 - If anyone is saying to you that we will hire and you should not, then you are making a loss to your institution/university and not me as my role is submission of application and that i did with the consistency and also developed myself with the integrity for the same. It is upto you to belive them or not as when not shown means it doesnt exist.
 - If you have benefited any other person, or thought that i am attached to the same, anyone, think about anyone, follow their path, follow their advice, you are highly mistaken and wrongly informed. Loss is yours if you loose based someone on false information without even talking to the concerned person. Make a better attempt of asking me everything.
-- I give importance to those people, who can come in front and speak as that will tell what is there. I dont give importance to those people, who cant come in front and only speak from behind as that already shows that they have a fugitive mentality. You cant trust those people who dont have the courage to come in front and speak as **those who cant speak in front are usally telling lies**. By trusting such people and taking wrong decisions, you are actually making loss to yourself and others. 
+- I give importance to those people, who can come in front and speak as that will tell what is there. I dont give importance to those people, who cant come in front and only speak from behind as that already shows that they have a fugitive mentality. You cant trust those people who dont have the courage to come in front and speak as **those who cant speak in front are usally telling lies**. By trusting such people and taking wrong decisions, you are actually making loss to yourself and others.
+- **I stay away from those people, who are taking salary from the place of the work but are putting their attention and intervention into other people life, work and everything else. This already proves that the person lacks an integral part of the work attitude, so should not be trusted.**
+- **I belive in those people, who say that let me ask the candidate and the person directly, if you are right then you shouldnt be afraid and if you are stopping me to ask the candidate or the person directly then it means you are taking approaches to delimit someone life and carrier.**
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
