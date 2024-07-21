@@ -1,6 +1,8 @@
 <p align = "justify">
 
 #### A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. 
+- Following these rules and approaches allowed me to add additional code development, multitude of new skills and development while applying for positions during the carrier advancement, while others remain at the same stand as my way of approach and thinking is very clear, straight and applicative. Not a over thinker, not observe everything, gives value to the person, with whom I am talking and gives importance to the ones with whom i have a talk.
+- You can take this a reference note about the person ability and investment in himself and upgradation and importance value. 
 
 #### Application
 - I am extensively applying and submitting applications and ready to take the first selected position. Everyone needs one position for themselves so i am applying and approachable to all the position and ready to take the position in which i am selected and make space for other candidates in the other position.
