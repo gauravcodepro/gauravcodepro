@@ -1,7 +1,7 @@
 <p align = "justify">
 
 #### A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. 
-- Following these rules and approaches allowed me to add additional code development, multitude of new skills and development while applying for positions during the carrier advancement, while others remain at the same stand as my way of approach and thinking is very clear, straight and applicative. Not a over thinker, not observe everything, gives value to the person, with whom I am talking and gives importance to the ones with whom i have a talk.
+- Following these rules and approaches allowed me to add additional code development, multitude of new skills and development while applying for positions during the carrier advancement, while others remain at the same stand as my way of approach and thinking is very clear, straight and applicative. Not a over thinker, not observe everything, gives value to the person, with whom I am talking and gives importance to the ones with whom i have a talk. I dont talk double meaning and double thoughts, i believe in if it is there or if it is not there. I dont address someone, and talk about someone else. 
 - You can take this a reference note about the person ability and investment in himself and upgradation and importance value. 
 
 #### Application
