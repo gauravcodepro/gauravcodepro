@@ -12,6 +12,7 @@
 - Voracious reader of [**language-models**](https://paperswithcode.com/)
 
 **Work Attitude and Professionalism**
+- I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else and there is no end to these people timeline. Instead, i beleive in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility. 
 - I believe decisions and communication not made in time have no value and importance.
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
 - I belive if you dont read new development, you will never be able to diversify and apply.
