@@ -13,7 +13,7 @@
 
 **Work Attitude and Professionalism**
 - I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else and there is no end to these people timeline. Instead, i believe in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility.
-- I dont dwelve into people personal choices such as which browser you use, which code editor, font, theme or operating system, or any other non-living thing as that is not important to me. My work and project goals are achieved that is important. Rest, i dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such aspects is a sign of mental illness. 
+- I dont dwelve into people personal choices such as browser,code editor, font, theme or operating system, or any other non-living thing as that is not important to me. Work and project goals are achieved that is important. Rest, i dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such non-living momentary is a sign of mental illness. 
 - I believe decisions and communication not made in time have no value and importance.
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
 - Active in solving limitations, proficient in developing new approaches for code development.
