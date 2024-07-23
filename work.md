@@ -1,21 +1,22 @@
 <p align = "justify">
 
 #### A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. 
-- Following these rules and approaches allowed me to add additional new programming languages which are top listed, multitude of new skills, while applying for positions during the carrier advancement, while others remain at the same stage or may be lower as my way of approach and thinking is very clear, straight and applicative.
+- Following these rules and approaches allowed me to add additional new programming languages which are top listed in addition to the previous ones and dropped coding in C and C++ after that, added multitude of new skills, while applying for positions during the carrier advancement, while others remain at the same stage or may be lower as my way of approach and thinking is very clear, straight and applicative.
 - Not a over thinker, not observe everything, gives value to the person, with whom I am talking and gives importance to the ones with whom i have a talk.
 - I dont talk double meaning and double thoughts, i believe in if it is there or if it is not there. I dont address someone, and talk about someone else.
-- I dont give importance to those, who belive in those, who only speaks as you cant show anything by simply talking, you can have endless thoughts, assumptions, words on anyone but are they true?, ask the corresponding person and if not then it means, you have wasted your time by associating with such people. 
+- I dont give importance to those, who belive in those, who only speaks as you cant show anything by simply talking, you can have endless thoughts, assumptions, words on anyone but are they true?, ask the corresponding person and if not then it means, you have wasted your time by associating with such people.
+- I dont dwelve into people personal choices such as which browser you use, which code editor, font, theme or operating system, or any other non-living thing as that is not important to me. My work and project goals are achieved that is important. Rest, i dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such aspects is a sign of mental illness. 
 - You can take this a reference note about the person ability and investment in himself and upgradation and importance value. 
 
 #### Application
-- I am extensively applying and submitting applications and ready to take the first selected position. Everyone needs one position for themselves so i am applying and approachable to all the position and ready to take the position in which i am selected and make space for other candidates in the other position.
-- I am available immediately and i will give importance to the person, who approaches me directly and immediately.
+- I am applying contiously and ready to take the first selected position and I am available immediately
+- Everyone needs one position for themselves and ready to take the position in which i am selected and make space for other candidates in the other position.
 - I respect everyone and i thank you and i am available for immediate joining.
 - I thank you for employing me and i assure you that I give my complete dedication. 
 - I am applying to your position becasue i am interested with you. 
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
-- I stay away from the assumptive people or mere assumption as if you belive those people, then they will say the results will come tomorrow, then another tomorrow and it goes on but actually it will never comes and you cant destroy someone time and life for years, as it is fake and you cant have anything from fake people and fake assumptions. So i invest my time in what is actually there , result oriented and time oriented and dedicate my concentration on the same.** This makes me applicative and result-oriented and not a fake person, who belives everything and thinks about everything.
+- I stay away from the assumptive people or mere assumption as if you belive those people, then they will say the results will come tomorrow, then another tomorrow and it goes on but actually it will never comes and you cant destroy someone time and life for years, as it is fake and you cant have anything from fake people and fake assumptions. So i invest my time in what is actually there , result oriented and time oriented and dedicate my concentration on the same. This makes me applicative and result-oriented and not a fake person, who belives everything and thinks about everything.
  
 #### Employer Benefits
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
@@ -29,6 +30,7 @@
 - I give importance to those people, who can come in front and speak as that will tell what is there. I dont give importance to those people, who cant come in front and only speak from behind as that already shows that they have a fugitive mentality. You cant trust those people who dont have the courage to come in front and speak as those who cant speak in front are usally telling lies. By trusting such people and taking wrong decisions, you are actually making loss to yourself and others.
 - I stay away from those people, who are taking salary from the place of the work but are putting their attention and intervention into other people life, work and everything else. This already proves that the person lacks an integral part of the work attitude, so should not be trusted.
 - I belive in those people, who say that let me ask the candidate and the person directly, if you are right then you shouldnt be afraid and if you are stopping me to ask the candidate or the person directly then it means you are taking approaches to delimit someone life and carrier.
+- **As a prospective employer, i request you to ask to avoid intervention, these questions to someone who intervened: 1. Is this project funded by you?. 2. Are you a part of this project or organization/ funding this project/salary or anything?. 3. Why should i give importance?. 4. Should i let the candidate know that there is someone intervening, so that it should be discussed on both sides otherwise it is a one-sided talk and who knows it is true or not?. This will help you develop better relations with the candidate and trust and strength build on such clear, goes a long way.**
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
