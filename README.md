@@ -12,19 +12,16 @@
 - Voracious reader of [**language-models**](https://paperswithcode.com/)
 
 **Work Attitude and Professionalism**
-- I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else and there is no end to these people timeline. Instead, i believe in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility. 
+- I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else and there is no end to these people timeline. Instead, i believe in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility.
+- I dont dwelve into people personal choices such as which browser you use, which code editor, font, theme or operating system, or any other non-living thing as that is not important to me. My work and project goals are achieved that is important. Rest, i dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such aspects is a sign of mental illness. 
 - I believe decisions and communication not made in time have no value and importance.
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
-- I belive if you dont read new development, you will never be able to diversify and apply.
 - Active in solving limitations, proficient in developing new approaches for code development.
 - Extremely collaborative and open to supporting those who support me.
 - I give importance and priority to the people I am working with.
-- I pick the programming langauge to get the work done and can drop anytime and pick another.
 - I fork repositories as per language and dependencies need and once learnt then unforked.
 - Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - Pro-active in making effective communication as communication leads to result oriented approaches.
-- If someone understands without speaking/listening it is a sign of disordered personality.
-- People who have distanced from me, dont approach me at any level and double the distance.
 
 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
