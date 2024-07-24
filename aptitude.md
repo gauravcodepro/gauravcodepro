@@ -23,6 +23,7 @@
 - I am applying to your position becasue i am interested with you. 
 - I have a work strong work ethic and I respect people those who appreciate that.
 - If you have any questions, then please feel free to ask me rather than asking anyone else.
+- I read the programming languages extensively, which i code and add continously to the same as without knowing the language you are just as copy and paste command runner and you dont know the inner abouts of the same. I dont copy and paste command runner, so i read extensively, code them and develop better approaches as it can be needed anytime, and i dont believe in digging well, when i am thirsty. I plan much ahead my work. 
 
 ### Employer Benefits
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
