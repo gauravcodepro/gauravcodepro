@@ -31,9 +31,9 @@
 - I give importance to those people, who can come in front and speak as that will tell what is there. I dont give importance to those people, who cant come in front and only speak from behind as that already shows that they have a fugitive mentality. You cant trust those people who dont have the courage to come in front and speak as those who cant speak in front are usally telling lies. By trusting such people and taking wrong decisions, you are actually making loss to yourself and others.
 - I stay away from those people, who are taking salary from the place of the work but are putting their attention and intervention into other people life, work and everything else. This already proves that the person lacks an integral part of the work attitude, so should not be trusted.
 - I belive in those people, who say that let me ask the candidate and the person directly, if you are right then you shouldnt be afraid and if you are stopping me to ask the candidate or the person directly then it means you are taking approaches to delimit someone life and carrier.
-- **As a prospective employer, i request you to ask to avoid intervention, these questions to someone who intervened: 1. Is this project funded by you?. 2. Are you a part of this project or organization/ funding this project/salary or anything?. 3. Why should i give importance?. 4. Should i let the candidate know that there is someone intervening, so that it should be discussed on both sides otherwise it is a one-sided talk and who knows it is true or not?. 
+- As a prospective employer, i request you to ask to avoid intervention, these questions to someone who intervened: 1. Is this project funded by you?. 2. Are you a part of this project or organization/ funding this project/salary or anything?. 3. Why should i give importance?. 4. Should i let the candidate know that there is someone intervening, so that it should be discussed on both sides otherwise it is a one-sided talk and who knows it is true or not?. 
 - Usually people run away when such questions are asked as nothing bring more shame then facing the truth if you are speaking lies.
-- This will help you develop better relations with the candidate and trust and strength build on such clear, goes a long way.**
+- This will help you develop better relations with the candidate and trust and strength build on such clear, goes a long way.
 
 #### Association/Thinking: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
@@ -52,7 +52,7 @@
 - If you are a past employer that i havent approached/made contact except for references, then please kindly dont approach me.
 - I stay away from people, who without even talking become friend in their own mind by watching someone and then become enemy based on their own thinking without talking. So this means that neither they existed and nor they have importance.
 - I am a very approachable and talkative person, who understands only when it is said like a normal person. If it is not said means it doesnt exist and if someone has said that i understand without talking, you have been falsified and wrongly informed. You should then ask those people to do the work and you will find that it was worthless to even talk and listen to those people.
-- **I am not someone personal property, so anyone saying that i belong to them is fake. I stay away from such people as they lack the mental aptitude of getting to know the person and without knowing claiming their rights and spreading false fake words**.
+- I am not someone personal property, so anyone saying that i belong to them is fake. I stay away from such people as they lack the mental aptitude of getting to know the person and without knowing claiming their rights and spreading false fake words.
 
 #### Means of Communication
 - This will save you time, as i belive that you are yourself an important person and like everyone have limited time.
