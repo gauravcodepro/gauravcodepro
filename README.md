@@ -38,9 +38,9 @@
   - Database Management: SQlite3, MySQL, MongoDB.
   - HPC management: PBS and SLURM as job scheduler
 - **Web Develpoment**
-  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, Flask, HTML, Javascript
+  - Priority Language: Ruby on Rails, Streamlit, Python Shiny/ShinyExpress, Django, Julia, Flask, HTML, Javascript, Typescript
 - **Application Development**
-  - Priority Language: Learning Electron, PyQT, PyGTK, Typescript
+  - Priority Language: Electron, PyQT, PyGTK
  
 [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) | [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
  - [Tairaccession](https://github.com/gauravcodepro/tairaccession):python package for interacting with tair
