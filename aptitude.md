@@ -6,7 +6,9 @@
 - Never mirror a person or look for one person into another as you cant superimpose a person or anything from one onto another.
 - I dont talk double meaning and double thoughts, i believe in if it is there or if it is not there. I dont address someone, and talk about someone else.
 - I dont give importance to those, who belive in those, who only speaks as you cant show anything by simply talking, you can have endless thoughts, assumptions, words on anyone but are they true?, ask the corresponding person and if not then it means, you have wasted your time by associating with such people.
-- I dont dwelve into people personal choices such as which browser you use, which code editor, font, theme or operating system, or any other non-living thing as that is not important to me. My work and project goals are achieved that is important. No one cares, what code editor you use or what browser you use and those who cares about these are not scientific people. I dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such aspects is a sign of mental illness. 
+- I dont dwelve into people personal choices such as which browser you use, which code editor, font, theme or operating system, or any other non-living thing as that is not important to me. My work and project goals are achieved that is important. No one cares, what code editor you use or what browser you use and those who cares about these are not scientific people. I dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such aspects is a sign of mental illness.
+- I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else. Instead, i believe in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility.
+- I dont dwelve into people personal choices such as browser,code editor, font, theme or operating system, or any other non-living thing as that is not important to me. No one cares about the code editor you used, they care that we have a working code. I dont spend time on thinking whatever non-living thing you are using and why you are using, you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such non-living momentary is a sign of mental illness. 
 - You can take this a reference note about the person ability and investment in himself and upgradation and importance value. 
 
 #### Application
@@ -35,7 +37,7 @@
 - Usually people run away when such questions are asked as nothing bring more shame then facing the truth if you are speaking lies.
 - This will help you develop better relations with the candidate and trust and strength build on such clear, goes a long way.
 
-#### Association/Thinking: 
+#### Association/Think: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
 - I have no family member, no father, mother, brother, sister or anyone, so available for immediate relocation.
 - I dont associate myself to any number/colour. If you have thought of or have been told then you are highly mistaken.
