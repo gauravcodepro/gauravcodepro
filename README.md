@@ -38,8 +38,6 @@
 - **Electron Application** 👉 [TAIR genome analysis](https://github.com/gauravcodepro/arabidopsis-tair-application)
 
 👉 **Work Attitude/Professionalism**
-- I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else. Instead, i believe in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility.
-- I dont dwelve into people personal choices such as browser,code editor, font, theme or operating system, or any other non-living thing as that is not important to me. No one cares about the code editor you used, they care that we have a working code. I dont spend time on thinking whatever non-living thing you are using and why you are using, you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such non-living momentary is a sign of mental illness. 
 - I believe decisions and communication not made in time have no value and importance.
 - I constantly read scientific aptitude/literature/code development to increase my work potential.
 - Active in solving limitations, proficient in developing new approaches for code development.
