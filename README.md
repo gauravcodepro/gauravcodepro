@@ -1,4 +1,5 @@
- 
+<p align = "justify">
+
 **About me** 
 - Open to position on **Plant, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
 - If i have applied for your open position then i am surely interested.
