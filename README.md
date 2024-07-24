@@ -42,25 +42,17 @@
 - **Application Development**
   - Priority Language: Electron, PyQT, PyGTK
  
-[**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) | [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
- - [Tairaccession](https://github.com/gauravcodepro/tairaccession):python package for interacting with tair
- - [Graphanalyzer](https://github.com/gauravcodepro/graphanalyzer):python package for graph alignment tools
- - [RNAprocessor](https://github.com/gauravcodepro/rnaprocessor):python package for sequence based machine learning
- - [ProteinAnnotator](https://github.com/gauravcodepro/protein-annotator):python package for genome-protein alignments
- - [Ontologyanalyzer](https://github.com/gauravcodeproontologyanalyzer): python package ontologies using the semantic web
- - [Metabolic-analyzer](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API):streamlit API to BIGG database models
- - [Metabolic-json](https://github.com/gauravcodepro/metabolic-json-modelling): streamlit analyzing BIGG metabolic models
- - [Ontology-graphs](https://github.com/gauravcodepro/arabidopsis-ontology-graphs): streamlit analyzing arabidopsis ontologies and plant obo
- - [Pacbiohifi](https://github.com/gauravcodepro/pacbiohifi): streamlit pacbiohifi sequencing information
- - [DevOPS streamlit application slurm generator](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
+[**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/) 
+
+[**Tairaccession**](https://github.com/gauravcodepro/tairaccession) | [**Graphanalyzer**](https://github.com/gauravcodepro/graphanalyzer) | [**RNAprocessor**](https://github.com/gauravcodepro/rnaprocessor) | [**ProteinAnnotator**](https://github.com/gauravcodepro/protein-annotator) | [**Ontologyanalyzer**](https://github.com/gauravcodeproontologyanalyzer)
+
+[**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/)
+
+[**Metabolic-analyzer:streamlit API to BIGG database models**](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API) | [**Metabolic-json: streamlit analyzing BIGG metabolic models**](https://github.com/gauravcodepro/metabolic-json-modelling) | [**Ontology-graphs: streamlit analyzing arabidopsis ontologies and plant obo**](https://github.com/gauravcodepro/arabidopsis-ontology-graphs) | [**Pacbiohifi:: streamlit pacbiohifi sequencing information**](https://github.com/gauravcodepro/pacbiohifi) | [**DevOPS streamlit application slurm generator**](https://github.com/gauravcodepro/universitat-potsdam-devops-application) 
 
 [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/): 
- - [Devopsutils](https://github.com/gauravcodepro/devops-system): devops system configuration
- - [Ruby-template](https://github.com/gauravcodepro/ruby_gem_creator): ruby templating
- - [Fasta-tokenizer](https://github.com/gauravcodepro/pacbiohifi-motif-scanner): fasta tokenizer and motif indexer
- - [Panacheextract](https://rubygems.org/gems/panacheextract): snp extractor
- - [Protalign](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [proteinmultialign](https://github.com/gauravcodepro/protein-multialign-gem) : protein alignment analyzer
- - [Pacbiohifi-analyzer](https://github.com/gauravcodepro/pacbiohifi-analyzer) : pacbiohifi dataanalyzer from reads to graphs
+
+[**Devopsutils**](https://github.com/gauravcodepro/devops-system) | [**Ruby-template**](https://github.com/gauravcodepro/ruby_gem_creator) | [**Fasta-tokenizer**](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) | [**Panacheextract**](https://rubygems.org/gems/panacheextract) | [**Protalign**](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [**proteinmultialign**](https://github.com/gauravcodepro/protein-multialign-gem) | [**Pacbiohifi-analyzer**](https://github.com/gauravcodepro/pacbiohifi-analyzer) 
 
 **Electron Application**
- - A desktop application for [TAIR genome analysis](https://github.com/gauravcodepro/arabidopsis-tair-application)
+ - [TAIR genome analysis](https://github.com/gauravcodepro/arabidopsis-tair-application)
