@@ -7,7 +7,7 @@
 - I continously learn about the priority languages and areas of interest as in bioinformatics is null without informatics.
 - Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.
 - All code and ideas concieved and written by me unless specified and i am open to continous development.
-- [**Must Read: One page description on my approach, professionalism, work aptitude and attitude**](https://github.com/gauravcodepro/gauravcodepro/blob/main/aptitude.md)
+- [**Must Read: One page description of getting to know your candidate ahead**](https://github.com/gauravcodepro/gauravcodepro/blob/main/aptitude.md)
 - [**Curriculum Vitae**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). [**Employers references**](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
 - Approachable at [**gauravcodepro@gmail.com**](mailto:gauravcodepro@gmail.com)
   
