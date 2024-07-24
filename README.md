@@ -1,6 +1,6 @@
 <p align = "justify">
 
-**About me** 
+👉 **About me** 
 - Open to position on **Plant, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
 - If i have applied for your open position then i am surely interested.
 - If i have previously applied to your position, and not been selected and still open then i am interested.
@@ -12,7 +12,7 @@
 - Approachable at [**gauravcodepro@gmail.com**](mailto:gauravcodepro@gmail.com)
 - Voracious reader of [**language-models**](https://paperswithcode.com/)
   
-**Areas of Interest**
+👉 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
   - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
@@ -31,13 +31,13 @@
 - **Application Development**
   - Priority Language: Electron, PyQT, PyGTK
 
-- [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  ➡️  [**Tairaccession**](https://github.com/gauravcodepro/tairaccession) | [**Graphanalyzer**](https://github.com/gauravcodepro/graphanalyzer) | [**RNAprocessor**](https://github.com/gauravcodepro/rnaprocessor) | [**ProteinAnnotator**](https://github.com/gauravcodepro/protein-annotator) | [**Ontologyanalyzer**](https://github.com/gauravcodeproontologyanalyzer)
-- [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/) ➡️ [**Metabolic-analyzer**](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API) | [**Metabolic-json**](https://github.com/gauravcodepro/metabolic-json-modelling) | [**Ontology-graphs**](https://github.com/gauravcodepro/arabidopsis-ontology-graphs) | [**Pacbiohifi**](https://github.com/gauravcodepro/pacbiohifi) | [**Slurm generator**](https://github.com/gauravcodepro/universitat-potsdam-devops-application)
-- [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/) ➡️ [**Devopsutils**](https://github.com/gauravcodepro/devops-system) | [**Ruby-template**](https://github.com/gauravcodepro/ruby_gem_creator) | [**Fasta-tokenizer**](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) | [**Panacheextract**](https://rubygems.org/gems/panacheextract) | [**Protalign**](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [**proteinmultialign**](https://github.com/gauravcodepro/protein-multialign-gem) | [**Pacbiohifi-analyzer**](https://github.com/gauravcodepro/pacbiohifi-analyzer) 
+👉 **Package/Application Development**
+- [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/gauravcodepro/tairaccession) | [**Graphanalyzer**](https://github.com/gauravcodepro/graphanalyzer) | [**RNAprocessor**](https://github.com/gauravcodepro/rnaprocessor) | [**ProteinAnnotator**](https://github.com/gauravcodepro/protein-annotator) | [**Ontologyanalyzer**](https://github.com/gauravcodeproontologyanalyzer)
+- [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/) 👉 [**Metabolic-analyzer**](https://github.com/gauravcodepro/BIGG-metabolic-analyzer-API) | [**Metabolic-json**](https://github.com/gauravcodepro/metabolic-json-modelling) | [**Ontology-graphs**](https://github.com/gauravcodepro/arabidopsis-ontology-graphs) | [**Pacbiohifi**](https://github.com/gauravcodepro/pacbiohifi) | [**Slurm generator**](https://github.com/gauravcodepro/universitat-potsdam-devops-application)
+- [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/) 👉 [**Devopsutils**](https://github.com/gauravcodepro/devops-system) | [**Ruby-template**](https://github.com/gauravcodepro/ruby_gem_creator) | [**Fasta-tokenizer**](https://github.com/gauravcodepro/pacbiohifi-motif-scanner) | [**Panacheextract**](https://rubygems.org/gems/panacheextract) | [**Protalign**](https://github.com/gauravcodepro/proteinalignment-annotation-gem) and [**proteinmultialign**](https://github.com/gauravcodepro/protein-multialign-gem) | [**Pacbiohifi-analyzer**](https://github.com/gauravcodepro/pacbiohifi-analyzer) 
+- **Electron Application** 👉 [TAIR genome analysis](https://github.com/gauravcodepro/arabidopsis-tair-application)
 
-- **Electron Application**➡️ [TAIR genome analysis](https://github.com/gauravcodepro/arabidopsis-tair-application)
-
-**Work Attitude/Professionalism**
+👉 **Work Attitude/Professionalism**
 - I dont believe in those who say wait and see, as they are already showing that they are time wasters and today they are wasting yours, tomorrow someone else. Instead, i believe in those, grab the oppurtunity, work on the same and generate results as that will give prominecense and visibility.
 - I dont dwelve into people personal choices such as browser,code editor, font, theme or operating system, or any other non-living thing as that is not important to me. No one cares about the code editor you used, they care that we have a working code. I dont spend time on whatever non-living thing you use as that has no meaning and after sometime, you throw them in trash or discard them so any decision made on such non-living momentary is a sign of mental illness. 
 - I believe decisions and communication not made in time have no value and importance.
