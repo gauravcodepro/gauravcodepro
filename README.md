@@ -4,7 +4,6 @@
 - Open to position on **Plant, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
 - If i have applied for your open position then i am surely interested.
 - If i have previously applied to your position, and not been selected and still open then i am interested.
-- **This account will be closed and all the code will be shifted to the new code repository after join the position**.
 - I continously learn about the priority languages and areas of interest as in bioinformatics is null without informatics.
 - Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.
 - All code and ideas concieved and written by me unless specified and i am open to continous development.
