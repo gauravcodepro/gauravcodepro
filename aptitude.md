@@ -1,11 +1,8 @@
-<p align = "justify">
+d<p align = "justify">
 
-### Getting to know your candidate ahead: 
+### Getting to know your candidate ahead: A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. I am laying down these points so that you dont have to listen, consider anyone thoughts and you have the freedom to make a proper decision as you have the entire liberty after reading this to ask me directly anything. This allows to build a strong work attitude with the prospective employer, which allows to put emphasis on time, timely work and a proper healthy working environment. 
 
 - **This account will be closed and all the code will be shifted to the new code repository after join the position**.
-
-### A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach. I am laying down these points so that you dont have to listen, consider anyone thoughts and you have the freedom to make a proper decision as you have the entire liberty after reading this to ask me directly anything. 
-
 - Following these rules and approaches allowed me to add additional new programming languages which are top listed in addition to the previous ones.  I dropped coding in C and C++ since 2021, added multitude of new abilities, while applying for positions during the carrier advancement, as my way of approach and thinking is very clear, straight and applicative.
 - Not a over thinker, not observe everything, gives value to the person, with whom I am talking and gives importance to the ones with whom i have a talk.
 - Never mirror a person or look for one person into another as you cant superimpose a person or anything from one onto another.
@@ -16,7 +13,7 @@
 - I stay away from the assumptive people or mere assumption as if you belive those people, then they will say the results will come tomorrow, then another tomorrow and it goes on but actually it will never comes and you cant destroy someone time and life for years, as it is fake and you cant have anything from fake people and fake assumptions. So i invest my time in what is actually there , result oriented and time oriented and dedicate my concentration on the same. This makes me applicative and result-oriented and not a fake person, who belives everything and thinks about everything.
 - I believe: If anyone have benefited any other person, or thought that i am attached to the same, anyone, think about anyone, follow their path, follow their advice, you are highly mistaken and wrongly informed. Loss is yours if you have benefited or believed someone based on false information without even talking to the concerned person. Make a better attempt of asking that person everything.
 - I am not someone personal property, so anyone saying that i belong to them at any personal, work related is fake. I stay away from such people as they lack the mental aptitude and claiming their rights without even knowing the person and spreading false fake words.
-- If someone says i like someone or anything, it is all fake words and no attachment to anyone. 
+- **If someone says i like someone or anything, it is all fake words and no attachment to anyone. If someone says then you are allowed to write a common email to both and ask me directly, actually the moment you will say, you will see them running away and you will atuomatically know who is true and who is false.** 
 - You can take this a reference note about the person ability and investment and upgradation and value addition to myself. 
 
 ### Application
@@ -43,7 +40,7 @@
 - As a prospective employer, i request you to ask to avoid intervention, these questions to someone who intervened: 1. Is this project funded by you?. 2. Are you a part of this project or organization/ funding this project/salary or anything?. 3. Why should i give importance?. 4. Should i let the candidate know that there is someone intervening, so that it should be discussed on both sides otherwise it is a one-sided talk and who knows it is true or not?. Usually people start to disappear away, when such questions are asked as nothing bring more shame then facing the truth if you are speaking lies.
 - Inspect visually that how productive the candidate is and his performance both at the professional level and before and after leaving employers. Please also compare the employer performance when the candidate was with them and before and after them and you will be able to make better decisions.
 - This will help you develop better relations with the candidate and trust and strength build on such clear, goes a long way.
-- **As a canidate my role is to submit all the applications i can submit and as a prospective employer, your role is to grab the candidate. Matters like place of work, where candidate to work should be left with the candiddate decision as this is enritely the candidate decision. It should not be guessed, forced, assumed or listened from anyone except the candidate. This will build such a strong bond with the candidate that you have listened to the person, who will be doing the work and not to anyone else.**
+- **As a candidate my role is to submit all the applications i can submit and as a prospective employer, your role is to grab the candidate. Matters like place of work, where candidate to work should be left with the candiddate decision as this is enritely the candidate decision. It should not be guessed, forced, assumed or listened from anyone except the candidate. This will build such a strong bond with the candidate that you have listened to the person, who will be doing the work and not to anyone else.**
 
 ### Association/Think: 
 - I have no association with any person at the personal, family level, so kindly dont approach or benefit anyone on my behalf. If anyone has said, ask me promptly. 
