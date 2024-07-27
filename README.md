@@ -14,7 +14,7 @@
 👉 **Areas of Interest**
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
-  - Machine/Deep Learning:PyTorch, Tensorflow, CatBoost, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
+  - Machine/Deep Learning:PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
   - Package Development: Python, Julia, Ruby.
   - API Development using FASTAPI
   - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
