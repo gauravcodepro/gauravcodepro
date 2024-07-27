@@ -38,11 +38,12 @@
 - **Electron Application** 👉 [**TAIR genome analysis**](https://github.com/gauravcodepro/arabidopsis-tair-application)
 
 👉 **Work Attitude/Professionalism**
-- I believe decisions and communication not made in time have no value and importance.
-- I constantly read scientific aptitude/literature/code development to increase my work potential.
-- Active in solving limitations, proficient in developing new approaches for code development.
-- Extremely collaborative and open to supporting those who support me.
-- I give importance and priority to the people I am working with.
-- I fork repositories as per language and dependencies need and once learnt then unforked.
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- Pro-active in making effective communication as communication leads to result oriented approaches.
+- I believe decisions and communication not made in time have no value and importance.
+- I constantly read scientific aptitude/literature/code development to increase my work potential in specific areas.
+- Proficient in developing new approaches for code development and solving limitations.
+- Extremely collaborative and open to supporting those who support me.
+- I give importance and priority to the people I am working and communicating with.
+- I fork repositories as per language and dependencies need and once learnt then unforked.
+
+
