@@ -12,6 +12,7 @@
 👉 **Areas of Interest**
 - I continously learn about the priority languages and areas of interest as bioinformatics is null without informatics.
 - All code and ideas concieved and written by me unless specified and i am open to continous development.
+- Proficient in developing new approaches for code development and solving limitations.
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
   - Machine/Deep Learning:PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
@@ -38,12 +39,8 @@
 - **Electron Application** 👉 [**TAIR genome analysis**](https://github.com/gauravcodepro/arabidopsis-tair-application)
 
 👉 **Work Attitude/Professionalism**
+- Extremely collaborative and open to supporting those who support me.
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I believe decisions and communication not made in time have no value and importance.
-- I constantly read scientific aptitude/literature/code development to increase my work potential in specific areas.
-- Proficient in developing new approaches for code development and solving limitations.
-- Extremely collaborative and open to supporting those who support me.
 - I give importance and priority to the people I am working and communicating with.
 - I fork repositories as per language and dependencies need and once learnt then unforked.
-
-
