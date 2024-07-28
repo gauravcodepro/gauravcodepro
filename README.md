@@ -3,15 +3,15 @@
 👉 **About me** 
 - Open to position on **Plant, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
 - If i have applied for your open position then i am surely interested.
-- If i have previously applied to your position, and not been selected and still open then let me know.
-- I continously learn about the priority languages and areas of interest as bioinformatics is null without informatics.
+- If i have previously applied to your position and not been selected and still open then let me know.
 - Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.
-- All code and ideas concieved and written by me unless specified and i am open to continous development.
 - [**Must Read: One page description of getting to know your candidate ahead**](https://github.com/gauravcodepro/gauravcodepro/blob/main/aptitude.md)
 - [**Curriculum Vitae**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). [**Employers references**](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
 - Approachable at [**gauravcodepro@gmail.com**](mailto:gauravcodepro@gmail.com)
   
 👉 **Areas of Interest**
+- I continously learn about the priority languages and areas of interest as bioinformatics is null without informatics.
+- All code and ideas concieved and written by me unless specified and i am open to continous development.
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk, Nextflow
   - Machine/Deep Learning:PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
