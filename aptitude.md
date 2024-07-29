@@ -2,7 +2,6 @@
 
 - Please consider that selection and joining a place of interest is candidate choice and not anyone else and no one can influence this choice, so please kindly dont consider anyone words or amendments. I am very communicative, so you will know automatically the interest shown.
 
-
 - Following these rules and approaches allowed me to add additional new programming languages which are top listed in addition to the previous ones.  I dropped coding in C and C++ since 2021, added multitude of new abilities, while applying for positions during the carrier advancement, as my way of approach and thinking is very clear, straight and applicative.
 - Not a over thinker, not observe everything, gives value to the person, with whom I am communicating and gives importance to the ones with whom i have a talk and not just a short talk. I dont have enough memory to remember every face and word for people with short talk. I put my memory and energy into better use. 
 - I never mirror a person or look for one person into another as you cant superimpose a person or anything from one onto another.
