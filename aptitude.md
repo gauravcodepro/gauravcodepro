@@ -26,6 +26,7 @@
 - I read the programming languages extensively, which i code and add continously to the same as without knowing the language you are just as copy and paste command runner and you dont know the inner abouts of the same. I dont copy and paste command runner, so i read extensively, code them and develop better approaches as it can be needed anytime, and i dont believe in digging well, when i am thirsty. I plan much ahead my work.
 
 ### Employer Benefits
+- I am very loyal and trustworthy person and very loyal to my employer and the place of employment.
 - If someone understands without speaking/listening it is a sign of disordered personality and supporting/enterntaining/getting involved/giving importance is your loss.
 - If someone thinks/assumes that the other person is understanding without saying to him or her then it is wasting their time and others time and it will never give a result. Putting your energy and efforts in something, which doesnt yield a result is a garbage.
 - I never take part in bringing any other person down as i believe by taking part in such is already a sign that you are below that person, so you can imagine by supporting them what you will get/achieve.
