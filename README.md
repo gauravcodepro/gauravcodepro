@@ -41,6 +41,7 @@
 
 👉 **Work Attitude/Professionalism**
 - Extremely collaborative and open to supporting those who support me.
+- Even AI prompt says ask me something then i will tell, so asking is the first way to initiate a open ended discussion/building relation. This shows that even silence or observance doesnt even work in AI, which is ahead of human thinking as per science.
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I believe decisions and communication not made in time have no value and importance.
 - I give importance and priority to the people I am working and communicating with.
