@@ -10,7 +10,8 @@
 - Approachable at [**gauravcodepro@gmail.com**](mailto:gauravcodepro@gmail.com)
   
 👉 **Areas of Interest**
-- I continously learn about the priority languages and areas of interest as bioinformatics is null without informatics.
+- As a person involved in data analysis, bioinformatics, i continuously thrive myself to upgrade and update my abilities.
+- I continously learn about the priority languages and areas of interest.
 - All code and ideas concieved and written by me unless specified and i am open to continous development.
 - Proficient in developing new approaches for code development and solving limitations.
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
@@ -21,7 +22,7 @@
   - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
   - Voracious reader of [**language-models**](https://paperswithcode.com/)
 - **DevOPs**
-  - Priority Language: Shell, NuShell, Awk, Python, Nodejs
+  - Priority Language: Shell, Awk, Python, GO
   - Code Management: Git, GitKraken.
   - Application deployment: [Docker](https://hub.docker.com/u/gauravcodepro)
   - Orchestration:Terraform, Kubernetes.
