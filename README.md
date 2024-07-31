@@ -2,7 +2,7 @@
 
 👉 **About me** 
 - Open to position on **Plant, Bacterial, Fungal Bioinformatics, Deep Learning including language models,and DevOPs**.
-- If i have applied for your open position then i am surely interested.
+- If i have applied for your open position then i am surely interested as you apply where you are interested and areas of interest.
 - If i have previously applied to your position and not been selected and still open then let me know.
 - Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.
 - [**Must Read: One page description of getting to know your candidate ahead**](https://github.com/gauravcodepro/gauravcodepro/blob/main/aptitude.md)
