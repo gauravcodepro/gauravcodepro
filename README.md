@@ -13,7 +13,7 @@
 - Proficient in developing new approaches for code development and solving limitations.
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.**
   - Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk
-  - Machine/Deep Learning:PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
+  - Machine/Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai.
   - Package Development: Python, Julia, Ruby.
   - API Development using FASTAPI
   - Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro
@@ -45,3 +45,4 @@
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I believe decisions and communication not made in time have no value and importance.
 - I give importance and priority to the people I am working and communicating with.
+- I believe that who is showing results is not fake whereas who is only talking with no results is fake.
