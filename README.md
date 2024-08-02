@@ -5,11 +5,11 @@
   
 **Areas of Interest**
 - All code and ideas concieved and written by me unless specified and i am open to continous development. Proficient in developing new approaches for code development and solving limitations.
-- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Priority Language: Python, R, Ruby, Julia, Javascript, Shell, Awk. Machine/Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. Package Development: Python, Julia, Ruby. API Development using FASTAPI. Documentation: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro. Voracious reader of [**language-models**](https://paperswithcode.com/)
-- **DevOPs**: Priority Language: Shell, Awk, Python, GO. Code Management: Git, GitKraken. Application deployment: [Docker](https://hub.docker.com/u/gauravcodepro). Orchestration:Terraform, Kubernetes. Visualization: Grafana. Database Management: SQlite3, MySQL, MongoDB. HPC management: PBS and SLURM as job scheduler
-- **Web Develpoment**: Priority Language: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
-- **Application Development**: Priority Language: Electron, PyQT
-- **ARCpy**: Priority Language: Python
+- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Python, R, Ruby, Julia, Javascript, Shell, Awk. **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby. API Development using FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro. Voracious reader of [**language-models**](https://paperswithcode.com/)
+- **DevOPs**: Shell, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM as job scheduler
+- **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
+- **Application Development**: Electron, PyQT
+- **ARCpy**: Python, Javascript
 
 **Package/Application Development**
 - [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/gauravcodepro/tairaccession) | [**Graphanalyzer**](https://github.com/gauravcodepro/graphanalyzer) | [**RNAprocessor**](https://github.com/gauravcodepro/rnaprocessor) | [**ProteinAnnotator**](https://github.com/gauravcodepro/protein-annotator) | [**Ontologyanalyzer**](https://github.com/gauravcodepro/ontologyanalyzer)
