@@ -7,7 +7,7 @@
 - All code and ideas concieved and written by me unless specified and i am open to continous development. Proficient in developing new approaches for code development and solving limitations. I am not a language learner, I have developed this over years.
 - I select and drop language as per the position role, if it focussed on analysis, i can drop DevOPs completely and if DevOPs then i keep only 2-3 mainstream programming language.
 - **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Python, R, Ruby, Julia, Javascript, Shell, Awk. **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby. API Development using FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro. Voracious reader of [**language-models**](https://paperswithcode.com/)
-- **DevOPs**: Shell, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM as job scheduler
+- **DevOPs**: Shell, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM 
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
 - **Application Development**: Electron, PyQT
 - **ARCpy**: Python, Javascript
