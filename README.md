@@ -4,13 +4,12 @@
 - Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs. I only apply to areas and places of interest. Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities. [**Must Read: One page description of getting to know your candidate ahead**](https://github.com/gauravcodepro/gauravcodepro/blob/main/aptitude.md). [**Curriculum Vitae**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). [**Employers references**](https://github.com/gauravcodepro/gauravcodepro/blob/main/references.pdf).
   
 **Areas of Interest**
-- All code and ideas concieved and written by me unless specified and i am open to continous development. Proficient in developing new approaches for code development and solving limitations. I am not a language learner, I have developed this over years.
-- I select and drop language as per the position role, if focussed on data analysis and deep learning, i drop DevOPs completely and if DevOPs then i keep only 2-3 mainstream programming language.
-- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Python, R, Ruby, Julia, Javascript, Shell, Awk. **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby. API Development using FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro. Voracious reader of [**language-models**](https://paperswithcode.com/)
+- All code and ideas concieved and written by me unless specified and i am open to continous development. Proficient in learning and solving limitations. I select and drop language as per the position role, if focussed on data analysis and deep learning, i drop DevOPs completely and if DevOPs then i keep only 2-3 mainstream programming language.
+- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Bash, Python, R, Ruby, Julia, Javascript, Awk. **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby. API Development using FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
 - **DevOPs**: Shell, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM 
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
-- **Application Development**: Electron, PyQT
-- **ARCpy**: Python, Javascript
+- **Application Development**: Electron(Javascript), PyQT(Python)
+- **ARC-GIS**: Python, Javascript
 
 **Package/Application Development**
 - [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/gauravcodepro/tairaccession) | [**Graphanalyzer**](https://github.com/gauravcodepro/graphanalyzer) | [**RNAprocessor**](https://github.com/gauravcodepro/rnaprocessor) | [**ProteinAnnotator**](https://github.com/gauravcodepro/protein-annotator) | [**Ontologyanalyzer**](https://github.com/gauravcodepro/ontologyanalyzer)
