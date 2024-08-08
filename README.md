@@ -24,3 +24,4 @@
 - I believe decisions and communication not made in time have no value and importance.
 - I give importance and priority to the people I am working and communicating with.
 - I believe that who is showing results is not fake whereas who is only talking with no results is fake.
+- I am interested in all work and professional related queries on this and not interested in anything else on this platform.
