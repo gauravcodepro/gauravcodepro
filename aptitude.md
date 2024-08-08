@@ -3,6 +3,7 @@
 - A one page description on my work approach, mentality, professionalism, collaboration, associations. You will not find a single deviation from this in my approach and i hate speaking lies and dont speak, so i speak what is there and work on what is approachable and has existence and i dont waste time on imagination/assumption. There are many fake approaches, so I laid down these points so that you dont have to listen, consider anyone thoughts and you have the freedom to make a proper decision as you have the entire liberty after reading this to ask me directly anything. This allows to build a strong work attitude with the prospective employer, which allows to put emphasis on current position, timely work and a proper healthy working environment as employer knows the candidate way of working, approach, mentality ahead.
 
 **Candidate evaluation and staying away from Fake:** This will keep you away from the fake people and fake assumptions and fake thoughts.
+**I am not responsible for anyone likes and dislikes developed/hypothesized/suggested by anyone without talking to me, so dont believe anyone. They are all fake**.
 
 - Like any other person in bioinformatics, application development, and other, I use same tools and define my approaches. If someone approaches and implicit describe that these words, variable declaration, type of variable declaration and other means this without letting me know, kindly let me know and i will tell what is the correct meaning and this will keep you away from the fake people.
 
