@@ -5,7 +5,7 @@
   
 **Areas of Interest**
 - All code and ideas concieved and written by me unless specified and i am open to continous development. Proficient in learning and solving limitations. I select and drop language as per the position role, if focussed on data analysis and deep learning, i drop DevOPs completely and if DevOPs then i keep only 2-3 mainstream programming language.
-- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Bash, Python, R, Ruby, Julia, Javascript, Awk. **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby. API Development using FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
+- **Bioinformatics,Deep Learning,RAG,Language Models and Graphs.** : Bash, Python, R, Ruby, Julia, Javascript, Awk, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
 - **DevOPs**: Shell, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM 
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
 - **Application Development**: Electron(Javascript), PyQT(Python)
